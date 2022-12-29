@@ -1,0 +1,10 @@
+flask
+sqlalchemy
+flask-restful
+flask-sqlalchemy
+sqlalchemy_utils
+flask-migrate
+pymysql
+gunicorn
+flask_marshmallow
+marshmallow-sqlalchemy
