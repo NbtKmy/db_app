@@ -1,6 +1,7 @@
 FROM mysql:8-debian
 
 RUN apt-get update && apt-get -y install cron curl
+RUN mkdir /tmp
 
 # Add crontab file in the cron directory
 ADD ./crons/crontask /etc/cron.d/crontask
