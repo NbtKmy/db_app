@@ -1,9 +1,6 @@
 #!/bin/bash
 
-curl -L 'https://docs.google.com/spreadsheets/d/1WSswTgqGPhKslY4iDD4Z-ZqCP3Il6zV7kNQJVzRdwJw/export?format=csv&gid=0' -o '/docker-entrypoint-initdb.d/creator.csv'
-curl -L 'https://docs.google.com/spreadsheets/d/14YoKQgpIlIWQHrInwvs3w-SqnowpNMuXGRxZRZxRQxc/export?format=csv&gid=0' -o '/docker-entrypoint-initdb.d/database.csv'
-
-loadCreator="LOAD DATA LOCAL INFILE '/tmp/creator.csv' 
+loadCreator="LOAD DATA LOCAL INFILE '/csv_temps/creator.csv' 
             INTO TABLE creator FIELDS TERMINATED BY ',' 
             OPTIONALLY ENCLOSED BY '\"' 
             LINES TERMINATED BY '\n' 
@@ -12,11 +9,30 @@ loadCreator="LOAD DATA LOCAL INFILE '/tmp/creator.csv'
             SET 
             id = @id,
             name_ja = @name_ja,
-            name_en = @name_en,
-            geo = ST_GeomFromText(@geo),
-            altnames = @altnames,
-            wikidata_id = @wikidata_id,
+            name_en = NULLIF(@name_en, ''),
+            geo = IF( @geo = '', NULL, ST_GeomFromText(@geo, 4326)),
+            altnames = NULLIF(@altnames, ''),
+            wikidata_id = NULLIF(@wikidata_id, ''),
             change_date = @change_date"
 
+loadDB="LOAD DATA LOCAL INFILE '/csv_temps/database.csv'
+        INTO TABLE databaselist FIELDS TERMINATED BY ',' 
+        OPTIONALLY ENCLOSED BY '\"' 
+        LINES TERMINATED BY '\n' 
+        IGNORE 1 LINES
+        (@id, @title_ja, @title_en, @creator_id, @ddc_category, @type, @description_ja, @description_en, @url, @change_date, @link_check) 
+        SET
+        id = @id,
+        title_ja = @title_ja,
+        title_en = NULLIF(@title_en, ''),
+        creator_id = NULLIF(@creator_id, ''),
+        ddc_category = @ddc_category,
+        type = @type,
+        description_ja = NULLIF(@description_ja, ''),
+        description_en = NULLIF(@description_en, ''),
+        url = @url,
+        change_date = @change_date,
+        link_check = @link_check"
+
 mysql -uroot -p${MYSQL_ROOT_PASSWORD} --local-infile dblist -e "$loadCreator"
-mysql -uroot -p${MYSQL_ROOT_PASSWORD} --local-infile dblist -e "LOAD DATA LOCAL INFILE '/docker-entrypoint-initdb.d/database.csv' INTO TABLE databaselist FIELDS TERMINATED BY ',' OPTIONALLY ENCLOSED BY '\"' LINES TERMINATED BY '\n' IGNORE 1 LINES"
+mysql -uroot -p${MYSQL_ROOT_PASSWORD} --local-infile dblist -e "$loadDB"

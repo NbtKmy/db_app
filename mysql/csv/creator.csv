@@ -1,0 +1,116 @@
+id,name_ja,name_en,geo,altnames,wikidata_id,change_date
+C00001,DAASコンソーシアム,,,,,2023-01-01
+C00002,David Rumsey and Cartography Associates,David Rumsey and Cartography Associates,,,,2023-01-01
+C00003,Geolonia,Geolonia,,,,2023-01-01
+C00004,Hoover Institution Library & Archives,Hoover Institution Library & Archives,POINT(37.42762595 -122.16696834294805),,Q5898813,2023-01-01
+C00005,Ivy Plus Libraries Confederation ,Ivy Plus Libraries Confederation ,,,,2023-01-01
+C00006,科学技術振興機構,Japan Science and Technology Agency,POINT(35.80097222 139.71958333),JST,Q11595927,2023-01-01
+C00007,Klokan Technologies,Klokan Technologies,,,,2023-01-01
+C00008,Nagasaki Archive制作委員会,,,,,2023-01-01
+C00009,NDLラボ,NDL Lab,,,,2023-01-01
+C00010,Ohio State University Libraries,Ohio State University Libraries,,,Q65070444,2023-01-01
+C00011,SAT大藏經テキストデータベース研究会,,,,,2023-01-01
+C00012,アイヌ民族博物館,Ainu Museum,POINT(42.561388888889 141.36694444444),ポロトコタン,Q10333378,2023-01-01
+C00013,アメリカ議会図書館,Library of Congress,POINT(38.888333333333335 -77.00444444444445),LC,Q131454,2023-01-01
+C00014,ダンスアーカイヴ構想,,,,,2023-01-01
+C00015,デジタル庁,Digital Agency,POINT(35.6799926 139.7357476),,Q107291492,2023-01-01
+C00016,にいがたMALUI連携・地域データベース,,,,,2023-01-01
+C00017,ハワイ大学マノア校図書館,University of Hawaii at Manoa Library,POINT(21.3000372 -157.8186711),,Q73644786,2023-01-01
+C00018,ヒロシマアーカイブ制作委員会,,,,,2023-01-01
+C00019,FLX Style,FLX Style,POINT(35.5148974 139.6338832),,Q115930476,2023-01-01
+C00020,フランス学士院碑文・文芸アカデミー,Académie des Inscriptions et Belles-Lettres,,,Q337526,2023-01-01
+C00021,ぼうずコンニャク,Bouz-Konnyaku,,,,2023-01-01
+C00022,ほぼ日刊イトイ新聞,Hobonichi,,,Q5875192,2023-01-01
+C00023,ロケーションリサーチ,,,,,2023-01-01
+C00024,ワシントン大学図書館,University of Washington Libraries,POINT(47.65575 -122.30786111111111),UW Libraries,Q7896575,2023-01-01
+C00025,上智大学,Sophia University,POINT(35.684166666667 139.73194444444),,Q1153094,2023-01-01
+C00026,上智大学学術研究特別推進費重点領域研究「キリシタン文献類に基づく能楽及び近世初期日本芸能史の研究」,,,,,2023-01-01
+C00027,乃村工藝社,Nomura,,乃村工芸社,Q11368837,2023-01-01
+C00028,京都大学大学院文学研究科日本哲学史専修,,,,,2023-01-01
+C00029,京都府立京都学・歴彩館,"Kyoto Institute, Library and Archives",POINT(35.048611111111114 135.76666666666668),京都学・歴彩館,Q85875943,2023-01-01
+C00030,人文学オープンデータ共同利用センター,Center for Open Data in the Humanities,,CODH,,2023-01-01
+C00031,信州上田学プロジェクト,,,,,2023-01-01
+C00032,古代中世地震史料研究会,,,,,2023-01-01
+C00033,名古屋大学大学院法学研究科・法学部,Nagoya University Graduate School of Law & Faculty of Law,POINT(35.1558712 136.9641163),名古屋大学ロースクール,Q55535539,2023-01-01
+C00034,国土交通省,"Ministry of Land, Infrastructure, Transport and Tourism",POINT(35.6759842 139.7502087),MLIT|国交省,Q1376196,2023-01-01
+C00035,国土地理院,Geospatial Information Authority of Japan,POINT(36.142064 140.043175),Geographical Survey Institute|GSI,Q2986578,2023-01-01
+C00036,国文学研究資料館,National Institute of Japanese Literature,POINT(35.7125 139.40888889),NIJL,Q4346458,2023-01-01
+C00037,国立公文書館,National Archives of Japan,POINT(35.69026111111111 139.75388611111111),NAJ,Q1072875,2023-01-01
+C00038,国立国会図書館,National Diet Library,POINT(35.678333333333 139.74416666667),NDL,Q477675,2023-01-01
+C00039,国立国語研究所,National Institute for Japanese Language and Linguistics,POINT(35.71084 139.40993),,Q4853049,2023-01-01
+C00040,国立情報学研究所データセット共同利用研究開発センター,,,,,2023-01-01
+C00041,国立教育政策研究所教育図書館,,,,,2023-01-01
+C00042,国立文化財機構,National Institutes for Cultural Heritage,,NICH,Q11421271,2023-01-01
+C00043,国立映画アーカイブ,National Film Archive of Japan,POINT(35.675527777778 139.77061111111),NFAJ,Q51371009,2023-01-01
+C00044,国立歴史民俗博物館,National Museum of Japanese History,POINT(35.724497 140.219081),れきはく,Q3330690,2023-01-01
+C00045,国立環境研究所,National Institute for Environmental Studies,POINT(36.050278 140.118639),NIES,Q6973578,2023-01-01
+C00046,国立音楽大学附属図書館,Kunitachi College of Music Library,POINT(35.7320517 139.4126912),,Q111735899,2023-01-01
+C00047,国際日本文化研究センター,International Research Center for Japanese Studies,POINT(34.98805556 135.66694444),日文研|Nichibunken,Q6052724,2023-01-01
+C00048,國學院大学,Kokugakuin University,POINT(35.65563889 139.71163889),国学院大学,Q495330,2023-01-01
+C00049,國學院大學古事記学センター,,,,,2023-01-01
+C00050,地質調査総合センター,Geological Survey of Japan,POINT(36.06348 140.137062),GSJ,Q11424703,2023-01-01
+C00051,大津市立歴史博物館,,,,,2023-01-01
+C00052,太宰ミュージアム運営委員会,,,,,2023-01-01
+C00053,奈良文化財研究所,Nara National Research Institute for Cultural Properties,,奈文研,Q3297691,2023-01-01
+C00054,宗教法人日本ナザレン教団,,,,,2023-01-01
+C00055,宗教法人浄土宗,,,,,2023-01-01
+C00056,実践女子大学・実践女子短期大学部図書館,,,,Q113159612,2023-01-01
+C00057,宮内庁,Imperial Household Agency,,IHA,Q1143602,2023-01-01
+C00058,山形大学附属図書館,,POINT(38.2464513 140.3488832),,Q107006677,2023-01-01
+C00059,岡山県神社庁,,,,,2023-01-01
+C00060,年代流行 ,,,,,2023-01-01
+C00061,弘前大学,,POINT(40.589125 140.47247778),,Q958696,2023-01-01
+C00062,愛荘町,,POINT(35.16877777777778 136.21233333333333),,Q1346806,2023-01-01
+C00063,慶應義塾大学附属研究所斯道文庫,,POINT(35.6492421 139.7428893),,Q113160413,2023-01-01
+C00064,手塚プロダクション,,,,Q2090847,2023-01-01
+C00065,政策研究大学院大学,,,GRIPS,Q2983850,2023-01-01
+C00066,教科書LODプロジェクト,,,,,2023-01-01
+C00067,文化庁,,POINT(35.671111111111 139.74916666667),ACA,Q1009519,2023-01-01
+C00068,文化庁メディア芸術デジタルアーカイブ事業,,,,,2023-01-01
+C00069,新庄市,,POINT(38.765027777777775 140.3016388888889),,Q840603,2023-01-01
+C00070,新聞マンガ研究所,,,,,2023-01-01
+C00071,日本マンガ学会,Japan Society for Studies in Cartoons and Comics,,JSSCC,Q11506959,2023-01-01
+C00072,日本大学文理学部,"College of Humanities and Sciences, Nihon University",,,Q11507848,2023-01-01
+C00073,日本学術振興会,Japan Society for the Promotion of Science,POINT(35.684028 139.734083),JSPS,Q199781,2023-01-01
+C00074,日本民俗学会,Folklore Society of Japan,,,Q109360187,2023-01-01
+C00075,日本美術オーラル・ヒストリー・アーカイヴ,,,,Q48744898,2023-01-01
+C00076,早稲田大学,Waseda University,POINT(35.709202777778 139.71933333333),,Q274486,2023-01-01
+C00077,早稲田大学図書館,Waseda University Library,POINT(35.709 139.719),,Q7971387,2023-01-01
+C00078,明治学院大学図書館,,,,,2023-01-01
+C00079,朝日放送グループホールディングス,Asahi Broadcasting Group Holdings,,ABC|朝日放送,Q1064900,2023-01-01
+C00080,東京国立博物館,Tokyo National Museum,POINT(35.71888888888889 139.7763888888889),東博|トーハク,Q653433,2023-01-01
+C00081,東京大学史料編纂所,Historiographical Institute of the University of Tokyo,POINT(35.71270556 139.76326667),史料編纂所,Q11524667,2023-01-01
+C00082,東京大学地震火山史料連携研究機構,,,,,2023-01-01
+C00083,東京大学大学院・情報学環・学際情報学府,,,,,2023-01-01
+C00084,東京大学大学院情報学環附属社会情報研究資料センター,"Multi-media and Socio-information Studies Archive, the University of Tokyo",,,Q111735290,2023-01-01
+C00085,東京大学学術資産アーカイブ化推進室（附属図書館総務課）,,,,,2023-01-01
+C00086,東京大学総合図書館,University of Tokyo General Library,POINT(35.711389 139.760833),,Q17222926,2023-01-01
+C00087,東京大学附属図書館,University of Tokyo Library,POINT(35.7114 139.761),,Q7896467,2023-01-01
+C00088,東京女子大学,Tokyo Woman's Christian University,POINT(35.710833 139.590556),TWCU,Q1062928,2023-01-01
+C00089,東京学芸大学附属図書館,Tokyo Gakugei University Library,POINT(36.183508333333336 139.825025),,Q107619474,2023-01-01
+C00090,東京都公文書館 ,Tokyo Metropolitan Archives,POINT(35.609167 139.634194),,Q18337459,2023-01-01
+C00091,武蔵野美術大学民俗資料室,,,,,2023-01-01
+C00092,水俣学研究センター,,,,,2023-01-01
+C00093,沖縄タイムス社,,,,,2023-01-01
+C00094,沖縄県立総合教育センター,Okinawa Prefectural Education Center,POINT(26.309306 127.818463),,Q17224433,2023-01-01
+C00095,法隆寺,Hōryū-ji,POINT(34.614275 135.734236),,Q261932,2023-01-01
+C00096,渡邉英徳研究室,,,,,2023-01-01
+C00097,滋賀県立琵琶湖博物館,Lake Biwa Museum,POINT(35.074139 135.934917),びわ博,Q11564667,2023-01-01
+C00098,情報処理推進機構,Information-technology Promotion Agency,,,,2023-01-01
+C00099,琉球大学附属図書館,,,IPA,Q4346801,2023-01-01
+C00100,研究プロジェクト「近代日本の日記文化と自己表象」,,,,,2023-01-01
+C00101,神奈川県立図書館,Kanagawa Prefectural Library,,,Q11589042,2023-01-01
+C00102,金沢文庫,Kanazawa Bunko,POINT(35.34391 139.62875),金澤文庫,Q3192586,2023-01-01
+C00103,福井県立図書館,Fukui Prefectural Library,POINT(36.036944 136.242389),福井県文書館|福井県ふるさと文学館,Q11591469,2023-01-01
+C00104,科学技術・学術政策研究所,National Institute of Science and Technology Policy,POINT(35.671395 139.748626),,Q30266181,2023-01-01
+C00105,立命館大学ゲーム研究センター,,,,,2023-01-01
+C00106,立命館大学図書館,,,,,2023-01-01
+C00107,立教大学,Rikkyo University,POINT(35.73051666666667 139.70395277777777),,Q1143235,2023-01-01
+C00108,観世文庫・観世宗家,,,,,2023-01-01
+C00109,賀茂県主同族会（上賀茂神社）,,,,,2023-01-01
+C00110,共同募金,Central Community Chest of Japan,,赤い羽根共同募金,Q415312,2023-01-01
+C00111,遊廓社会研究会,,,,,2023-01-01
+C00112,関西大学アジア・オープン・リサーチセンター,Kansai University Open Research Center for Asian Studies,,KU-ORCAS,,2023-01-01
+C00113,音声資源コンソーシアム,,,,,2023-01-01
+C00114,鼈澤荘厳山大虚空蔵院佛法紹隆寺,,,,,2023-01-01
+C00115,神奈川県立公文書館,Kanagawa Prefectural Archives,POINT(35.46536111111111 139.521),,Q101251350,2023-01-01
