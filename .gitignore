@@ -130,3 +130,10 @@ dmypy.json
 
 # for Mac
 .DS_Store
+
+# Docker mysql - data & logs folders stay empty
+/mysql/data/*
+!/mysql/data/.gitkeep
+
+/mysql/logs/*
+!/mysql/logs/.gitkeep

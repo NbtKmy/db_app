@@ -1,12 +1,14 @@
 #!/bin/bash
 
+curl -L 'https://docs.google.com/spreadsheets/d/1WSswTgqGPhKslY4iDD4Z-ZqCP3Il6zV7kNQJVzRdwJw/export?format=csv&gid=0' -o /csv_temps/creator.csv
+curl -L 'https://docs.google.com/spreadsheets/d/14YoKQgpIlIWQHrInwvs3w-SqnowpNMuXGRxZRZxRQxc/export?format=csv&gid=0' -o /csv_temps/database.csv
+
 # テーブルの更新は現段階ではtruncateをつかってまるごと交換する。
 # 数が増えたらまたいろいろ考える
 truncateCreator = "TRUNCATE TABLE dblist.creator;"
 truncateDatabase = "TRUNCATE TABLE dblist.databaselist;"
 
-curl -L 'https://docs.google.com/spreadsheets/d/1WSswTgqGPhKslY4iDD4Z-ZqCP3Il6zV7kNQJVzRdwJw/export?format=csv&gid=0' -o /csv_temps/creator.csv
-curl -L 'https://docs.google.com/spreadsheets/d/14YoKQgpIlIWQHrInwvs3w-SqnowpNMuXGRxZRZxRQxc/export?format=csv&gid=0' -o /csv_temps/database.csv
+
 
 loadCreator="LOAD DATA LOCAL INFILE '/csv_temps/creator.csv' 
             INTO TABLE creator FIELDS TERMINATED BY ',' 
@@ -21,9 +23,9 @@ loadCreator="LOAD DATA LOCAL INFILE '/csv_temps/creator.csv'
             geo = IF( @geo = '', NULL, ST_GeomFromText(@geo, 4326)),
             altnames = NULLIF(@altnames, ''),
             wikidata_id = NULLIF(@wikidata_id, ''),
-            change_date = @change_date"
+            change_date = @change_date;"
 
-loadDB = "LOAD DATA LOCAL INFILE '/csv_temps/database.csv'
+loadDB="LOAD DATA LOCAL INFILE '/csv_temps/database.csv'
         INTO TABLE databaselist FIELDS TERMINATED BY ',' 
         OPTIONALLY ENCLOSED BY '\"' 
         LINES TERMINATED BY '\n' 
