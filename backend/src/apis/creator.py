@@ -1,7 +1,14 @@
 from flask_restful import Resource, reqparse, abort
-from flask import jsonify, request
+from flask import jsonify
 from src.models.creator import CreatorModel, CreatorSchema
 from src.database import db
+
+class CreatorAllAPI(Resource):
+
+    def get(self):
+    results = CreatorModel.query.all()
+    jsonData = CreatorSchema(many=True).dump(results).data
+    return jsonify({'items': jsonData})
 
 
 class CreatorAPI(Resource):

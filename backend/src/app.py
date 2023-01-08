@@ -10,7 +10,8 @@ def create_app():
     init_db(app)
 
     api = Api(app)
-    api.add_resource(CreatorAPI, '/creator')
+    api.add_resourc(CreatorAllAPI, '/creator/all')
+    api.add_resource(CreatorAPI, '/creator/search')
 
     return app
 
