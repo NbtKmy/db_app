@@ -32,17 +32,22 @@ class CreatorModel(db.Model):
     change_date = db.Column(db.DateTime)
 
 
-
-    def __init__(self, name, state):
-        self.name = name
-        self.state = state
-
-
-    def __repr__(self):
-        return '<CreatorModel {}:{}>'.format(self.id, self.name)
-
 class CreatorSchema(ma.ModelSchema):
     class Meta:
         model = CreatorModel
 
     change_date = fields.DateTime('%Y-%m-%d')
+    lat = fields.Method('get_lat')
+    lon = fields.Method('get_lon')
+
+    def get_lat(self, obj):
+        x = 6
+        y = obj.geo.index(' ')
+        lat = obj.geo[x:y]
+        return lat
+    
+    def get_lon(self, obj):
+        s = obj.geo.index(' ') + 1
+        t = obj.geo.index(')')
+        lon = obj.geo[s:t]
+        return lon
