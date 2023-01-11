@@ -6,25 +6,24 @@ from src.database import db
 class CreatorAllAPI(Resource):
 
     def get(self):
-    results = CreatorModel.query.all()
-    return jsonify({'creators': CreatorSchema(many=true, exclude=('geo')).dump(results).data})
+        results = CreatorModel.query.all()
+        return jsonify({'creators': CreatorSchema(many=true, exclude=('geo')).dump(results).data})
 
 
 class CreatorAPI(Resource):
-    parser = reqparse.RequestParser()
-    parser.add_argument('id', type = str, location='args')
-    parser.add_argument('name_ja', type = str, location='args')
-    parser.add_argument('name_en', type = str, location='args')
-    altnames = request.args.get('altnames', type = str, location='args')
-
+    
     def get(self):
+        parser = reqparse.RequestParser()
+        parser.add_argument('id', type = str, location='args')
+        parser.add_argument('name_ja', type = str, location='args')
+        parser.add_argument('name_en', type = str, location='args')
+        parser.add_argument('altnames', type = str, location='args')
         args = parser.parse_args()
 
-        creator = db.session.query(CreatorModel).filter_by(id=id).first()
-        if creator is None:
+        results = db.session.query(CreatorModel).filter_by(**args).all()
+        if results is None:
             abort(404)
 
-        res = CreatorSchema().dump(creator).data
-        return res
+        return jsonify({'creators': CreatorSchema(many=true, exclude=('geo')).dump(results).data})
 
 

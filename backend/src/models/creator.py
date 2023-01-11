@@ -1,9 +1,6 @@
-from datetime import datetime
 from flask_marshmallow import Marshmallow
 from flask_marshmallow.fields import fields
-from sqlalchemy_utils import UUIDType
 from src.database import db
-import uuid
 from sqlalchemy import func
 from sqlalchemy.types import UserDefinedType
 
@@ -23,7 +20,7 @@ class Point(UserDefinedType):
 class CreatorModel(db.Model):
     __tablename__ = 'creator'
 
-    id = db.Column(UUIDType(binary=False), primary_key=True, default=uuid.uuid4)
+    id = db.Column(db.String(32), primary_key=True, nullable=False)
     name_ja = db.Column(db.String(128), nullable=False)
     name_en = db.Column(db.String(128))
     geo = db.Column(db.Point)
