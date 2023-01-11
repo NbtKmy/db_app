@@ -38,7 +38,7 @@ class CreatorSchema(ma.ModelSchema):
     lon = fields.Method('get_lon')
 
     def get_lat(self, obj):
-        x = 6
+        x = 6                   # The string 'POINT(' should be removed 
         y = obj.geo.index(' ')
         lat = obj.geo[x:y]
         return lat
