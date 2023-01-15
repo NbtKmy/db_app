@@ -3,6 +3,7 @@ from flask_marshmallow.fields import fields
 from src.database import db
 from sqlalchemy import func
 from sqlalchemy.types import UserDefinedType
+from src.models.databaselist import DatabaselistModel
 
 ma = Marshmallow()
 
@@ -27,6 +28,8 @@ class CreatorModel(db.Model):
     altnames = db.Column(db.String(256))
     wikidata_id = db.Column(db.String(32))
     change_date = db.Column(db.DateTime)
+
+    databases = db.relationship( DatabaselistModel, backref='creator', lazy=True)
 
 
 class CreatorSchema(ma.ModelSchema):
