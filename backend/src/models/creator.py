@@ -39,6 +39,7 @@ class CreatorSchema(ma.ModelSchema):
     change_date = fields.DateTime('%Y-%m-%d')
     lat = fields.Method('get_lat')
     lon = fields.Method('get_lon')
+    databases = fields.Nested(DatabaselistModel, many=True)
 
     def get_lat(self, obj):
         x = 6                   # The string 'POINT(' should be removed 
