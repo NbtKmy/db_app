@@ -3,7 +3,9 @@ from flask import jsonify
 from src.models.databaselist import DatabaselistModel, DatabaselistSchema
 from src.database import db
 
+
 class DatabaselistAllAPI(Resource):
+
 
     def get(self):
         results = DatabaselistModel.query.all()
@@ -14,17 +16,17 @@ class DatabaselistAPI(Resource):
     
     def get(self):
         parser = reqparse.RequestParser()
-        parser.add_argument('id', type = str, default='*', location='args')
-        parser.add_argument('titel_ja', type = str, location='args')
-        parser.add_argument('titel_en', type = str, location='args')
-        parser.add_argument('creator_id', type = str, location='args')
-        parser.add_argument('ddc_category', type = str, location='args')
-        parser.add_argument('type', type = str, location='args')
-        parser.add_argument('description_ja', type = str, location='args')
-        parser.add_argument('description_en', type = str, location='args')
+        parser.add_argument('id', type=str, default='*', location='args')
+        parser.add_argument('titel_ja', type=str, location='args')
+        parser.add_argument('titel_en', type=str, location='args')
+        parser.add_argument('creator_id', type=str, location='args')
+        parser.add_argument('ddc_category', type=str, location='args')
+        parser.add_argument('type', type=str, location='args')
+        parser.add_argument('description_ja', type=str, location='args')
+        parser.add_argument('description_en', type=str, location='args')
 
-        parser.add_argument('page', type = int, default = 1)
-        parser.add_argument('per_page', type = int, default = 20)
+        parser.add_argument('page', type=int, default=1)
+        parser.add_argument('per_page', type=int, default=20)
 
         args = parser.parse_args()
 
