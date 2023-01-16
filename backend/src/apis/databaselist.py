@@ -1,7 +1,7 @@
 from flask_restful import Resource, reqparse, abort
 from flask import jsonify
 from src.models.databaselist import DatabaselistModel, DatabaselistSchema
-from src.database import db
+
 
 
 class DatabaselistAllAPI(Resource):
@@ -36,7 +36,7 @@ class DatabaselistAPI(Resource):
         args_without_page = args.pop('page')
         kwds = args_without_page.pop('per_page')
 
-        results = db.session.query(DatabaselistModel).filter_by(**kwds).order_by(DatabaselistModel.id).all()
+        results = DatabaselistModel.query().filter_by(**kwds).order_by(DatabaselistModel.id).all()
         if results is None:
             abort(404)
 

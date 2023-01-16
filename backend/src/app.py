@@ -10,7 +10,7 @@ def create_app():
     CORS(app)
     app.config.from_object('src.config.Config')
 
-    init_db(app)
+    init_db()
 
     api = Api(app)
     api.add_resource(CreatorAllAPI, '/creator/all')

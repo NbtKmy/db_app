@@ -1,7 +1,7 @@
 from flask_restful import Resource, reqparse, abort
 from flask import jsonify
 from src.models.creator import CreatorModel, CreatorSchema
-from src.database import db
+
 
 class CreatorAllAPI(Resource):
 
@@ -27,7 +27,7 @@ class CreatorAPI(Resource):
 
         args_without_page = args.pop('page')
         kwds = args_without_page.pop('per_page')
-        results = db.session.query(CreatorModel).filter_by(**kwds).order_by(CreatorModel.id).all()
+        results = CreatorModel.query().filter_by(**kwds).order_by(CreatorModel.id).all()
         if results is None:
             abort(404)
 

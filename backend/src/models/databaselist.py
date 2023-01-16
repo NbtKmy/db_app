@@ -1,36 +1,35 @@
+from sqlalchemy import Column, Integer, String, Text, DateTime, ForeignKey
 from flask_marshmallow import Marshmallow
 from flask_marshmallow.fields import fields
-from src.database import db
-from src.models.creator import CreatorSchema
+from src.database import Base
+from .creator import *
 
 
 ma = Marshmallow()
 
 
-class DatabaselistModel(db.Model):
+class DatabaselistModel(Base):
     __tablename__ = 'databaselist'
 
 
-    id = db.Column(db.String(32), primary_key=True, nullable=False)
-    title_ja = db.Column(db.String(128), nullable=False)
-    title_en = db.Column(db.String(128))
-    creator_id = db.Column(db.String(32), db.ForeignKey('creator.id'))
-    ddc_category = db.Column(db.String(32))
-    media_type = db.Column(db.String(64))
-    description_ja = db.Column(db.Text)
-    description_en = db.Column(db.Text)
-    url = db.Column(db.url, nullable=False)
-    change_date = db.Column(db.DateTime)
-    link_check = db.Column(db.String(2))
-
-    
+    id = Column(String(32), primary_key=True, nullable=False)
+    title_ja = Column(String(128), nullable=False)
+    title_en = Column(String(128))
+    creator_id = Column(String(32), ForeignKey('creator.id'))
+    ddc_category = Column(String(32))
+    media_type = Column(String(64))
+    description_ja = Column(Text)
+    description_en = Column(Text)
+    url = Column(String(128), nullable=False)
+    change_date = Column(DateTime)
+    link_check = Column(String(2))
 
 
-
-class DatabaselistSchema(ma.ModelSchema):
+class DatabaselistSchema(ma.SQLAlchemyAutoSchema):
     class Meta:
         model = DatabaselistModel
+        load_instance = True
 
     change_date = fields.DateTime('%Y-%m-%d')
-    creator = fields.Nested(CreatorSchema, only=('name_ja', 'name_en'))
+    creator = fields.Nested('CreatorSchema', only=('name_ja', 'name_en'))
     
