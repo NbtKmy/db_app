@@ -1,6 +1,7 @@
 from flask_marshmallow import Marshmallow
 from flask_marshmallow.fields import fields
 from src.database import db
+from src.models.creator import CreatorSchema
 
 
 ma = Marshmallow()
@@ -22,8 +23,9 @@ class DatabaselistModel(db.Model):
     change_date = db.Column(db.DateTime)
     link_check = db.Column(db.String(2))
 
+    creator = fields.Nested(CreatorSchema, only=('name_ja', 'name_en'))
 
-    
+
 
 class DatabaselistSchema(ma.ModelSchema):
     class Meta:

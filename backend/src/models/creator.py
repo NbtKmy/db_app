@@ -3,7 +3,7 @@ from flask_marshmallow.fields import fields
 from src.database import db
 from sqlalchemy import func
 from sqlalchemy.types import UserDefinedType
-from src.models.databaselist import DatabaselistModel
+from src.models.databaselist import DatabaselistModel, DatabaselistSchema
 
 ma = Marshmallow()
 
@@ -29,7 +29,7 @@ class CreatorModel(db.Model):
     wikidata_id = db.Column(db.String(32))
     change_date = db.Column(db.DateTime)
 
-    databases = db.relationship( DatabaselistModel, backref='creator', lazy=True)
+    databases = db.relationship(DatabaselistModel, backref='creator', lazy=True)
 
 
 class CreatorSchema(ma.ModelSchema):
@@ -39,7 +39,7 @@ class CreatorSchema(ma.ModelSchema):
     change_date = fields.DateTime('%Y-%m-%d')
     lat = fields.Method('get_lat')
     lon = fields.Method('get_lon')
-    databases = fields.Nested(DatabaselistModel, many=True)
+    databases = fields.Nested(DatabaselistSchema, many=True, exculde=('creator_id', 'creator',))
 
     def get_lat(self, obj):
         x = 6                   # The string 'POINT(' should be removed 
