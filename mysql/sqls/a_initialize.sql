@@ -22,7 +22,7 @@ CREATE TABLE dblist.databaselist (
   `title_en` varchar(256),
   `creator_id` varchar(32),
   `ddc_category` varchar(128),
-  `type` varchar(128),
+  `media_type` varchar(128),
   `description_ja` varchar(1024),
   `description_en` varchar(1024),
   `url` varchar(128) NOT NULL,

@@ -16,14 +16,14 @@ class DatabaselistModel(db.Model):
     title_en = db.Column(db.String(128))
     creator_id = db.Column(db.String(32), db.ForeignKey('creator.id'))
     ddc_category = db.Column(db.String(32))
-    type =db.Column(db.String(64))
+    media_type = db.Column(db.String(64))
     description_ja = db.Column(db.Text)
     description_en = db.Column(db.Text)
     url = db.Column(db.url, nullable=False)
     change_date = db.Column(db.DateTime)
     link_check = db.Column(db.String(2))
 
-    creator = fields.Nested(CreatorSchema, only=('name_ja', 'name_en'))
+    
 
 
 
@@ -32,4 +32,5 @@ class DatabaselistSchema(ma.ModelSchema):
         model = DatabaselistModel
 
     change_date = fields.DateTime('%Y-%m-%d')
+    creator = fields.Nested(CreatorSchema, only=('name_ja', 'name_en'))
     

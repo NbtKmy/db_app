@@ -30,14 +30,14 @@ loadDB="LOAD DATA LOCAL INFILE '/csv_temps/database.csv'
         OPTIONALLY ENCLOSED BY '\"' 
         LINES TERMINATED BY '\n' 
         IGNORE 1 LINES
-        (@id, @title_ja, @title_en, @creator_id, @ddc_category, @type, @description_ja, @description_en, @url, @change_date, @link_check) 
+        (@id, @title_ja, @title_en, @creator_id, @ddc_category, @media_type, @description_ja, @description_en, @url, @change_date, @link_check) 
         SET
         id = @id,
         title_ja = @title_ja,
         title_en = NULLIF(@title_en, ''),
         creator_id = NULLIF(@creator_id, ''),
         ddc_category = @ddc_category,
-        type = @type,
+        media_type = @media_type,
         description_ja = NULLIF(@description_ja, ''),
         description_en = NULLIF(@description_en, ''),
         url = @url,
