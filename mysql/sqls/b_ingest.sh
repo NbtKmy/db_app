@@ -36,3 +36,4 @@ loadDB="LOAD DATA LOCAL INFILE '/csv_temps/database.csv'
 
 mysql -uroot -p${MYSQL_ROOT_PASSWORD} --local-infile dblist -e "$loadCreator"
 mysql -uroot -p${MYSQL_ROOT_PASSWORD} --local-infile dblist -e "$loadDB"
+mysql -uroot -p${MYSQL_ROOT_PASSWORD} -e "GRANT ALL PRIVILEGES ON dblist.* TO ${MYSQL_USER}@'%' WITH GRANT OPTION"
