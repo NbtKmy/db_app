@@ -7,7 +7,7 @@ class CreatorAllAPI(Resource):
 
     def get(self):
         results = CreatorModel.query.all()
-        return jsonify({'creators': CreatorSchema(many=True, exclude=('geo')).dump(results).data})
+        return jsonify({'creators': CreatorSchema(many=True, exclude=(['geo'])).dump(results).data})
 
 
 class CreatorAPI(Resource):

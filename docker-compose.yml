@@ -1,20 +1,25 @@
-version: "3"
+version: "3.9"
 services:
   mysql:
     build: ./mysql/
     image: mysql:8-debian
     environment:
-        MYSQL_DATABASE: ${MYSQL_DATABASE}
-        MYSQL_USER: ${MYSQL_USER}
-        MYSQL_PASSWORD: ${MYSQL_PASSWORD}
-        MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
-        DB_HOST: ${DB_HOST}
+      MYSQL_DATABASE: ${MYSQL_DATABASE}
+      MYSQL_USER: ${MYSQL_USER}
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD}
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
+      DB_HOST: ${DB_HOST}
     volumes:
-    - ./mysql/data:/var/lib/mysql
-    - ./mysql/csv:/csv_temps 
-    - ./mysql/sqls:/docker-entrypoint-initdb.d
+      - ./mysql/data:/var/lib/mysql
+      - ./mysql/csv:/csv_temps 
+      - ./mysql/sqls:/docker-entrypoint-initdb.d
     ports:
-    - 3306:3306
+      - 3306:3306
+    expose:
+      - "3306"
+    networks:
+      - app-net
+
   backend:
     build: ./backend/
     ports:
@@ -24,12 +29,15 @@ services:
     tty: true
     environment:
       FLASK_APP: run.py
-      FLASK_ENV: development
       MYSQL_DATABASE: ${MYSQL_DATABASE}
       MYSQL_USER: ${MYSQL_USER}
       MYSQL_PASSWORD: ${MYSQL_PASSWORD}
       MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
       DB_HOST: ${DB_HOST}
     command: flask run -h 0.0.0.0
-    links:
-      - mysql
+    networks:
+      - app-net
+  
+networks:
+  app-net:
+    

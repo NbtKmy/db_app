@@ -4,7 +4,7 @@ import os
 class Config:
 
   # SQLAlchemy
-  SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://{user}:{password}@{host}/{database}?charset=utf8mb4'.format(
+  SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://{user}:{password}@mysql:3306/{database}?charset=utf8mb4'.format(
     **{
       'user': os.getenv('MYSQL_USER'),
       'password': os.getenv('MYSQL_PASSWORD'),

@@ -4,7 +4,7 @@ from sqlalchemy.ext.declarative import declarative_base
 import os
 
 print(os.getenv('MYSQL_USER'))
-SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://{user}:{password}@{host}:3306/{database}?charset=utf8mb4'.format(
+SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://{user}:{password}@mysql:3306/{database}?charset=utf8mb4'.format(
       user = os.getenv('MYSQL_USER'),
       password = os.getenv('MYSQL_PASSWORD'),
       host = os.getenv('DB_HOST'), 

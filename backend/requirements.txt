@@ -3,7 +3,7 @@ sqlalchemy
 flask-restful
 flask-sqlalchemy
 sqlalchemy_utils
-pymysql
+PyMySQL[rsa]
 gunicorn
 flask_marshmallow
 marshmallow-sqlalchemy
