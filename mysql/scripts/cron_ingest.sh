@@ -5,8 +5,8 @@ curl -L 'https://docs.google.com/spreadsheets/d/14YoKQgpIlIWQHrInwvs3w-SqnowpNMu
 
 # テーブルの更新は現段階ではtruncateをつかってまるごと交換する。
 # 数が増えたらまたいろいろ考える
-truncateCreator = "TRUNCATE TABLE dblist.creator;"
-truncateDatabase = "TRUNCATE TABLE dblist.databaselist;"
+truncateCreator = "TRUNCATE TABLE $MYSQL_DATABASE.creator;"
+truncateDatabase = "TRUNCATE TABLE $MYSQL_DATABASE.databaselist;"
 
 
 
@@ -44,5 +44,5 @@ loadDB="LOAD DATA LOCAL INFILE '/csv_temps/database.csv'
         change_date = @change_date,
         link_check = @link_check"
 
-mysql -u${MYSQL_USER} -p${MYSQL_PASSWORD} --local-infile dblist -e"${truncateCreator}${truncateDatabase}${loadCreator}${loadDB}"
+mysql -u${MYSQL_USER} -p${MYSQL_PASSWORD} --local-infile ${MYSQL_DATABASE} -e"${truncateCreator}${truncateDatabase}${loadCreator}${loadDB}"
 

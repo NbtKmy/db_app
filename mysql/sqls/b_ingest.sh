@@ -34,6 +34,6 @@ loadDB="LOAD DATA LOCAL INFILE '/csv_temps/database.csv'
         change_date = @change_date,
         link_check = @link_check"
 
-mysql -uroot -p${MYSQL_ROOT_PASSWORD} --local-infile dblist -e "$loadCreator"
-mysql -uroot -p${MYSQL_ROOT_PASSWORD} --local-infile dblist -e "$loadDB"
-mysql -uroot -p${MYSQL_ROOT_PASSWORD} -e "GRANT ALL PRIVILEGES ON dblist.* TO ${MYSQL_USER}@'%' WITH GRANT OPTION"
+mysql -uroot -p${MYSQL_ROOT_PASSWORD} --local-infile ${MYSQL_DATABASE} -e "$loadCreator"
+mysql -uroot -p${MYSQL_ROOT_PASSWORD} --local-infile ${MYSQL_DATABASE} -e "$loadDB"
+mysql -uroot -p${MYSQL_ROOT_PASSWORD} -e "GRANT ALL PRIVILEGES ON $MYSQL_DATABASE.* TO ${MYSQL_USER}@'%' WITH GRANT OPTION"
