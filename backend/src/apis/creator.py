@@ -39,5 +39,5 @@ class CreatorAPI(Resource):
             'has_next': results.has_next,
             'has_prev': results.has_prev,
             'page_list': [iter_page if iter_page else '...' for iter_page in results.iter_pages()],
-            'creators': CreatorSchema(many=True, exclude=('geo')).dump(results).data})
+            'creators': CreatorSchema(many=True, exclude=(['geo'])).dump(results).data})
 

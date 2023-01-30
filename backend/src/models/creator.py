@@ -69,15 +69,23 @@ class CreatorSchema(ma.SQLAlchemyAutoSchema):
     change_date = fields.DateTime('%Y-%m-%d')
     lat = fields.Method('get_lat')
     lon = fields.Method('get_lon')
-    databases = fields.Nested('DatabaselistSchema', many=True, exculde=('creator_id', 'creator',))
+    databases = fields.Nested('DatabaselistSchema', many=True, exculde=['creator_id', 'creator'])
 
     def get_lat(self, obj):
-        x = 0                   
-        y = obj.geo.index(',')
-        lat = obj.geo[x:y]
-        return lat
+        if obj == None:
+            lat = None
+            return  lat
+        else:
+            x = 0                   
+            y = obj.geo.index(',')
+            lat = obj.geo[x:y]
+            return lat
     
     def get_lon(self, obj):
-        s = obj.geo.index(' ') + 1
-        lon = obj.geo[s:]
-        return lon
+        if obj == None:
+            lon = None
+            return lon
+        else:
+            s = obj.geo.index(' ') + 1
+            lon = obj.geo[s:]
+            return lon
