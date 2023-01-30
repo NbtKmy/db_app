@@ -8,7 +8,7 @@ class Config:
     **{
       'user': os.getenv('MYSQL_USER'),
       'password': os.getenv('MYSQL_PASSWORD'),
-      'host': os.getenv('DB_HOST'), 
+      # 'host': os.getenv('DB_HOST'), 
       'database': os.getenv('MYSQL_DATABASE'),
     })
   SQLALCHEMY_TRACK_MODIFICATIONS = False

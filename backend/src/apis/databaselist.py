@@ -9,7 +9,7 @@ class DatabaselistAllAPI(Resource):
 
     def get(self):
         results = DatabaselistModel.query.all()
-        return jsonify({'databaselist': DatabaselistSchema(many=True).dump(results).data})
+        return jsonify({'databaselist': DatabaselistSchema(many=True).dump(results)})
 
 
 class DatabaselistAPI(Resource):
@@ -46,4 +46,4 @@ class DatabaselistAPI(Resource):
             'has_next': results.has_next,
             'has_prev': results.has_prev,
             'page_list': [iter_page if iter_page else '...' for iter_page in results.iter_pages()],
-            'databases': DatabaselistSchema(many=True).dump(results).data})
+            'databases': DatabaselistSchema(many=True).dump(results)})

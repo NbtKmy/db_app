@@ -72,7 +72,7 @@ class CreatorSchema(ma.SQLAlchemyAutoSchema):
     databases = fields.Nested('DatabaselistSchema', many=True, exculde=['creator_id', 'creator'])
 
     def get_lat(self, obj):
-        if obj == None:
+        if (obj.geo is None):
             lat = None
             return  lat
         else:
@@ -82,7 +82,7 @@ class CreatorSchema(ma.SQLAlchemyAutoSchema):
             return lat
     
     def get_lon(self, obj):
-        if obj == None:
+        if (obj.geo is None):
             lon = None
             return lon
         else:
