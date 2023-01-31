@@ -1,5 +1,5 @@
 from flask_restful import Resource, reqparse, abort
-from flask import jsonify
+from flask import jsonify, request
 from src.models.creator import CreatorModel, CreatorSchema
 
 
@@ -13,6 +13,7 @@ class CreatorAllAPI(Resource):
 class CreatorAPI(Resource):
     
     def get(self):
+        '''
         parser = reqparse.RequestParser()
         parser.add_argument('id', type = str, default = '*', location='args')
         parser.add_argument('name_ja', type = str, location='args')
@@ -27,7 +28,14 @@ class CreatorAPI(Resource):
 
         args_without_page = args.pop('page')
         kwds = args_without_page.pop('per_page')
-        results = CreatorModel.query().filter_by(**kwds).order_by(CreatorModel.id).all()
+        '''
+        kwds_dict = request.args
+        page = kwds_dict.get('page', default=1)
+        per_page = kwds_dict.args.get('per_page', default=20)
+
+        kwds_dict.pop('page', default=None)
+        kwds_dict.pop('per_page', default=None)
+        results = CreatorModel.query().filter_by(**kwds_dict).order_by(CreatorModel.id).all()
         if results is None:
             abort(404)
 
