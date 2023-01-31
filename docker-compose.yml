@@ -19,6 +19,10 @@ services:
       - "3306"
     networks:
       - app-net
+    healthcheck:
+      test: ["CMD", "mysqladmin" ,"ping", "-h", "localhost"]
+      timeout: 30s
+      retries: 10
 
   backend:
     build: ./backend/
@@ -37,6 +41,10 @@ services:
     command: flask run -h 0.0.0.0
     networks:
       - app-net
+    depends_on:
+      mysql:
+        condition: service_healthy
+
   
 networks:
   app-net:
