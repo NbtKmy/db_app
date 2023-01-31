@@ -1,251 +1,251 @@
-ID,title_ja,title_en,creator_id,DDC_category,media_type,description_ja,description_en,URI,link_check_date,link_check_result
-D00001,朝鮮写真絵はがきデータベース,,C00047,900,image,山本俊介氏(元高麗美術館研究員、京都市)が所蔵する、1900～1940年代に発行された朝鮮写真絵はがき等を、書誌情報を基にデータベース化したもの。,"Photo picture postcards of Korea published 1900–1940 (collection of Yamamoto Shunsuke, Kyoto; former researcher at the Koryo Museum of Art, Kyoto) are presented in digital format together with publication data and other details.",http://kutsukake.nichibun.ac.jp/CHO/index.html?page=1,31.12.2022,OK
-D00002,近世期絵入百科事典,,C00047,"000, 900",image,近世期に出版された絵入百科事典を対象としたデータベース。『訓蒙図彙（きんもうずい）』をはじめとした「訓蒙図彙もの」、また事物に対する名称と図が含まれている書物を対象とする。,A database of illustrated encyclopedias published in early modern Japan. Includes Kinmōzui (1666) and other “Kinmōzui”-type encylopedias as well as books with pictorial and diagramed information.,https://kutsukake.nichibun.ac.jp/EHJ/,31.12.2022,OK
-D00003,所蔵地図データベース,,C00047,900,image,近世の都市地図を中心に、地図資料の所在情報を収録。日文研所蔵地図については、画像データを付加。,"Contains information on the whereabouts of old maps, mainly urban maps made in early modern Japan. Images attached for maps in the Nichibunken collection.",https://lapis.nichibun.ac.jp/chizu/,31.12.2022,OK
-D00004,Great Kanto Earthquake Japan of September 1923,関東大震災写真集,C00017,900,still image,関東大震災の写真資料199葉をデジタル化しウェブサイトで公開したもの。テーマなどによるブラウジングとキーワード検索が可能。,"The Great Kanto Earthquake 関東大震災写真集 site contains 199 images, which were scanned from black & white still photos matted on a black background. The album may be supplemental materials to the publication: The Great earthquake of September 1st, 1923: a record from the reports of the ""Japan Chronicle"" of the destruction of Yokohama and Tokyo and the other ravages wrought. Kobe: Japan Chronicle Office. OCLC: 768291265. The report has been digitized and accessible from the National Library of Australia site. This project was funded by the UHM Library and the National Research Center, East Asia grant.",https://digicoll.manoa.hawaii.edu/earthquake/,31.12.2022,OK
-D00005,蔵書印データベース,,C00036,000,"bibliography,still image",国文学研究資料館所蔵の和古書目録を参照した印文情報を元に、原本にあたって蔵印情報を更新しつつ印影を蓄積したもの。さらに、他館所蔵資料の蔵書印情報や、数種の蔵書印譜から蔵書印を採録する等して、多様かつ多彩な情報を提供するデータベース。,,http://base1.nijl.ac.jp/~collectors_seal/,31.12.2022,OK
-D00006,鴎外文庫書入本画像データベース,,C00087,"800, 000","bibliography,still image",東京大学総合図書館所蔵資料で、森鴎外旧蔵書である「鴎外文庫」のうち、鴎外自筆の写本や、鴎外本人による書き込みなどがある資料の画像データベース。,,http://rarebook.dl.itc.u-tokyo.ac.jp/ogai/,31.12.2022,OK
-D00007,Japanese Multi-Volume Titles Finding Aid Collection: Recent submissions,,C00024,000,"bibliography, still image",多巻セット索引,Japanese Multi-Volume Sets Discoverability Improvement,https://digital.lib.washington.edu/researchworks/handle/1773/42610/recent-submissions,31.12.2022,OK
-D00008,データベース「日本と世界」,,C00065,000,other,条約、演説等1854年から現在まで,"Conventions, speeches, and other materials from 1854 up to now",https://worldjpn.net/,31.12.2022,OK
-D00009,海外源氏情報,Genji overseas,,800,text,海外における源氏研究情報,Research information on the Genji monogatari outside of Japan,http://genjiito.org/,31.12.2022,OK
-D00010,祭魚洞文庫旧蔵水産史料,,C00036,900,"bibliography, still image",祭魚洞文庫旧蔵水産史料は、日本全国から収集した水産関連史料群。史料群の書誌情報や所在のほか、一部デジタル化された史料もみられる。,,http://base1.nijl.ac.jp/infolib/meta_pub/G000000252700,31.12.2022,OK
-D00011,明治期出版広告データベース,Publishing and Advertisement Database of Meiji Era,C00036,"300, 900","bibliography, still image",明治前期の新聞・雑誌に出版された広告を集めたデータベース。書誌情報の他、一部デジタル資料も閲覧できる。,Database for ads that are published in newspapers and magazines during the early Meiji Era. It contains bibliographic information. Some digital images can also be viewed there.,http://base1.nijl.ac.jp/~meiji_pa/,31.12.2022,OK
-D00012,日本古典文学大系本文データベース,,C00036,800,text,岩波書店刊行の旧版「日本古典文学大系」の556作品について、 全文検索が可能なデータベース。学術利用に限られる。,"Database of the previos edition of ""Nihon Koten Bungaku Taikei"" (published by Iwanami Shoten). Full-text search is possible. Limited to academic use.",http://base1.nijl.ac.jp/~nkbthdb/,31.12.2022,OK
-D00013,収蔵歴史アーカイブズデータベ－ス,,C00036,"000, 900",bibliography,日本全国の近世・近現代の古文書や記録類、モノ資料などの書誌情報、所蔵情報、資料目録などを検索できるデータベース。資料目録は一部PDFで閲覧できる。,,http://base5.nijl.ac.jp/~archicol/,31.12.2022,OK
-D00014,歴史人物画像データベース,,C00036,900,still image,歴史人物の画像データを見ることができる,Digital images of historical persons can be viewed in this database.,http://base1.nijl.ac.jp/~rekijin/,31.12.2022,OK
-D00015,近代語のコーパス,,C00039,400,other,近代日本語のコーパス。現時点（２０１８年１０月）で『太陽コーパス』『近代女性雑誌コーパス』『明六雑誌コーパス』『国民之友コーパス』が公開されている。『近代女性雑誌コーパス』『明六雑誌コーパス』『国民之友コーパス』に関してはデータ・セットとしてWebからダウンロードが可能。クリエイティブ・コモンズ BY-NC-NDなどで利用制限があるので、利用の際には各コーパスの利用条件を参照のこと。,,https://clrd.ninjal.ac.jp/cmj/,31.12.2022,OK
-D00016,日本語歴史コーパス,,C00039,400,dataset,日本語史研究の基礎資料として開発されているコーパス。オンライン検索ツール「中納言」をつかって利用が可能となっている。,"Corpus, which has been developed as a basic data of Japanese history research. By using a onlie search tool ""Chunagon"" has become possible to use.",https://clrd.ninjal.ac.jp/chj/,31.12.2022,OK
-D00017,在欧博物館等保管日本仏教美術資料データベース,Japanese Buddhist Art in European Collections,,"200, 700","bibliography, still image",欧州の博物館などに収蔵されている仏教美術を検索できるデータベース,"This database covers the categories (sculpture, painting, calligraphy/manuscripts, ritual objects, textiles, ofuda) with in the field of Japanese Buddhist objects from European museums. Some entries have also digital images of artefacts.",https://aterui.ws.hosei.ac.jp/jbae/,31.12.2022,OK
+id,title_ja,title_en,creator_id,ddc_category,media_type,description_ja,description_en,url,change_date,link_check_result
+D00001,朝鮮写真絵はがきデータベース,,C00047,900,image,山本俊介氏(元高麗美術館研究員、京都市)が所蔵する、1900～1940年代に発行された朝鮮写真絵はがき等を、書誌情報を基にデータベース化したもの。,"Photo picture postcards of Korea published 1900–1940 (collection of Yamamoto Shunsuke, Kyoto; former researcher at the Koryo Museum of Art, Kyoto) are presented in digital format together with publication data and other details.",http://kutsukake.nichibun.ac.jp/CHO/index.html?page=1,2023-01-02,OK
+D00002,近世期絵入百科事典,,C00047,"000, 900",image,近世期に出版された絵入百科事典を対象としたデータベース。『訓蒙図彙（きんもうずい）』をはじめとした「訓蒙図彙もの」、また事物に対する名称と図が含まれている書物を対象とする。,A database of illustrated encyclopedias published in early modern Japan. Includes Kinmōzui (1666) and other “Kinmōzui”-type encylopedias as well as books with pictorial and diagramed information.,https://kutsukake.nichibun.ac.jp/EHJ/,2023-01-02,OK
+D00003,所蔵地図データベース,,C00047,900,image,近世の都市地図を中心に、地図資料の所在情報を収録。日文研所蔵地図については、画像データを付加。,"Contains information on the whereabouts of old maps, mainly urban maps made in early modern Japan. Images attached for maps in the Nichibunken collection.",https://lapis.nichibun.ac.jp/chizu/,2023-01-02,OK
+D00004,Great Kanto Earthquake Japan of September 1923,関東大震災写真集,C00017,900,still image,関東大震災の写真資料199葉をデジタル化しウェブサイトで公開したもの。テーマなどによるブラウジングとキーワード検索が可能。,"The Great Kanto Earthquake 関東大震災写真集 site contains 199 images, which were scanned from black & white still photos matted on a black background. The album may be supplemental materials to the publication: The Great earthquake of September 1st, 1923: a record from the reports of the ""Japan Chronicle"" of the destruction of Yokohama and Tokyo and the other ravages wrought. Kobe: Japan Chronicle Office. OCLC: 768291265. The report has been digitized and accessible from the National Library of Australia site. This project was funded by the UHM Library and the National Research Center, East Asia grant.",https://digicoll.manoa.hawaii.edu/earthquake/,2023-01-01,OK
+D00005,蔵書印データベース,,C00036,000,"bibliography,still image",国文学研究資料館所蔵の和古書目録を参照した印文情報を元に、原本にあたって蔵印情報を更新しつつ印影を蓄積したもの。さらに、他館所蔵資料の蔵書印情報や、数種の蔵書印譜から蔵書印を採録する等して、多様かつ多彩な情報を提供するデータベース。,,http://base1.nijl.ac.jp/~collectors_seal/,2023-01-09,OK
+D00006,鴎外文庫書入本画像データベース,,C00087,"800, 000","bibliography,still image",東京大学総合図書館所蔵資料で、森鴎外旧蔵書である「鴎外文庫」のうち、鴎外自筆の写本や、鴎外本人による書き込みなどがある資料の画像データベース。,,http://rarebook.dl.itc.u-tokyo.ac.jp/ogai/,2023-01-09,OK
+D00007,Japanese Multi-Volume Titles Finding Aid Collection: Recent submissions,,C00024,000,"bibliography, still image",多巻セット索引,Japanese Multi-Volume Sets Discoverability Improvement,https://digital.lib.washington.edu/researchworks/handle/1773/42610/recent-submissions,2023-01-09,OK
+D00008,データベース「日本と世界」,,C00065,000,other,条約、演説等1854年から現在まで,"Conventions, speeches, and other materials from 1854 up to now",https://worldjpn.net/,2023-01-01,OK
+D00009,海外源氏情報,Genji overseas,,800,text,海外における源氏研究情報,Research information on the Genji monogatari outside of Japan,http://genjiito.org/,2023-01-16,OK
+D00010,祭魚洞文庫旧蔵水産史料,,C00036,900,"bibliography, still image",祭魚洞文庫旧蔵水産史料は、日本全国から収集した水産関連史料群。史料群の書誌情報や所在のほか、一部デジタル化された史料もみられる。,,http://base1.nijl.ac.jp/infolib/meta_pub/G000000252700,2023-01-16,OK
+D00011,明治期出版広告データベース,Publishing and Advertisement Database of Meiji Era,C00036,"300, 900","bibliography, still image",明治前期の新聞・雑誌に出版された広告を集めたデータベース。書誌情報の他、一部デジタル資料も閲覧できる。,Database for ads that are published in newspapers and magazines during the early Meiji Era. It contains bibliographic information. Some digital images can also be viewed there.,http://base1.nijl.ac.jp/~meiji_pa/,2023-01-16,OK
+D00012,日本古典文学大系本文データベース,,C00036,800,text,岩波書店刊行の旧版「日本古典文学大系」の556作品について、 全文検索が可能なデータベース。学術利用に限られる。,"Database of the previos edition of ""Nihon Koten Bungaku Taikei"" (published by Iwanami Shoten). Full-text search is possible. Limited to academic use.",http://base1.nijl.ac.jp/~nkbthdb/,2023-01-01,OK
+D00013,収蔵歴史アーカイブズデータベ－ス,,C00036,"000, 900",bibliography,日本全国の近世・近現代の古文書や記録類、モノ資料などの書誌情報、所蔵情報、資料目録などを検索できるデータベース。資料目録は一部PDFで閲覧できる。,,http://base5.nijl.ac.jp/~archicol/,2023-01-23,OK
+D00014,歴史人物画像データベース,,C00036,900,still image,歴史人物の画像データを見ることができる,Digital images of historical persons can be viewed in this database.,http://base1.nijl.ac.jp/~rekijin/,2023-01-23,OK
+D00015,近代語のコーパス,,C00039,400,other,近代日本語のコーパス。現時点（２０１８年１０月）で『太陽コーパス』『近代女性雑誌コーパス』『明六雑誌コーパス』『国民之友コーパス』が公開されている。『近代女性雑誌コーパス』『明六雑誌コーパス』『国民之友コーパス』に関してはデータ・セットとしてWebからダウンロードが可能。クリエイティブ・コモンズ BY-NC-NDなどで利用制限があるので、利用の際には各コーパスの利用条件を参照のこと。,,https://clrd.ninjal.ac.jp/cmj/,2023-01-23,OK
+D00016,日本語歴史コーパス,,C00039,400,dataset,日本語史研究の基礎資料として開発されているコーパス。オンライン検索ツール「中納言」をつかって利用が可能となっている。,"Corpus, which has been developed as a basic data of Japanese history research. By using a onlie search tool ""Chunagon"" has become possible to use.",https://clrd.ninjal.ac.jp/chj/,2023-01-01,OK
+D00017,在欧博物館等保管日本仏教美術資料データベース,Japanese Buddhist Art in European Collections,,"200, 700","bibliography, still image",欧州の博物館などに収蔵されている仏教美術を検索できるデータベース,"This database covers the categories (sculpture, painting, calligraphy/manuscripts, ritual objects, textiles, ofuda) with in the field of Japanese Buddhist objects from European museums. Some entries have also digital images of artefacts.",https://aterui.ws.hosei.ac.jp/jbae/,2023-01-30,OK
 D00018,日本アニメーション映画クラシックス,Japanese Animated Film Classics,C00043,700,video,"東京国立近代美術館フィルムセンター(現国立映画アーカイブ)が所蔵しているフィルムや資料をデジタル化したものを公開している。日本の初期アニメーションを動画としてみられる。
-",Database created by the National Film Center Tokyo (now the National Film Archive). Digitized materials such as old films and other resources can be viewed. The early Japanese animation flims are also there.,http://animation.filmarchives.jp/en/index.html,31.12.2022,OK
-D00019,鯰絵コレクション,,C00047,"200, 700, 900",still image,日文研が所蔵する鯰絵のコレクション。「鯰絵」とは、地底に住む大鯰が地震を起こすという伝説をテーマに描かれた錦絵である。,,http://shinku.nichibun.ac.jp/namazu/ichiran.php,31.12.2022,OK
+",Database created by the National Film Center Tokyo (now the National Film Archive). Digitized materials such as old films and other resources can be viewed. The early Japanese animation flims are also there.,http://animation.filmarchives.jp/en/index.html,2023-01-30,OK
+D00019,鯰絵コレクション,,C00047,"200, 700, 900",still image,日文研が所蔵する鯰絵のコレクション。「鯰絵」とは、地底に住む大鯰が地震を起こすという伝説をテーマに描かれた錦絵である。,,http://shinku.nichibun.ac.jp/namazu/ichiran.php,2023-01-30,OK
 D00020,国会会議録・政府関係会議議事録等メタデータセット,,C00104,300,dataset,"ここで提供されるメタデータセットには、国会会議録のメタデータ約2万件と、*.go.jp ドメインを持つ組織の議事録・議事概要のメタデータ約2万5000件の情報がcvs形式（UTF8）のデータに収録されている。
-これを用いることで、審議会や委員会の議事録を探す作業が容易になる、あるいは、議事録のデータを用いた分析等の研究を、より効率的に推進できる、といった可能性がある。",,http://www.nistep.go.jp/archives/35962,31.12.2022,OK
-D00021,ひなぎく 国立国会図書館東日本大震災アーカイブ,Hinagiku National Diet Library Great East Japan Earthquake Archive,C00038,000,"text, still image, video, sound",東日本大震災に関する記録、音声、動画、画像などを収集し検索できるようにしたウェブ・アーカイブ,,http://kn.ndl.go.jp/#/,31.12.2022,OK
+これを用いることで、審議会や委員会の議事録を探す作業が容易になる、あるいは、議事録のデータを用いた分析等の研究を、より効率的に推進できる、といった可能性がある。",,http://www.nistep.go.jp/archives/35962,2023-01-01,OK
+D00021,ひなぎく 国立国会図書館東日本大震災アーカイブ,Hinagiku National Diet Library Great East Japan Earthquake Archive,C00038,000,"text, still image, video, sound",東日本大震災に関する記録、音声、動画、画像などを収集し検索できるようにしたウェブ・アーカイブ,,http://kn.ndl.go.jp/#/,2023-01-01,OK
 D00022,近代文学,,C00006,800,journal article,"総合学術ジャーナルサイト「J-STAGE」では、国内で発行された学術論文の全文を読むことができ、PDF形式でダウンロードできる。自分専用の論文情報ライブラリを作成することもできる。
 「宮沢賢治」のキーワードで９４３件の論文が該当。
 「夏目漱石」１６０１件、「森鴎外」９４２件、「芥川龍之介」１２４９件、「島崎藤村」６１９件、「樋口一葉」１７９件等。
 すべてが同一の作者について書いた論文ではなく、他の作者に関する論文も含んでいるが、大量の論文を読むことができる。資料の形態を絞らないほうが、雑誌記事等も入手できる。
-",,https://www.jstage.jst.go.jp/browse/-char/ja/,31.12.2022,OK
-D00023,近代文学,,C00036,800,"bibliography, still image",「近代文学」というキーワードで、「学問ノススメ」等５０件の書誌と画像を見ることができる。画像には、表紙画像や本文の画像が数枚含まれる。全文を読むことはできない。「宮沢賢治」で検索すると、「春と修羅」の表紙・蔵書印・奥付などを見ることができる。近代文学の書籍の装丁などを知りたい人に向く。,,https://www.nijl.ac.jp/search-find/#database,31.12.2022,OK
+",,https://www.jstage.jst.go.jp/browse/-char/ja/,2023-01-01,OK
+D00023,近代文学,,C00036,800,"bibliography, still image",「近代文学」というキーワードで、「学問ノススメ」等５０件の書誌と画像を見ることができる。画像には、表紙画像や本文の画像が数枚含まれる。全文を読むことはできない。「宮沢賢治」で検索すると、「春と修羅」の表紙・蔵書印・奥付などを見ることができる。近代文学の書籍の装丁などを知りたい人に向く。,,https://www.nijl.ac.jp/search-find/#database,2023-01-01,OK
 D00024,メディア芸術データベース,,C00068,700,"text, bibliography","マンガ、アニメーション、ゲーム、メディアアートの4種類の検索が可能。その内容は、マンガ:単行本（明治初期かは2016年12月までの刊行物）と雑誌（明治初期かは2016年12月までの刊行物）を作品名、雑誌名、著者名などの条件に絞って検索が可能。また詳細検索（単行本、雑誌、資料）でも検索が可能である。検索項目をクリックすれば、そのキーワードから何が探せるかを教えてくれる。また、アニメーションも同様にタイトル、監督、制作、製作から作品を探すことができる。その際、それがテレビで放映されたものなのか、また劇場版のものなのかも詳細に検索ができる。ポケモン（✳︎「ポケットモンスター」を略称の「ポケモンで検索しても問題はなかった）などの長期作品を調べるのに便利である。
 さらにゲームはタイトル検索のほかに年表形式でも検索が可能。
 メディアアートは1951年から2016年に開催された関連する展覧会やイベントの情報を知ることができる。
 
-様々な言語に対応しているため海外の方でも検索が容易であると考えられる。",,https://mediaarts-db.bunka.go.jp/?display_view=pc&locale=ja,31.12.2022,OK
+様々な言語に対応しているため海外の方でも検索が容易であると考えられる。",,https://mediaarts-db.bunka.go.jp/?display_view=pc&locale=ja,2023-01-01,OK
 D00025,マンガ関連書籍検索,,C00071,700,bibliography,"評論書を書名、著者名、出版社名、内容/キーワード、所蔵機関と細かく検索が可能であり、マンガ研究をする際に役にたつと考えられる。
 また、分類での検索も可能である。
 例えば「書名検索」にて「ドラゴンボール」と入力して検索してみると、その言葉か含まれた書名とその他詳細情報が出版年順に表示された。
-作品によっては目次が表示されるものもあるため、その内容を知ることができる。",,http://akitanet.main.jp/book_search/search.html,31.12.2022,OK
+作品によっては目次が表示されるものもあるため、その内容を知ることができる。",,http://akitanet.main.jp/book_search/search.html,2023-01-01,OK
 D00026,手塚治虫 TEZUKA OSAMU OFFICIAL,マンガ,C00064,700,"bibliography, still image, video","手塚治虫公式サイトの「マンガ」のページである。
 漫画の神様と呼ばれる手塚治虫の残した文化的業績(マンガ、アニメ)を簡単に閲覧でき、日本のマンガについて知る大きな手助けになると考えられる。
-各漫画の内容を書誌情報だけでなく実際のマンガも同時に閲覧ができる。さらに、アニメ化されている作品であれば動画を見ることのできるページへとべるリンクも貼られている。",,https://tezukaosamu.net/jp/manga/,31.12.2022,OK
+各漫画の内容を書誌情報だけでなく実際のマンガも同時に閲覧ができる。さらに、アニメ化されている作品であれば動画を見ることのできるページへとべるリンクも貼られている。",,https://tezukaosamu.net/jp/manga/,2023-01-01,OK
 D00027,手塚治虫 TEZUKA OSAMU OFFICIAL,キャラクター,C00064,700,"bibliography, still image","手塚治虫の残した文化的業績(マンガ、アニメ)を簡単に閲覧できる。
 「マンガの神様」と呼ばれた手塚治虫の生み出したキャラクターを通して日本のマンガについて知ることができる。
-「キャラクター」のページでは各キャラクターの特徴だけでなく、それらの持つメッセージについても書かれているため当時の時代背景(状況)も知ることができると考えられる。",,https://tezukaosamu.net/jp/character/,31.12.2022,OK
-D00028,日本マンガ・文化論 マンガ文化の歴史/日本編マンガの歴史,,,700,still image,日本のマンガの歴史とその変遷を知ることができる。出版年別に当時の流行や時代背景が分かりやすくまとめられている。画像が添付されているためどのような漫画であるかイメージがしやすく分かりやすいと考えられる。,,http://www.geocities.jp/laugh_man_is/sampl2.htm,31.12.2022,OK
+「キャラクター」のページでは各キャラクターの特徴だけでなく、それらの持つメッセージについても書かれているため当時の時代背景(状況)も知ることができると考えられる。",,https://tezukaosamu.net/jp/character/,2023-01-01,OK
+D00028,日本マンガ・文化論 マンガ文化の歴史/日本編マンガの歴史,,,700,still image,日本のマンガの歴史とその変遷を知ることができる。出版年別に当時の流行や時代背景が分かりやすくまとめられている。画像が添付されているためどのような漫画であるかイメージがしやすく分かりやすいと考えられる。,,http://www.geocities.jp/laugh_man_is/sampl2.htm,2023-01-01,OK
 D00029,年代別流行,名作アニメ,C00060,700,"still image, video","年代別で当時流行していたアニメの内容と画像、映像(全てではない)を閲覧できる。
 時代別の流行を知ることで、流行の移り変わる速さや内容を予測できる可能性が生まれる。また、新しい物を作り出す参考、きっかけにもなるだろう。
-",,https://nendai-ryuukou.com/anime.html,31.12.2022,OK
+",,https://nendai-ryuukou.com/anime.html,2023-01-01,OK
 D00030,民俗資料データベース,,C00091,900,still image,"・総点９万点を超える日本の生活造形資料
 ・郷土玩具や信仰資料などの資料カテゴリーからの検索、収集地や素材などからの検索が可能
 ・海外で収集された資料も含まれるので絞り込み検索を活用するのが良い
-",,http://collections.musabi.ac.jp/search_folk/,31.12.2022,OK
+",,http://collections.musabi.ac.jp/search_folk/,2023-01-01,OK
 D00031,古典画像にみる生活百景,100 Life Scenes in Classical Painting,,900,still image,"日本の古典画像に描かれた生活の光景を選び、コメントを添えて収録。
 画像はすべてインターネットでデジタル公開されているものであり、リンクが添えられている。
-",,http://people.ucalgary.ca/~xyang/hp/hp.html,31.12.2022,OK
+",,http://people.ucalgary.ca/~xyang/hp/hp.html,2023-01-01,OK
 D00032,民俗語彙データベース,,C00044,900,text,"・柳田國男の指導によって収集した語彙を記録した綜合日本民俗語彙を中心に、その他の民族語彙を加え、検索を可能にしたデータベース。
 ・現在入力されている語彙数は35,239件
 ・入力フォームの種類が豊富。（見出し語、出典、地名、意味など）
-",,https://www.rekihaku.ac.jp/up-cgi/login.pl?p=param/goi/db_param,31.12.2022,OK
+",,https://www.rekihaku.ac.jp/up-cgi/login.pl?p=param/goi/db_param,2023-01-01,OK
 D00033,俗信データベース,,C00044,900,text,"・日本の俗信について検索・閲覧できる。
 ・（身体・病編）（動植物編）合わせて現在の収録数は４万８千件余り。
 ・フリーワード・伝承地・呼称で検索することができ、検索対象を身体、病、その他などに分けて検索対象を絞ることができる。また、身体一覧、病一覧などもあり、具体的な検索語を知らなくても検索しやすい。
-",,https://www.rekihaku.ac.jp/doc/zoku.html,31.12.2022,OK
+",,https://www.rekihaku.ac.jp/doc/zoku.html,2023-01-01,OK
 D00034,日本民俗学学会・機関誌情報検索システム,,C00074,900,bibliography,"・『日本民俗学』（256号まで）と『日本民俗学会報』、以前の学会機関誌である旧『日本民俗学』『民間伝承』に所収の論文・研究ノート等のタイトルが検索できる。
 ・日本民俗学会という信頼性の高い作成者によるデータベースなので研究・論文に活用しやすい。
-",,http://www.fsjnet.jp/cgi-bin/periodical/index.cgi,31.12.2022,OK
+",,http://www.fsjnet.jp/cgi-bin/periodical/index.cgi,2023-01-01,OK
 D00035,近代文学,太宰Web文庫（太宰ミュージアム）,C00052,800,"text, bibliography","・太宰治の小説を閲覧できる．
 　タイトルが五十音順に表示され，１つを選択すると，まずその書
     誌が示される．「作品を読む」をクリックすると，テキストを読
     むことができる．
 ・ホームに「太宰を知る」「奥津軽観光」のページがあり，作者の
-    生い立ちや故郷について知ることができる．",,dazai.or.jp/modules/contents/novel.html,31.12.2022,OK
-D00036,果物情報サイト　果物ナビ,,,300,"text, still image",果物が写真付きで紹介されている。その果物の分類や原産地などの基礎データに加え、旬や種類、歴史、主な栄養素や効能なども紹介されている。,,https://www.kudamononavi.com/,31.12.2022,OK
-D00037,市場魚介類図鑑,,C00021,300,"text, still image",魚や貝の分類、外国名や学名、生息域や旬が写真付きで紹介されている。それらの基本情報に加え、日本で呼ばれている地方名や市場名についても紹介されている。,,https://www.zukan-bouz.com/,31.12.2022,OK
+    生い立ちや故郷について知ることができる．",,dazai.or.jp/modules/contents/novel.html,2023-01-01,OK
+D00036,果物情報サイト　果物ナビ,,,300,"text, still image",果物が写真付きで紹介されている。その果物の分類や原産地などの基礎データに加え、旬や種類、歴史、主な栄養素や効能なども紹介されている。,,https://www.kudamononavi.com/,2023-01-01,OK
+D00037,市場魚介類図鑑,,C00021,300,"text, still image",魚や貝の分類、外国名や学名、生息域や旬が写真付きで紹介されている。それらの基本情報に加え、日本で呼ばれている地方名や市場名についても紹介されている。,,https://www.zukan-bouz.com/,2023-01-01,OK
 D00038,農山漁村の郷土料理百選,,C00023,300,"text, still image","日本全国の郷土料理（農林水産省選定）が写真付きで地域別に紹介されている。
-料理をクリックすると、その料理の名前の由来や歴史、そしてレシピを知ることが出来る。",,http://www.location-research.co.jp/kyoudoryouri100/recipe/selection/1,31.12.2022,OK
+料理をクリックすると、その料理の名前の由来や歴史、そしてレシピを知ることが出来る。",,http://www.location-research.co.jp/kyoudoryouri100/recipe/selection/1,2023-01-01,OK
 D00039,古典総合データベース,,C00077,800,still image,"書誌情報、挿絵、本の状態の確認可能
-早稲田大学内での請求記号も記載",,http://www.wul.waseda.ac.jp/kotenseki/index.html,31.12.2022,OK
+早稲田大学内での請求記号も記載",,http://www.wul.waseda.ac.jp/kotenseki/index.html,2023-01-01,OK
 D00040,新日本古典籍総合データベース,"Database of Pre-Modern Japanese Works
-",,800,bibliography,国文学研究資料館が作成・管理するデータベース。さまざまな機関が所蔵する古典籍,,https://kotenseki.nijl.ac.jp/?ln=en,31.12.2022,OK
-D00041,神道・神社史料集成（古代）,Shinto Jinja Database,C00048,200,"text, bibliography, cartographic material",古代の神社・約450社について、鎮座地や『延喜式』神名帳における記載、神位・神勲位などを示したもの,"Historical Sources about Shinto and Jinja, based on mainly Rikkokushi(六国史)",https://d-museum.kokugakuin.ac.jp/search_by_word/id=18089,31.12.2022,OK
-D00042,地理院地図 (電子国土Web),,C00035,900,"still image, cartographic material",日本地図を標準地図から白地図、写真、災害地図等各種閲覧できる,"Several variations of Japanes maps (standard, photo, dissaster etc.)",http://maps.gsi.go.jp/#5/36.104611/140.084556/&base=std&ls=std&disp=1&lcd=blank&vs=c1j0h0k0l0u0t0z0r0s0f2&d=v,31.12.2022,OK
-D00043,Japanese Historical Maps,,C00002,900,cartographic material,カリフォルニア大学バークレー校東アジア図書館所蔵の日本歴史地図,"The Japanese Historical Map Collection of East Asian Library, University of Callifornia, Barkeley",http://www.davidrumsey.com/japan/,31.12.2022,OK
-D00044,文化遺産オンライン,Cultural Heritage Online,C00067,"700, 900",still image,文化遺産についての電子情報広場（ポータルサイト）。 全国の博物館・美術館等から提供された作品や国宝・重要文化財などの情報を閲覧できる。,Search and see the Pictures of Cultural Heritage those from museums in Japan. ,http://bunka.nii.ac.jp/,31.12.2022,OK
-D00045,京都学派アーカイブ,The Kyoto School Archive,C00028,100,still image,西田幾多郎と田辺元の手書き原稿を中心にした一次資料を画像データで提供しているアーカイブ。また画像を一括ダウンロードして、SMART-GSを使って，すべての画像を一斉に筆跡検索することも可能。,,https://www.kyoto-gakuha.org/,31.12.2022,OK
-D00046,丸山眞男文庫バーチャル書庫,Virtual tour of Masao Maruyama's home library,C00088,"000, 100",bibliography,丸山眞男が生前所有していた蔵書の保管場所をウェブ上でバーチャルに表現したもの。該当する棚をクリックすると、そこに配架されていた本の書誌が一覧で表示される。丸山眞男の蔵書は、現在東京女子大学丸山眞男文庫として保管されており、保存の観点から一部は閉架書庫に配架されている。,,http://maruyamabunko.twcu.ac.jp/shoko/index.html,31.12.2022,OK
-D00047,吉本隆明の183講演,,C00022,100,"text, sound",吉本隆明の1960年代から2008年までの講演（１８３回、２１７４６分）をSoundCloudにて公開している。講演の一部はテキスト化もされている。,,https://www.1101.com/yoshimoto_voice/,31.12.2022,OK
-D00048,Bibliographie zur historischen Japanforschung,,,900,bibliography,ドイツ語圏で発表されドイツ語で書かれた、日本の歴史に関する学術書、学術論文を検索できるデータベース。２００３年以降に出版されたものが対象。,,https://www.historische-japanforschung.de/,31.12.2022,OK
-D00049,日本版 Map Warper,Japanese Map Warper,,900,cartographic material,Map Warper によってデジタル地図画像をジオレファレンスして、OpenStreetMapなどの重ねあわせたりなど、GISで扱えるようにする。また、ここにアップロードされた画像はオープンアクセス資料として公開される。,,https://mapwarper.h-gis.jp/,31.12.2022,OK
-D00050,古地図コレクション,,C00035,900,cartographic material,国土地理院が所有する古地図をデジタル化し公開したもの。一部は高精細画像,,https://kochizu.gsi.go.jp/,31.12.2022,OK
-D00051,Old Maps of Japan,,C00007,900,cartographic material,スイスの会社Klokan Technologies GmbHとスイス・イギリスの歴史GISプロジェクトがもとになって開発した古地図をタイムライン・OpenStreetMap地図上から、など様々な方法で探すことができる。,,https://www.oldmapsonline.org/en/Japan,31.12.2022,OK
-D00052,地質調査所 初期出版資料デジタルアーカイブ,,C00050,900,cartographic material,明治時代から1945年以前に旧地質調査所で発行された出版資料を閲覧できる。資料はIIIFで公開されている。,,https://gbank.gsj.jp/ld/app/darc/,31.12.2022,OK
-D00053,日本古典籍くずし字データセット,,C00030,"000, 400, 900",dataset,日本古典籍データセットで公開されるデジタル化された古典籍を中心に、翻刻テキストを制作する過程で生まれるくずし字の座標情報などを、機械のための学習データや人間のための学習データとして提供している。データセットには機械学習用のもと人間のための学習データがある。,,http://codh.rois.ac.jp/char-shape/,31.12.2022,OK
-D00054,日本古典籍データセット,,C00030,"000, 800",dataset,日本語の歴史的典籍の国際共同研究ネットワーク構築計画においてデジタル化された古典籍のデータを、日本古典籍データセットとして公開している。現在は国文学研究資料館が所蔵するオープンデータを中心に提供している。,,http://codh.rois.ac.jp/pmjt/,31.12.2022,OK
-D00055,江戸料理レシピデータセット,,C00030,"000, 900",dataset,日本古典籍データセットに含まれる江戸の料理本を対象に、江戸の文化を現代に取り込むための「江戸料理レシピデータセット」を提供している。原本画像データ、翻刻テキストデータ、現代語訳データ、現代レシピデータの4種類のデータから構成される。,,http://codh.rois.ac.jp/edo-cooking/,31.12.2022,OK
+",,800,bibliography,国文学研究資料館が作成・管理するデータベース。さまざまな機関が所蔵する古典籍,,https://kotenseki.nijl.ac.jp/?ln=en,2023-01-01,OK
+D00041,神道・神社史料集成（古代）,Shinto Jinja Database,C00048,200,"text, bibliography, cartographic material",古代の神社・約450社について、鎮座地や『延喜式』神名帳における記載、神位・神勲位などを示したもの,"Historical Sources about Shinto and Jinja, based on mainly Rikkokushi(六国史)",https://d-museum.kokugakuin.ac.jp/search_by_word/id=18089,2023-01-01,OK
+D00042,地理院地図 (電子国土Web),,C00035,900,"still image, cartographic material",日本地図を標準地図から白地図、写真、災害地図等各種閲覧できる,"Several variations of Japanes maps (standard, photo, dissaster etc.)",http://maps.gsi.go.jp/#5/36.104611/140.084556/&base=std&ls=std&disp=1&lcd=blank&vs=c1j0h0k0l0u0t0z0r0s0f2&d=v,2023-01-01,OK
+D00043,Japanese Historical Maps,,C00002,900,cartographic material,カリフォルニア大学バークレー校東アジア図書館所蔵の日本歴史地図,"The Japanese Historical Map Collection of East Asian Library, University of Callifornia, Barkeley",http://www.davidrumsey.com/japan/,2023-01-01,OK
+D00044,文化遺産オンライン,Cultural Heritage Online,C00067,"700, 900",still image,文化遺産についての電子情報広場（ポータルサイト）。 全国の博物館・美術館等から提供された作品や国宝・重要文化財などの情報を閲覧できる。,Search and see the Pictures of Cultural Heritage those from museums in Japan. ,http://bunka.nii.ac.jp/,2023-01-01,OK
+D00045,京都学派アーカイブ,The Kyoto School Archive,C00028,100,still image,西田幾多郎と田辺元の手書き原稿を中心にした一次資料を画像データで提供しているアーカイブ。また画像を一括ダウンロードして、SMART-GSを使って，すべての画像を一斉に筆跡検索することも可能。,,https://www.kyoto-gakuha.org/,2023-01-01,OK
+D00046,丸山眞男文庫バーチャル書庫,Virtual tour of Masao Maruyama's home library,C00088,"000, 100",bibliography,丸山眞男が生前所有していた蔵書の保管場所をウェブ上でバーチャルに表現したもの。該当する棚をクリックすると、そこに配架されていた本の書誌が一覧で表示される。丸山眞男の蔵書は、現在東京女子大学丸山眞男文庫として保管されており、保存の観点から一部は閉架書庫に配架されている。,,http://maruyamabunko.twcu.ac.jp/shoko/index.html,2023-01-01,OK
+D00047,吉本隆明の183講演,,C00022,100,"text, sound",吉本隆明の1960年代から2008年までの講演（１８３回、２１７４６分）をSoundCloudにて公開している。講演の一部はテキスト化もされている。,,https://www.1101.com/yoshimoto_voice/,2023-01-01,OK
+D00048,Bibliographie zur historischen Japanforschung,,,900,bibliography,ドイツ語圏で発表されドイツ語で書かれた、日本の歴史に関する学術書、学術論文を検索できるデータベース。２００３年以降に出版されたものが対象。,,https://www.historische-japanforschung.de/,2023-01-01,OK
+D00049,日本版 Map Warper,Japanese Map Warper,,900,cartographic material,Map Warper によってデジタル地図画像をジオレファレンスして、OpenStreetMapなどの重ねあわせたりなど、GISで扱えるようにする。また、ここにアップロードされた画像はオープンアクセス資料として公開される。,,https://mapwarper.h-gis.jp/,2023-01-01,OK
+D00050,古地図コレクション,,C00035,900,cartographic material,国土地理院が所有する古地図をデジタル化し公開したもの。一部は高精細画像,,https://kochizu.gsi.go.jp/,2023-01-01,OK
+D00051,Old Maps of Japan,,C00007,900,cartographic material,スイスの会社Klokan Technologies GmbHとスイス・イギリスの歴史GISプロジェクトがもとになって開発した古地図をタイムライン・OpenStreetMap地図上から、など様々な方法で探すことができる。,,https://www.oldmapsonline.org/en/Japan,2023-01-01,OK
+D00052,地質調査所 初期出版資料デジタルアーカイブ,,C00050,900,cartographic material,明治時代から1945年以前に旧地質調査所で発行された出版資料を閲覧できる。資料はIIIFで公開されている。,,https://gbank.gsj.jp/ld/app/darc/,2023-01-01,OK
+D00053,日本古典籍くずし字データセット,,C00030,"000, 400, 900",dataset,日本古典籍データセットで公開されるデジタル化された古典籍を中心に、翻刻テキストを制作する過程で生まれるくずし字の座標情報などを、機械のための学習データや人間のための学習データとして提供している。データセットには機械学習用のもと人間のための学習データがある。,,http://codh.rois.ac.jp/char-shape/,2023-01-01,OK
+D00054,日本古典籍データセット,,C00030,"000, 800",dataset,日本語の歴史的典籍の国際共同研究ネットワーク構築計画においてデジタル化された古典籍のデータを、日本古典籍データセットとして公開している。現在は国文学研究資料館が所蔵するオープンデータを中心に提供している。,,http://codh.rois.ac.jp/pmjt/,2023-01-01,OK
+D00055,江戸料理レシピデータセット,,C00030,"000, 900",dataset,日本古典籍データセットに含まれる江戸の料理本を対象に、江戸の文化を現代に取り込むための「江戸料理レシピデータセット」を提供している。原本画像データ、翻刻テキストデータ、現代語訳データ、現代レシピデータの4種類のデータから構成される。,,http://codh.rois.ac.jp/edo-cooking/,2023-01-01,OK
 D00056,KMNIST Dataset,,C00030,"000, 400, 900",dataset,人文学オープンデータ共同利用センターが国文学研究資料館が作成した日本古典籍くずし字データセットを元に作成した機械学習用のくずし字データセット,"Adapted from Kuzushiji Dataset, KMNIST dataset is a drop-in replacement for MNIST dataset. If your software can read the MNIST dataset, it is easy to test the KMNIST dataset by changing the setting. We provide three types of datasets, namely Kuzushiji-MNIST、Kuzushiji-49、Kuzushiji-Kanji, for different purposes.
 
-KMNIST Dataset is created by ROIS-DS Center for Open Data in the Humanities (CODH), based on Kuzushiji Dataset created by National Institute of Japanese Literature. ",http://codh.rois.ac.jp/kmnist/,31.12.2022,OK
-D00057,顔貌コレクション（顔コレ）,,C00030,700,still image,美術作品に出現する顔の部分を切り取って集め、それを美術史研究（特に様式研究）に活用するプロジェクト。,,http://codh.rois.ac.jp/face/,31.12.2022,OK
-D00058,近代雑誌データセット,,C00030,"000, 400, 800",dataset,近代雑誌の画像データセット。近代文書のOCR研究の一環として。,,http://codh.rois.ac.jp/modern-magazine/,31.12.2022,OK
-D00059,Geoshapeリポジトリ,,C00030,"000, 900",dataset,地物の幾何形状データを公開するデータリポジトリ。地理情報システム（GIS）で一般的なシェープファイル（shp）フォーマットでなく、ウェブと親和性の高いGeoJSONやTopoJSONフォーマットに変換したデータを作成し公開することで、ウェブ地図などに簡単に表示できる環境を提供する。歴史的行政区域データセットβ版 (現在および過去の市区町村に関するデータ）、国勢調査町丁・字等別境界データセット （現在の町丁・字に関するデータ）、歴史的地名／現代地名による境界データ検索 （歴史的地名／現代地名を対象とした境界データセットの検索）の3つのデータセットがある。,,http://geoshape.ex.nii.ac.jp/,31.12.2022,OK
-D00060,IIIF Curation Viewer,,C00030,000,software,IIIFに準拠した画像ビューワ。ページ移動やズームといった一般的なビューワが持つ機能に加え、複数の資料から画像の一部を切り取り、収集し、任意の順序で閲覧できる独自の「キュレーション」機能を備えている。,,http://codh.rois.ac.jp/software/iiif-curation-viewer/,31.12.2022,OK
-D00061,明治期出版広告データベース,Publishing and Advertisement Database of Meiji Era,C00036,"300, 900","bibliography, still image",明治前半の新聞・雑誌などに掲載された広告のデータベース。一部は広告の画像も見られる。,,http://base1.nijl.ac.jp/infolib/meta_pub/ssearch,31.12.2022,OK
+KMNIST Dataset is created by ROIS-DS Center for Open Data in the Humanities (CODH), based on Kuzushiji Dataset created by National Institute of Japanese Literature. ",http://codh.rois.ac.jp/kmnist/,2023-01-01,OK
+D00057,顔貌コレクション（顔コレ）,,C00030,700,still image,美術作品に出現する顔の部分を切り取って集め、それを美術史研究（特に様式研究）に活用するプロジェクト。,,http://codh.rois.ac.jp/face/,2023-01-01,OK
+D00058,近代雑誌データセット,,C00030,"000, 400, 800",dataset,近代雑誌の画像データセット。近代文書のOCR研究の一環として。,,http://codh.rois.ac.jp/modern-magazine/,2023-01-01,OK
+D00059,Geoshapeリポジトリ,,C00030,"000, 900",dataset,地物の幾何形状データを公開するデータリポジトリ。地理情報システム（GIS）で一般的なシェープファイル（shp）フォーマットでなく、ウェブと親和性の高いGeoJSONやTopoJSONフォーマットに変換したデータを作成し公開することで、ウェブ地図などに簡単に表示できる環境を提供する。歴史的行政区域データセットβ版 (現在および過去の市区町村に関するデータ）、国勢調査町丁・字等別境界データセット （現在の町丁・字に関するデータ）、歴史的地名／現代地名による境界データ検索 （歴史的地名／現代地名を対象とした境界データセットの検索）の3つのデータセットがある。,,http://geoshape.ex.nii.ac.jp/,2023-01-01,OK
+D00060,IIIF Curation Viewer,,C00030,000,software,IIIFに準拠した画像ビューワ。ページ移動やズームといった一般的なビューワが持つ機能に加え、複数の資料から画像の一部を切り取り、収集し、任意の順序で閲覧できる独自の「キュレーション」機能を備えている。,,http://codh.rois.ac.jp/software/iiif-curation-viewer/,2023-01-01,OK
+D00061,明治期出版広告データベース,Publishing and Advertisement Database of Meiji Era,C00036,"300, 900","bibliography, still image",明治前半の新聞・雑誌などに掲載された広告のデータベース。一部は広告の画像も見られる。,,http://base1.nijl.ac.jp/infolib/meta_pub/ssearch,2023-01-01,OK
 D00062,Queer Japan Web Archive ,,C00005,300,other,LGBTQコミュニティに関連する日本のNPOが作成したウェブサイトをアーカイブして検索できるデータベース,"
 
-The Queer Japan Web Archive aims to preserve websites created by non-profit Japanese organizations which research, advocate for, support, and provide services to LGBTQ communities. ",https://archive-it.org/collections/11854,31.12.2022,OK
-D00063,古事類苑全文,,C00047,900,text,「古事類苑」の全文テキストデータを公開し、検索できるようにしているデータベース。２０１９年5月現在、（総ページ数67000ページ以上のうち）１６７４０ページ分がテキストデータ化されている。,,http://db.nichibun.ac.jp/sp1/ja/category/kojiruien-zenbun.html,31.12.2022,OK
-D00064,正倉院宝物検索,,C00057,"700, 900",still image,正倉院が所蔵する宝物の写真とその宝物に関する情報を検索できる。,,https://shosoin.kunaicho.go.jp/search/,31.12.2022,OK
-D00065,IIIF Discovery in Japan,,,000,still image,日本におけるIIIFのリソースを一括して検索できる。,,http://iiif2.dl.itc.u-tokyo.ac.jp/s/iiif/page/home,31.12.2022,OK
-D00066,新聞マンガのデータベース,,C00070,"000, 700",bibliography,新聞マンガを、掲載紙と作者名、そしてタイトルの一覧から探すことができる,,https://www.shimbun-manga.com/,31.12.2022,OK
-D00067,琉球語音声データベース,The Ryukuan languase,C00099,400,"text, sound",琉球語を文字資料だけではなく、音声資料として収集、公開したもの,,http://ryukyu-lang.lib.u-ryukyu.ac.jp/,31.12.2022,NG
-D00068,日本美術オーラル・ヒストリー・アーカイヴ,Oral History Archives of Japanese Arts,C00075,"700, 900",text,美術の分野に関連のある人間にインタヴューをし、それを口述資料として収集したもの,,http://www.oralarthistory.org/,31.12.2022,OK
-D00069,近代書誌・近代画像データベース,Bibliographic and Image Database : Japanese Modern Times,C00036,"300, 700, 800","bibliography, still image",近代の日本で出版された本の書誌・所蔵情報と、その画像データを検索できるデータベース,,http://base1.nijl.ac.jp/~kindai/,31.12.2022,OK
-D00070,博覧会資料Collection,,C00027,"000, 900",bibliography,"明治期から現在までに開催された国内外の博覧会の公式記録、パンフレットやポスター、入場券、記念グッズなど、総数10,000点を超える博覧会関連資料をデータベース化し検索できるようにしたもの。博覧会の名前から探してからそれに関する資料を探す「博覧会検索」と資料全体を検索できる「博覧会資料検索」の二種類の検索方がある。",,https://www.nomurakougei.co.jp/expo/,31.12.2022,OK
-D00071,Digital Cultural Heritage,Digital Cultural Heritage,C00084,"000, 300","bibliography, still image",東京大学社会情報研究資料センターが所蔵している新聞原紙資料とそれ以外の資料（「小野秀雄関係資料」「外務省関係資料」「森恭三コレクション」「坪井家関係資料」）をキーワード検索もしくは資料階層検索で探すことができる。一部は高精細画像で閲覧も可能。,,https://dch.iii.u-tokyo.ac.jp/s/dch/page/home,31.12.2022,OK
-D00072,時事漫画,Jiji Manga,C00010,"700, 900","bibliography, still image",時事新報社が1921年から1931年かけて出版した時事漫画にメタデータを付し、時系列にならべたもの。一部は画像も閲覧可能。,,https://library.osu.edu/wiki/index.php?title=Jiji_Manga,31.12.2022,OK
-D00073,WEB版新纂浄土宗大辞典,,C00055,200,text,宗教法人浄土宗が2016年に出版した新纂浄土宗大辞典のWEB版。本文中には、見出し項目、引用書へのリンクがあり、さらにWEB版新纂浄土宗大辞典 編集・管理会議が新規項目・既存項目の変更・修正を行っているため、紙媒体とは内容を異にする場合もある。,Web Version of the new edited Jodoshu Daijiten (publ. 2016). Text in this web version includes links to item headlines and to the other resouces/documents. The contents of this web dictionary will be edited and managed by the editing commission. Thus the web version differs from the paper version. ,http://jodoshuzensho.jp/daijiten/index.php/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8,31.12.2022,OK
-D00074,日本儒林叢書全文データベース,Nihon Jurin Sōsho Fulltext Database,,"100, 900",text,関儀一郎編纂の『日本儒林叢書』の全文データベース。,"Full-text database of ""Nihon Jurin Zensho"" edited by Seki Giichirô.",http://www2.sal.tohoku.ac.jp/jurin/,31.12.2022,OK
-D00075,SAT大正新脩大藏經テキストデータベース, SAT Daizōkyō Text Database,C00011,200,"text, still image",『大正新脩大藏經』の全文データベース,Full-text database of Taishō Shinshū Daizōkyō. ,http://21dzk.l.u-tokyo.ac.jp/SAT/,31.12.2022,OK
-D00076,アイヌ語アーカイブ,,C00012,"400, 900","text, video, sound",,,ainugo.ainu-museum.or.jp,31.12.2022,OK
-D00077,琉球文化アーカイブ,Ryukyu Cultural Archives,C00094,"400, 800","text, sound",コンテンツが歴史・自然・美術・工芸・伝統工芸・民族の大きく六つにわかれており、琉球文化について幅広く知ることができる。写真や音声などの資料が豊富である。,,rca.open.ed.jp,31.12.2022,OK
-D00078,khirin,Knowledgebase of Historical Resources in Institutes,C00044,900,"text, bibliography, still image",日本にある、日本語で書かれた資料を統合検索できる。国立歴史民俗博物館が作成したデータベースだけでなく、別機関の提供するデータベース（千葉大学附属図書館所蔵　町野家文書や鳴門教育大学附属図書館所蔵　後藤家文書）も参照している。,,https://khirin-ld.rekihaku.ac.jp/,31.12.2022,OK
-D00079,KuroNetくずし字認識サービス,,C00030,"000, 700, 800, 900","software, interactive resource",ディープラーニングを用いた多文字くずし字認識。画像がIIIFに準拠して提供されていれば、OCRをかけることができる。,,http://codh.rois.ac.jp/kuronet/,31.12.2022,OK
-D00080,日本の中世文書WEB β版,,C00044,900,"text, book, sound",日本の中世の文書をテキストを閲覧できるほか、それを音読した音声データをウェブ上で聞くことができる。,,https://chuseimonjo.net/?fbclid=IwAR0fOLpQ5lACtRyF7aqsAL1hJrHUuqWg-VQQtN-2OxUWSPsbqiFnNmmgJmM#/,31.12.2022,OK
-D00081,江戸マップβ版,,C00030,900,interactive resource,江戸の古地図から地名を抽出してデータベース化したもの。地名で検索もできる。,,http://codh.rois.ac.jp/edo-maps/,31.12.2022,OK
-D00082,次世代デジタルライブラリーに搭載されているテキストデータ,,C00009,"000, 400, 700, 800, 900",dataset,次世代デジタルライブラリーに搭載されているテキストデータをGitHub上で公開している。,,https://github.com/ndl-lab/tugidigi-txtdata,31.12.2022,OK
-D00083,デジタル源氏物語　ver. Kiritsubo,,C00085,"000, 400, 800","text, still image",一般にウェブ上で公開されている源氏物語の画像データ、テキストデータ、翻訳などから画像とテキストを見比べられるアプリを作成している。,,https://genji.dl.itc.u-tokyo.ac.jp/app/#/,31.12.2022,OK
-D00084,侵入生物データベース,,C00045,500,"text, still image",日本に侵入してきた生物を検索できる。,,https://www.nies.go.jp/biodiversity/invasive/,31.12.2022,OK
+The Queer Japan Web Archive aims to preserve websites created by non-profit Japanese organizations which research, advocate for, support, and provide services to LGBTQ communities. ",https://archive-it.org/collections/11854,2023-01-01,OK
+D00063,古事類苑全文,,C00047,900,text,「古事類苑」の全文テキストデータを公開し、検索できるようにしているデータベース。２０１９年5月現在、（総ページ数67000ページ以上のうち）１６７４０ページ分がテキストデータ化されている。,,http://db.nichibun.ac.jp/sp1/ja/category/kojiruien-zenbun.html,2023-01-01,OK
+D00064,正倉院宝物検索,,C00057,"700, 900",still image,正倉院が所蔵する宝物の写真とその宝物に関する情報を検索できる。,,https://shosoin.kunaicho.go.jp/search/,2023-01-01,OK
+D00065,IIIF Discovery in Japan,,,000,still image,日本におけるIIIFのリソースを一括して検索できる。,,http://iiif2.dl.itc.u-tokyo.ac.jp/s/iiif/page/home,2023-01-01,OK
+D00066,新聞マンガのデータベース,,C00070,"000, 700",bibliography,新聞マンガを、掲載紙と作者名、そしてタイトルの一覧から探すことができる,,https://www.shimbun-manga.com/,2023-01-01,OK
+D00067,琉球語音声データベース,The Ryukuan languase,C00099,400,"text, sound",琉球語を文字資料だけではなく、音声資料として収集、公開したもの,,http://ryukyu-lang.lib.u-ryukyu.ac.jp/,2023-01-01,NG
+D00068,日本美術オーラル・ヒストリー・アーカイヴ,Oral History Archives of Japanese Arts,C00075,"700, 900",text,美術の分野に関連のある人間にインタヴューをし、それを口述資料として収集したもの,,http://www.oralarthistory.org/,2023-01-01,OK
+D00069,近代書誌・近代画像データベース,Bibliographic and Image Database : Japanese Modern Times,C00036,"300, 700, 800","bibliography, still image",近代の日本で出版された本の書誌・所蔵情報と、その画像データを検索できるデータベース,,http://base1.nijl.ac.jp/~kindai/,2023-01-01,OK
+D00070,博覧会資料Collection,,C00027,"000, 900",bibliography,"明治期から現在までに開催された国内外の博覧会の公式記録、パンフレットやポスター、入場券、記念グッズなど、総数10,000点を超える博覧会関連資料をデータベース化し検索できるようにしたもの。博覧会の名前から探してからそれに関する資料を探す「博覧会検索」と資料全体を検索できる「博覧会資料検索」の二種類の検索方がある。",,https://www.nomurakougei.co.jp/expo/,2023-01-01,OK
+D00071,Digital Cultural Heritage,Digital Cultural Heritage,C00084,"000, 300","bibliography, still image",東京大学社会情報研究資料センターが所蔵している新聞原紙資料とそれ以外の資料（「小野秀雄関係資料」「外務省関係資料」「森恭三コレクション」「坪井家関係資料」）をキーワード検索もしくは資料階層検索で探すことができる。一部は高精細画像で閲覧も可能。,,https://dch.iii.u-tokyo.ac.jp/s/dch/page/home,2023-01-01,OK
+D00072,時事漫画,Jiji Manga,C00010,"700, 900","bibliography, still image",時事新報社が1921年から1931年かけて出版した時事漫画にメタデータを付し、時系列にならべたもの。一部は画像も閲覧可能。,,https://library.osu.edu/wiki/index.php?title=Jiji_Manga,2023-01-01,OK
+D00073,WEB版新纂浄土宗大辞典,,C00055,200,text,宗教法人浄土宗が2016年に出版した新纂浄土宗大辞典のWEB版。本文中には、見出し項目、引用書へのリンクがあり、さらにWEB版新纂浄土宗大辞典 編集・管理会議が新規項目・既存項目の変更・修正を行っているため、紙媒体とは内容を異にする場合もある。,Web Version of the new edited Jodoshu Daijiten (publ. 2016). Text in this web version includes links to item headlines and to the other resouces/documents. The contents of this web dictionary will be edited and managed by the editing commission. Thus the web version differs from the paper version. ,http://jodoshuzensho.jp/daijiten/index.php/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8,2023-01-01,OK
+D00074,日本儒林叢書全文データベース,Nihon Jurin Sōsho Fulltext Database,,"100, 900",text,関儀一郎編纂の『日本儒林叢書』の全文データベース。,"Full-text database of ""Nihon Jurin Zensho"" edited by Seki Giichirô.",http://www2.sal.tohoku.ac.jp/jurin/,2023-01-01,OK
+D00075,SAT大正新脩大藏經テキストデータベース, SAT Daizōkyō Text Database,C00011,200,"text, still image",『大正新脩大藏經』の全文データベース,Full-text database of Taishō Shinshū Daizōkyō. ,http://21dzk.l.u-tokyo.ac.jp/SAT/,2023-01-01,OK
+D00076,アイヌ語アーカイブ,,C00012,"400, 900","text, video, sound",,,ainugo.ainu-museum.or.jp,2023-01-01,OK
+D00077,琉球文化アーカイブ,Ryukyu Cultural Archives,C00094,"400, 800","text, sound",コンテンツが歴史・自然・美術・工芸・伝統工芸・民族の大きく六つにわかれており、琉球文化について幅広く知ることができる。写真や音声などの資料が豊富である。,,rca.open.ed.jp,2023-01-01,OK
+D00078,khirin,Knowledgebase of Historical Resources in Institutes,C00044,900,"text, bibliography, still image",日本にある、日本語で書かれた資料を統合検索できる。国立歴史民俗博物館が作成したデータベースだけでなく、別機関の提供するデータベース（千葉大学附属図書館所蔵　町野家文書や鳴門教育大学附属図書館所蔵　後藤家文書）も参照している。,,https://khirin-ld.rekihaku.ac.jp/,2023-01-01,OK
+D00079,KuroNetくずし字認識サービス,,C00030,"000, 700, 800, 900","software, interactive resource",ディープラーニングを用いた多文字くずし字認識。画像がIIIFに準拠して提供されていれば、OCRをかけることができる。,,http://codh.rois.ac.jp/kuronet/,2023-01-01,OK
+D00080,日本の中世文書WEB β版,,C00044,900,"text, book, sound",日本の中世の文書をテキストを閲覧できるほか、それを音読した音声データをウェブ上で聞くことができる。,,https://chuseimonjo.net/?fbclid=IwAR0fOLpQ5lACtRyF7aqsAL1hJrHUuqWg-VQQtN-2OxUWSPsbqiFnNmmgJmM#/,2023-01-01,OK
+D00081,江戸マップβ版,,C00030,900,interactive resource,江戸の古地図から地名を抽出してデータベース化したもの。地名で検索もできる。,,http://codh.rois.ac.jp/edo-maps/,2023-01-01,OK
+D00082,次世代デジタルライブラリーに搭載されているテキストデータ,,C00009,"000, 400, 700, 800, 900",dataset,次世代デジタルライブラリーに搭載されているテキストデータをGitHub上で公開している。,,https://github.com/ndl-lab/tugidigi-txtdata,2023-01-01,OK
+D00083,デジタル源氏物語　ver. Kiritsubo,,C00085,"000, 400, 800","text, still image",一般にウェブ上で公開されている源氏物語の画像データ、テキストデータ、翻訳などから画像とテキストを見比べられるアプリを作成している。,,https://genji.dl.itc.u-tokyo.ac.jp/app/#/,2023-01-01,OK
+D00084,侵入生物データベース,,C00045,500,"text, still image",日本に侵入してきた生物を検索できる。,,https://www.nies.go.jp/biodiversity/invasive/,2023-01-01,OK
 D00085,赤い羽根データベース,はねっと,C00110,300,other,"赤い羽根募金がどのような用途で使用されているのか、調べることができる。
-また、募金の使い道やその用途が円グラフで表されており分かりやすい。",,https://hanett.akaihane.or.jp/hanett/pub/home,31.12.2022,OK
-D00086,DAAS Digital Archives for Architectural Space,,C00001,600,"text, still image, video",国内外の建築物に関する資料,Collecting and making available data/materials pertaining to distinguished structures both in Japan and abroad.,https://www.daas.jp,31.12.2022,OK
+また、募金の使い道やその用途が円グラフで表されており分かりやすい。",,https://hanett.akaihane.or.jp/hanett/pub/home,2023-01-01,OK
+D00086,DAAS Digital Archives for Architectural Space,,C00001,600,"text, still image, video",国内外の建築物に関する資料,Collecting and making available data/materials pertaining to distinguished structures both in Japan and abroad.,https://www.daas.jp,2023-01-01,OK
 D00087,明治学院大学大学図書館アーカイブス　,聖書和訳デジタルアーカイブス,C00078,200,still image,"聖書和訳の概略史と代表的聖書が閲覧できるサイト
-約32000枚の資料画像を収納",,http://www.meijigakuin.ac.jp/mgda/bible/search/,31.12.2022,OK
+約32000枚の資料画像を収納",,http://www.meijigakuin.ac.jp/mgda/bible/search/,2023-01-01,OK
 D00088,日本ナザレン教団,,C00054,200,still image,"日本ナザレン教団の過去から今日に至るまでの資料
-・教団資料　・定期刊行物(1915-2014)",,http://www.nazarene.or.jp/da.html,31.12.2022,OK
+・教団資料　・定期刊行物(1915-2014)",,http://www.nazarene.or.jp/da.html,2023-01-01,OK
 D00089,庄司浅水旧蔵　聖書・キリスト教関連文献資料　デジタルライブラリ,,C00107,200,,"庄司淺水が収集した聖書とキリスト教に関わる資料。
 聖書の古版本・写本（零葉）を中心に、ヨーロッパ・アメリカ・中国・日本のキリスト教文献
-15点公開中",,http://library.rikkyo.ac.jp/digitallibrary/shojicollection/explain/explain_01.html,31.12.2022,OK
-D00090,新庄デジタルアーカイブ,,C00069,900,still image,山形県新庄市が保有する歴史的に価値のある写真,,https://www.shinjo-archive.jp,31.12.2022,OK
-D00091,大津の歴史データベース/大津れきはくの収蔵品,,C00051,900,still image,大津れきはくの収蔵品を見ることができる。,,http://www.rekihaku.otsu.shiga.jp/db/shuzo/index.html,31.12.2022,OK
-D00092,大津の歴史データベース/大津の古写真,,C00051,900,still image,,,http://www.rekihaku.otsu.shiga.jp/db/shashin/index.html,31.12.2022,OK
-D00093,大津の歴史データベース/大津の古地図,,C00051,900,cartographic material,,,http://www.rekihaku.otsu.shiga.jp/db/shashin/index.html,31.12.2022,OK
-D00094,大津の歴史データベース/大津の文化財,,C00051,900,text,大津の文化財を見ることができる。（テキストのみ）,,http://www.rekihaku.otsu.shiga.jp/db/bunka/index.html,31.12.2022,OK
-D00095,大津の歴史データベース/大津の歴史事典,,C00051,900,text,50音だけでなく、分野や地区からも探すことができる。,,http://www.rekihaku.otsu.shiga.jp/db/jiten/index.html,31.12.2022,OK
+15点公開中",,http://library.rikkyo.ac.jp/digitallibrary/shojicollection/explain/explain_01.html,2023-01-01,OK
+D00090,新庄デジタルアーカイブ,,C00069,900,still image,山形県新庄市が保有する歴史的に価値のある写真,,https://www.shinjo-archive.jp,2023-01-01,OK
+D00091,大津の歴史データベース/大津れきはくの収蔵品,,C00051,900,still image,大津れきはくの収蔵品を見ることができる。,,http://www.rekihaku.otsu.shiga.jp/db/shuzo/index.html,2023-01-01,OK
+D00092,大津の歴史データベース/大津の古写真,,C00051,900,still image,,,http://www.rekihaku.otsu.shiga.jp/db/shashin/index.html,2023-01-01,OK
+D00093,大津の歴史データベース/大津の古地図,,C00051,900,cartographic material,,,http://www.rekihaku.otsu.shiga.jp/db/shashin/index.html,2023-01-01,OK
+D00094,大津の歴史データベース/大津の文化財,,C00051,900,text,大津の文化財を見ることができる。（テキストのみ）,,http://www.rekihaku.otsu.shiga.jp/db/bunka/index.html,2023-01-01,OK
+D00095,大津の歴史データベース/大津の歴史事典,,C00051,900,text,50音だけでなく、分野や地区からも探すことができる。,,http://www.rekihaku.otsu.shiga.jp/db/jiten/index.html,2023-01-01,OK
 D00096,歴史・民俗データベース,,C00097,900,still image,"琵琶湖博物館の収蔵資料が閲覧可能。
-滋賀の民俗や生活について詳しく知る材料になる。",,https://jmapps.ne.jp/biwahaku_h/,31.12.2022,OK
-D00097,神道・神社資料集成(現代),,C00048,"200, 900",text,現代神社の中でも、旧官国幣社（別格含む）以下、府県社以上の神社、約1500社を対象に収録したもの,,https://d-museum.kokugakuin.ac.jp/search_by_word/id=18091,31.12.2022,OK
-D00098,岡山県神社庁　岡山県神社検索,,C00059,200,text,岡山県の神社を現在地、住所、神社名、周辺距離、キーワードで検索することが可能。神社コードや通称名、旧社格、鎮座地、御祭神、氏子地域などが分かる。,,https://www.okayama-jinjacho.or.jp/search/,31.12.2022,OK
-D00099,古事記学センター　神社データベース,,C00048,200,text,五十音順に神社を一覧で見れる。読み、ローマ字表記、主祭神、略縁起の他住所では地図を表示し緯度や経度を見ることが可能。神社への公式HPへのリンクもある。,,kojiki.kokugakuin.ac.jp/jinjya/,31.12.2022,OK
-D00100,近代日本の日記（β版）,,C00100,"800, 900",bibliography,明治から現代までの日記を、執筆期間、記入者氏名、ジェンダー、収録書名から検索できる,,http://diaryculture.com/diary-database/,31.12.2022,OK
+滋賀の民俗や生活について詳しく知る材料になる。",,https://jmapps.ne.jp/biwahaku_h/,2023-01-01,OK
+D00097,神道・神社資料集成(現代),,C00048,"200, 900",text,現代神社の中でも、旧官国幣社（別格含む）以下、府県社以上の神社、約1500社を対象に収録したもの,,https://d-museum.kokugakuin.ac.jp/search_by_word/id=18091,2023-01-01,OK
+D00098,岡山県神社庁　岡山県神社検索,,C00059,200,text,岡山県の神社を現在地、住所、神社名、周辺距離、キーワードで検索することが可能。神社コードや通称名、旧社格、鎮座地、御祭神、氏子地域などが分かる。,,https://www.okayama-jinjacho.or.jp/search/,2023-01-01,OK
+D00099,古事記学センター　神社データベース,,C00048,200,text,五十音順に神社を一覧で見れる。読み、ローマ字表記、主祭神、略縁起の他住所では地図を表示し緯度や経度を見ることが可能。神社への公式HPへのリンクもある。,,kojiki.kokugakuin.ac.jp/jinjya/,2023-01-01,OK
+D00100,近代日本の日記（β版）,,C00100,"800, 900",bibliography,明治から現代までの日記を、執筆期間、記入者氏名、ジェンダー、収録書名から検索できる,,http://diaryculture.com/diary-database/,2023-01-01,OK
 D00101,舞台衣装データベース ,Stage costume data base ,C00076,800,"text, still image","演劇博物館には、能、狂言、歌舞伎、新派、新劇、ミュージカル、オペラ、現代演劇、京劇など、時代や分野を問わず、多くの舞台衣裳が収蔵されている。本データベースでは、衣裳が使用された舞台の上演情報とともに、様々な角度から撮影された画像や衣裳の形態（素材、縫製上の特徴等）に関する情報もあわせて公開している。演劇研究のみならず服飾学、民俗学など分野横断的なデータベースとしての利用が可能である。画像に関しては、坪内博士記念演劇博物館本館に設置された端末からのみ閲覧可能。
-",,"https://archive.waseda.jp/archive/subDB-top.html?arg={%22item_per_page%22:20,%22sortby%22:[%22%22,%22ASC%22],%22view%22:%22display-simple%22,%22subDB_id%22:%22129%22}&lang=jp",31.12.2022,OK
+",,"https://archive.waseda.jp/archive/subDB-top.html?arg={%22item_per_page%22:20,%22sortby%22:[%22%22,%22ASC%22],%22view%22:%22display-simple%22,%22subDB_id%22:%22129%22}&lang=jp",2023-01-01,OK
 D00102,"
 早稲田大学文化資源データベース","
-Waseda University Cultural Resource Database",C00076,"000, 700, 800, 900","bibliography, still image",坪内博士記念演劇博物館、會津八一記念博物館、大学史資料センターの文化三機関および図書館等が所蔵する美術工芸品、書画、文書、博物資料、古典籍など早稲田大学の所蔵するコレクションを横断検索できる。,,https://archive.waseda.jp/archive/,31.12.2022,OK
+Waseda University Cultural Resource Database",C00076,"000, 700, 800, 900","bibliography, still image",坪内博士記念演劇博物館、會津八一記念博物館、大学史資料センターの文化三機関および図書館等が所蔵する美術工芸品、書画、文書、博物資料、古典籍など早稲田大学の所蔵するコレクションを横断検索できる。,,https://archive.waseda.jp/archive/,2023-01-01,OK
 D00103,全国短期大学紀要論文索引Plus,Bulletin of Junior College's Cumulate Index in Japan Plus,C00056,000,bibliography,"図書館科学会編『全国短期大学紀要論文索引』をデータベース化したもの。短期大学紀要論文を対象にした雑誌記事索引で、短期大学制度発足時の1950年前後から1991年前後までの論文が収録対象となっている。
-",,https://opac.jissen.ac.jp/repo/repository/tandai/?lang=0,31.12.2022,OK
-D00104,石造物3Dアーカイブ,,,"000, 200, 900","dataset, other",路傍や寺社にある庚申塔や道祖神などの石仏・石造物をフォトグラメトリ（SfM/MVS）で3Dモデル化し、オープンデータとしてアーカイブするプロジェクト,,https://stonework-3d-archive.github.io/,31.12.2022,OK
-D00105,津軽デジタル風土記,,C00061,900,still image,津軽地方の貴重な文献資料をデジタル化し、ウェブ公開するサイト,,https://tsugaru-fudoki.jp/,31.12.2022,OK
-D00106,古文書・聖教データベース,,C00114,"200, 900",bibliography,長野県諏訪市の佛法紹隆寺が所有する貴重資料を、分類・史料名・年代・発給者により検索できるようにしたもの,,https://buppou-syoryuji.jp/database/komonjo/,31.12.2022,OK
-D00107,地理院地図Vector（仮称）,,C00035,"000, 900","cartographic material, dataset",自分で地図を作成することができるウェブサービス。2020年3月23日現在、試験運用中。,,https://maps.gsi.go.jp/vector/#7/36.104611/140.084556/&ls=vstd&disp=1&d=l,31.12.2022,OK
-D00108,Hi-CAT Plus,,C00081,900,still image,史料編纂所がこれまで撮影・収集した国内および海外に所在する史料の画像データを閲覧するためのデータベース。2020年3月3日より宮内庁書陵部図書寮文庫所蔵史料（家分け）のデジタル画像も閲覧可能になっている。,,https://wwwap.hi.u-tokyo.ac.jp/ships/w81/search,31.12.2022,OK
-D00109,Japanese BERT trained on Aozora Bunko and Wikipedia,,,"000, 400",dataset,青空文庫とウィキペディアでトレーニングした日本語BERT,,https://github.com/akirakubo/bert-japanese-aozora,31.12.2022,OK
-D00110,東京都公文書館デジタルアーカイブ,,C00090,900,"still image, video",東京都公文書館が所蔵する貴重資料をデジタル化し公開したもの。公開コンテンツ利用に関しては利用者マニュアルを参照のこと。,,https://dasasp03.i-repository.net/il/meta_pub/G0000002tokyoarchv00,31.12.2022,OK
-D00111,関西大学デジタルアーカイブ,,C00112,"000, 900",still image,関西大学総合図書館および東アジア文化研究に携わる本学教員の個人蔵書のうち、原資料の著作権保護期間が満了している資料を、IIIF標準で公開している。また、書誌情報と資料画像データは商用・非商用を問わず、無償で自由に利用できる。,,https://www.iiif.ku-orcas.kansai-u.ac.jp/,31.12.2022,OK
-D00112,加藤周一デジタルアーカイブ,Shuichi Kato Digital Archive,C00106,"000, 100, 800, 900",still image,立命館大学図書館所蔵の加藤周一文庫の内、「手稿ノート」を整理し一部をデジタル画像として公開している。,,https://trc-adeac.trc.co.jp/WJ11C0/WJJS02U/2671055100,31.12.2022,OK
-D00113,国宝金沢文庫文書データベース,,C00102,900,"text, still image","金沢文庫文書をデジタル化し高精細画像とテキストデータをデータベースで検索可能にしたもの。2020年4月1日の時点で、全4,149点の内500点の古文書が閲覧可能。",,https://kanazawabunko-db.pen-kanagawa.ed.jp/,31.12.2022,OK
-D00114,史的文字データベース連携検索システム,Multi-database Search System for Historical Chinese Characters,C00053,900,still image,国内外の複数機関が所蔵・管理する史的文字について、数千年におよぶ200万件もの高精細な文字画像を、横断的に検索することができる。,,https://mojiportal.nabunken.go.jp/ja/,31.12.2022,OK
-D00115,風俗図会データベース,Database of Folklore Illustrations,C00047,"000, 900",still image,日文研が所蔵する、江戸時代庶民のあいだで流行した絵入り読み物、絵双紙（絵草子・絵草紙）関係資料の画像データベース,"It contains the images of all pages of ezoshi, or illustrated story books from the Edo period in the Nichibunken collection.",http://shinku.nichibun.ac.jp/esoshi/,31.12.2022,OK
-D00116,東京帝国大学五十年史料,,C00086,"000, 900","bibliography, still image",『東京帝國大學五十年史』（1932（昭和7）年）編纂の過程で収集された、東京大学の歴史に関する公文書、記録及び編纂のための参考図書等から構成された、東京大学総合図書館が所蔵するコレクション。IIIFで閲覧可能なデジタル画像もある。,,https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/50nenshi/page/home,31.12.2022,OK
-D00117,吉田初三郎式鳥瞰図データベース,,C00047,900,still image,吉田初三郎、および彼の影響のもと同時代の絵師が描いた鳥瞰図を閲覧できるデータベース。IIIFを採用している。,,https://iiif.nichibun.ac.jp/YSD/,31.12.2022,OK
-D00118,RCGSコレクション,,C00105,"000, 600, 700",bibliography,RCGSの所蔵品を検索するためのオンライン・カタログ。ビデオゲームの書誌を適切に記録し、アクセシビリティを向上するためのメタデータモデル研究の成果、またそのモデルに基づく目録作成で得られた書誌データ公開を目的としている。,,https://collection.rcgs.jp/,31.12.2022,OK
-D00119,斯道文庫所蔵典籍解題目録データベース,,C00063,"000, 800, 900",bibliography,慶應義塾大学附属研究所斯道文庫が所蔵する古典籍の目録データベース。,,http://db.sido.keio.ac.jp/sido-tenseki/,31.12.2022,OK
-D00120,琉球･沖縄関係貴重資料デジタルアーカイブ,Ryukyu/Okinawa-related Materials Digital Special Collection (Trial Run) ,C00099,"000, 400, 800, 900","bibliography, still image",琉球・沖縄に関する貴重資料をデジタル画像で公開するデータベース。画像はIIIF対応で公開され、翻刻・現代語訳・英訳などを付与してゆく予定。,,https://shimuchi.lib.u-ryukyu.ac.jp/,31.12.2022,OK
+",,https://opac.jissen.ac.jp/repo/repository/tandai/?lang=0,2023-01-01,OK
+D00104,石造物3Dアーカイブ,,,"000, 200, 900","dataset, other",路傍や寺社にある庚申塔や道祖神などの石仏・石造物をフォトグラメトリ（SfM/MVS）で3Dモデル化し、オープンデータとしてアーカイブするプロジェクト,,https://stonework-3d-archive.github.io/,2023-01-01,OK
+D00105,津軽デジタル風土記,,C00061,900,still image,津軽地方の貴重な文献資料をデジタル化し、ウェブ公開するサイト,,https://tsugaru-fudoki.jp/,2023-01-01,OK
+D00106,古文書・聖教データベース,,C00114,"200, 900",bibliography,長野県諏訪市の佛法紹隆寺が所有する貴重資料を、分類・史料名・年代・発給者により検索できるようにしたもの,,https://buppou-syoryuji.jp/database/komonjo/,2023-01-01,OK
+D00107,地理院地図Vector（仮称）,,C00035,"000, 900","cartographic material, dataset",自分で地図を作成することができるウェブサービス。2020年3月23日現在、試験運用中。,,https://maps.gsi.go.jp/vector/#7/36.104611/140.084556/&ls=vstd&disp=1&d=l,2023-01-01,OK
+D00108,Hi-CAT Plus,,C00081,900,still image,史料編纂所がこれまで撮影・収集した国内および海外に所在する史料の画像データを閲覧するためのデータベース。2020年3月3日より宮内庁書陵部図書寮文庫所蔵史料（家分け）のデジタル画像も閲覧可能になっている。,,https://wwwap.hi.u-tokyo.ac.jp/ships/w81/search,2023-01-01,OK
+D00109,Japanese BERT trained on Aozora Bunko and Wikipedia,,,"000, 400",dataset,青空文庫とウィキペディアでトレーニングした日本語BERT,,https://github.com/akirakubo/bert-japanese-aozora,2023-01-01,OK
+D00110,東京都公文書館デジタルアーカイブ,,C00090,900,"still image, video",東京都公文書館が所蔵する貴重資料をデジタル化し公開したもの。公開コンテンツ利用に関しては利用者マニュアルを参照のこと。,,https://dasasp03.i-repository.net/il/meta_pub/G0000002tokyoarchv00,2023-01-01,OK
+D00111,関西大学デジタルアーカイブ,,C00112,"000, 900",still image,関西大学総合図書館および東アジア文化研究に携わる本学教員の個人蔵書のうち、原資料の著作権保護期間が満了している資料を、IIIF標準で公開している。また、書誌情報と資料画像データは商用・非商用を問わず、無償で自由に利用できる。,,https://www.iiif.ku-orcas.kansai-u.ac.jp/,2023-01-01,OK
+D00112,加藤周一デジタルアーカイブ,Shuichi Kato Digital Archive,C00106,"000, 100, 800, 900",still image,立命館大学図書館所蔵の加藤周一文庫の内、「手稿ノート」を整理し一部をデジタル画像として公開している。,,https://trc-adeac.trc.co.jp/WJ11C0/WJJS02U/2671055100,2023-01-01,OK
+D00113,国宝金沢文庫文書データベース,,C00102,900,"text, still image","金沢文庫文書をデジタル化し高精細画像とテキストデータをデータベースで検索可能にしたもの。2020年4月1日の時点で、全4,149点の内500点の古文書が閲覧可能。",,https://kanazawabunko-db.pen-kanagawa.ed.jp/,2023-01-01,OK
+D00114,史的文字データベース連携検索システム,Multi-database Search System for Historical Chinese Characters,C00053,900,still image,国内外の複数機関が所蔵・管理する史的文字について、数千年におよぶ200万件もの高精細な文字画像を、横断的に検索することができる。,,https://mojiportal.nabunken.go.jp/ja/,2023-01-01,OK
+D00115,風俗図会データベース,Database of Folklore Illustrations,C00047,"000, 900",still image,日文研が所蔵する、江戸時代庶民のあいだで流行した絵入り読み物、絵双紙（絵草子・絵草紙）関係資料の画像データベース,"It contains the images of all pages of ezoshi, or illustrated story books from the Edo period in the Nichibunken collection.",http://shinku.nichibun.ac.jp/esoshi/,2023-01-01,OK
+D00116,東京帝国大学五十年史料,,C00086,"000, 900","bibliography, still image",『東京帝國大學五十年史』（1932（昭和7）年）編纂の過程で収集された、東京大学の歴史に関する公文書、記録及び編纂のための参考図書等から構成された、東京大学総合図書館が所蔵するコレクション。IIIFで閲覧可能なデジタル画像もある。,,https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/50nenshi/page/home,2023-01-01,OK
+D00117,吉田初三郎式鳥瞰図データベース,,C00047,900,still image,吉田初三郎、および彼の影響のもと同時代の絵師が描いた鳥瞰図を閲覧できるデータベース。IIIFを採用している。,,https://iiif.nichibun.ac.jp/YSD/,2023-01-01,OK
+D00118,RCGSコレクション,,C00105,"000, 600, 700",bibliography,RCGSの所蔵品を検索するためのオンライン・カタログ。ビデオゲームの書誌を適切に記録し、アクセシビリティを向上するためのメタデータモデル研究の成果、またそのモデルに基づく目録作成で得られた書誌データ公開を目的としている。,,https://collection.rcgs.jp/,2023-01-01,OK
+D00119,斯道文庫所蔵典籍解題目録データベース,,C00063,"000, 800, 900",bibliography,慶應義塾大学附属研究所斯道文庫が所蔵する古典籍の目録データベース。,,http://db.sido.keio.ac.jp/sido-tenseki/,2023-01-01,OK
+D00120,琉球･沖縄関係貴重資料デジタルアーカイブ,Ryukyu/Okinawa-related Materials Digital Special Collection (Trial Run) ,C00099,"000, 400, 800, 900","bibliography, still image",琉球・沖縄に関する貴重資料をデジタル画像で公開するデータベース。画像はIIIF対応で公開され、翻刻・現代語訳・英訳などを付与してゆく予定。,,https://shimuchi.lib.u-ryukyu.ac.jp/,2023-01-01,OK
 D00121,"
-ラウレスキリシタン文庫データベース",Laures Kirishitan Bunko Database,C00025,"200, 900","text, still image",上智大学キリシタン文庫の設立者であるヨハネス･ラウレス神父が編纂した『吉利支丹文庫』をもとに、さらにその後発見・収集された資料をデジタル資料として公開したもの,,https://digital-archives.sophia.ac.jp/laures-kirishitan-bunko/?lang=ja,31.12.2022,OK
-D00122,上智大学貴重資料データベース,Sophia University Rarebook Database,C00025,"000, 200, 900","text, still image",上智大学図書館の貴重資料室で所蔵されている資料をデジタル化、公開したもの。シーボルト関連資料や、日本におけるキリスト教関連の資料がある。,,https://digital-archives.sophia.ac.jp/rarebook/,31.12.2022,OK
-D00123,東寺百合文書WEB,The Hyakugo Archives WEB,C00029,"000, 200, 900","text, still image",京都府立京都学・歴彩館が所蔵している東寺百合文書を検索・閲覧できるデータベース,,http://hyakugo.pref.kyoto.lg.jp/,31.12.2022,OK
-D00124,国立歴史民俗博物館館蔵中世古文書データベース,,C00044,900,"bibliography, still image",国立歴史民俗博物館が所蔵している「田中本古文書」「越前島津家文書」「水木家資料」などの中世古文書を検索し、デジタル化されているものに関しては閲覧ができる。,,https://www.rekihaku.ac.jp/up-cgi/set_conditionrd.pl?h=./history/w11586428657_20958&p=param/tana/db_param,31.12.2022,OK
-D00125,書陵部所蔵資料目録・画像公開システム,,C00057,"000, 900","bibliography, still image",宮内庁書陵部の歴史的資料（古典籍・考古品など）を検索できるようにしたデータベース。デジタル化してあるアイテムは閲覧可能。,,https://shoryobu.kunaicho.go.jp/,31.12.2022,OK
-D00126,国立国会図書館デジタルコレクション,National Diet Library Digital Collections,C00038,"000, 800, 900","bibliography, still image, sound",国立国会図書館で収集・保存しているデジタル資料を検索/閲覧できる。デジタル資料の中には著作権の都合上閲覧が限られるものもある。,,https://dl.ndl.go.jp/,31.12.2022,OK
-D00127,東京国立博物館所蔵古文書データベース,,C00080,900,"text, bibliography, still image",東京国立博物館所蔵を１通を基本単位として分類し、書誌をつけ翻刻したもの。高精細画像もみられる。現在約200通ほどで、今後内容が増えてゆく、とのこと。,,https://webarchives.tnm.jp/infolib/meta_pub/G0000002100323HD,31.12.2022,OK
-D00128,e国宝,e-Museum,C00042,"000, 700, 900","bibliography, still image",4つの国立博物館 （東京国立博物館、京都国立博物館、 奈良国立博物館、九州国立博物館）が 所蔵する国宝・重要文化財の高精細画像で閲覧することができる。多言語（日本語、英語、フランス語、中国語、韓国語）による解説つき。,,https://emuseum.nich.go.jp/,31.12.2022,OK
-D00129,国立公文書館デジタルアーカイブ,National Archives of Japan Digital Archive,C00037,"000, 900","bibliography, still image",国立公文書館が所蔵する特定歴史公文書等の目録情報の検索、公文書や重要文化財等のデジタル画像等の閲覧、印刷、ダウンロードが可能なインターネットサービス。,,https://www.digital.archives.go.jp/,31.12.2022,OK
-D00130,観世アーカイブ,,C00108,"700, 800, 900",still image,観世文庫が所蔵する能楽資料を検索・閲覧できるデジタル・アーカイブ,,http://gazo.dl.itc.u-tokyo.ac.jp/kanzegazo/,31.12.2022,OK
-D00131,賀茂県主同族会（上賀茂神社）／賀茂祢宜神主系図ほか,,C00109,"200, 900",still image,『賀茂祢宜神主系図（かもねぎかんぬしけいず）』と『足汰競馬会雑記（あしぞろえくらべうまえざっき）』のデジタル画像を閲覧できる,,https://trc-adeac.trc.co.jp/wj11c0/wjjs02u/2600515100,31.12.2022,OK
-D00132,古典籍総合データベース,Kotenseki Sogo Database,C00077,"000, 400, 800, 900",still image,早稲田大学図書館が所蔵する古典籍全文画像をインターネットで公開したもの。,,https://www.wul.waseda.ac.jp/kotenseki/,31.12.2022,OK
-D00133,中条家文書目録データベース,,C00058,900,"bibliography, still image",山形大学附属図書館所蔵の中条家文書が検索できる,,https://www.lib.yamagata-u.ac.jp/database/nakajo/nakajo.php,31.12.2022,OK
-D00134,神奈川県立公文書館デジタルアーカイブ,,C00115,900,still image,神奈川県立公文書館の収蔵資料のうち、検索結果で画像で確認できるデジタルアーカイブを資料名やキーワードで検索することができる,,https://archives.pref.kanagawa.jp/www/genre/1000000000155/index.html,31.12.2022,OK
-D00135,日本近代辞書・字書集,Japanese pre-modern dictionaries,C00026,"000, 200, 400, 900",text,キリシタン文献辞書類が取り上げた語彙と、近代日本辞書・字書の語彙との対照を目的として作成されたデータベース。現在は「言海」の初版が登録されており、また国立国会図書館デジタルコレクションが提供するイメージ画像へのリンクも付与されている,,https://www.joao-roiz.jp/JPDICT/DB,31.12.2022,OK
-D00136,Japanese Media and Popular Culture,Japanese Media and Popular Culture,C00083,"000, 300, 700","text, still image",日本のマスメディアやポップカルチャーで頻出する言葉（人名、タイトル、関連語など）に英語で解説を付与したもの。,,https://jmpc-utokyo.com/,31.12.2022,OK
-D00137,遊廓・遊所研究データベース,Database for Licenced Quarter (Yukaku) as a Society Study,C00111,"300, 900",text,近世～近代日本の遊廓について、列島諸地域の多様な事例を発掘し、史料の所在調査・関係史料の収集および分析を進めていくために必要な情報を掲載し、またその分析・研究内容をも随時反映させていくものです。,,http://yukakustudy.jp/,31.12.2022,OK
+ラウレスキリシタン文庫データベース",Laures Kirishitan Bunko Database,C00025,"200, 900","text, still image",上智大学キリシタン文庫の設立者であるヨハネス･ラウレス神父が編纂した『吉利支丹文庫』をもとに、さらにその後発見・収集された資料をデジタル資料として公開したもの,,https://digital-archives.sophia.ac.jp/laures-kirishitan-bunko/?lang=ja,2023-01-01,OK
+D00122,上智大学貴重資料データベース,Sophia University Rarebook Database,C00025,"000, 200, 900","text, still image",上智大学図書館の貴重資料室で所蔵されている資料をデジタル化、公開したもの。シーボルト関連資料や、日本におけるキリスト教関連の資料がある。,,https://digital-archives.sophia.ac.jp/rarebook/,2023-01-01,OK
+D00123,東寺百合文書WEB,The Hyakugo Archives WEB,C00029,"000, 200, 900","text, still image",京都府立京都学・歴彩館が所蔵している東寺百合文書を検索・閲覧できるデータベース,,http://hyakugo.pref.kyoto.lg.jp/,2023-01-01,OK
+D00124,国立歴史民俗博物館館蔵中世古文書データベース,,C00044,900,"bibliography, still image",国立歴史民俗博物館が所蔵している「田中本古文書」「越前島津家文書」「水木家資料」などの中世古文書を検索し、デジタル化されているものに関しては閲覧ができる。,,https://www.rekihaku.ac.jp/up-cgi/set_conditionrd.pl?h=./history/w11586428657_20958&p=param/tana/db_param,2023-01-01,OK
+D00125,書陵部所蔵資料目録・画像公開システム,,C00057,"000, 900","bibliography, still image",宮内庁書陵部の歴史的資料（古典籍・考古品など）を検索できるようにしたデータベース。デジタル化してあるアイテムは閲覧可能。,,https://shoryobu.kunaicho.go.jp/,2023-01-01,OK
+D00126,国立国会図書館デジタルコレクション,National Diet Library Digital Collections,C00038,"000, 800, 900","bibliography, still image, sound",国立国会図書館で収集・保存しているデジタル資料を検索/閲覧できる。デジタル資料の中には著作権の都合上閲覧が限られるものもある。,,https://dl.ndl.go.jp/,2023-01-01,OK
+D00127,東京国立博物館所蔵古文書データベース,,C00080,900,"text, bibliography, still image",東京国立博物館所蔵を１通を基本単位として分類し、書誌をつけ翻刻したもの。高精細画像もみられる。現在約200通ほどで、今後内容が増えてゆく、とのこと。,,https://webarchives.tnm.jp/infolib/meta_pub/G0000002100323HD,2023-01-01,OK
+D00128,e国宝,e-Museum,C00042,"000, 700, 900","bibliography, still image",4つの国立博物館 （東京国立博物館、京都国立博物館、 奈良国立博物館、九州国立博物館）が 所蔵する国宝・重要文化財の高精細画像で閲覧することができる。多言語（日本語、英語、フランス語、中国語、韓国語）による解説つき。,,https://emuseum.nich.go.jp/,2023-01-01,OK
+D00129,国立公文書館デジタルアーカイブ,National Archives of Japan Digital Archive,C00037,"000, 900","bibliography, still image",国立公文書館が所蔵する特定歴史公文書等の目録情報の検索、公文書や重要文化財等のデジタル画像等の閲覧、印刷、ダウンロードが可能なインターネットサービス。,,https://www.digital.archives.go.jp/,2023-01-01,OK
+D00130,観世アーカイブ,,C00108,"700, 800, 900",still image,観世文庫が所蔵する能楽資料を検索・閲覧できるデジタル・アーカイブ,,http://gazo.dl.itc.u-tokyo.ac.jp/kanzegazo/,2023-01-01,OK
+D00131,賀茂県主同族会（上賀茂神社）／賀茂祢宜神主系図ほか,,C00109,"200, 900",still image,『賀茂祢宜神主系図（かもねぎかんぬしけいず）』と『足汰競馬会雑記（あしぞろえくらべうまえざっき）』のデジタル画像を閲覧できる,,https://trc-adeac.trc.co.jp/wj11c0/wjjs02u/2600515100,2023-01-01,OK
+D00132,古典籍総合データベース,Kotenseki Sogo Database,C00077,"000, 400, 800, 900",still image,早稲田大学図書館が所蔵する古典籍全文画像をインターネットで公開したもの。,,https://www.wul.waseda.ac.jp/kotenseki/,2023-01-01,OK
+D00133,中条家文書目録データベース,,C00058,900,"bibliography, still image",山形大学附属図書館所蔵の中条家文書が検索できる,,https://www.lib.yamagata-u.ac.jp/database/nakajo/nakajo.php,2023-01-01,OK
+D00134,神奈川県立公文書館デジタルアーカイブ,,C00115,900,still image,神奈川県立公文書館の収蔵資料のうち、検索結果で画像で確認できるデジタルアーカイブを資料名やキーワードで検索することができる,,https://archives.pref.kanagawa.jp/www/genre/1000000000155/index.html,2023-01-01,OK
+D00135,日本近代辞書・字書集,Japanese pre-modern dictionaries,C00026,"000, 200, 400, 900",text,キリシタン文献辞書類が取り上げた語彙と、近代日本辞書・字書の語彙との対照を目的として作成されたデータベース。現在は「言海」の初版が登録されており、また国立国会図書館デジタルコレクションが提供するイメージ画像へのリンクも付与されている,,https://www.joao-roiz.jp/JPDICT/DB,2023-01-01,OK
+D00136,Japanese Media and Popular Culture,Japanese Media and Popular Culture,C00083,"000, 300, 700","text, still image",日本のマスメディアやポップカルチャーで頻出する言葉（人名、タイトル、関連語など）に英語で解説を付与したもの。,,https://jmpc-utokyo.com/,2023-01-01,OK
+D00137,遊廓・遊所研究データベース,Database for Licenced Quarter (Yukaku) as a Society Study,C00111,"300, 900",text,近世～近代日本の遊廓について、列島諸地域の多様な事例を発掘し、史料の所在調査・関係史料の収集および分析を進めていくために必要な情報を掲載し、またその分析・研究内容をも随時反映させていくものです。,,http://yukakustudy.jp/,2023-01-01,OK
 D00138,デジタルアーカイブ福井,,C00103,"000, 200, 400, 800, 900","text, review, still image","福井県文書館・福井県立図書館・福井県ふるさと文学館・福井県県政情報センターが所蔵している資料の目録情報を公開しています。一部の資料（古文書、新聞、写真、デジタル
-資料等）に関しては、目録情報に紐づく画像や刊行物（PDF）を公開している。",,https://www.library-archives.pref.fukui.lg.jp/archive/,31.12.2022,OK
-D00139,Khirin-a,Khirin a,C00044,900,still image,書誌情報データベースでもある「Khirin」に含まれるコンテンツの内、IIIFで画像データを公開しているもののみを検索できるようにしたもの。,,https://khirin-a.rekihaku.ac.jp/,31.12.2022,OK
-D00140,海外邦字新聞データベース,,C00047,"000, 300, 900",still image,サンパウロ、サンフランシスコ、ブエノスアイレスにて発行された邦字新聞9紙をPDFで閲覧できる。記事は、新聞タイトルを選びそこから発行日をたどることで該当号をPDFで開き、さがす。,,https://rakusai.nichibun.ac.jp/hoji/index.html,31.12.2022,OK
-D00141,Geolonia 住所データ,,C00003,"000, 900",dataset,全国の町丁目レベルの住所データをオープンデータとして公開したもの。CSVフォーマット。,,https://geolonia.github.io/japanese-addresses/,31.12.2022,OK
-D00142,Cultural Japan,,,"000, 100, 200, 400, 700, 800, 900",still image,日本文化に関する情報をEuropeanaやDPLAなど世界の様々なデータベースを横断して検索できる。,,https://cultural.jp/en?fbclid=IwAR2IsKsHBK47q3HXjkHAhV-yinojL6iaJCvySqOi41ew10fMrFEDL7R0is8,31.12.2022,OK
-D00143,変体仮名字形データベース,,C00039,"400, 800, 900",,変体仮名の字形を音価、字母、Unicodeに分類して表示するデータベース,,https://cid.ninjal.ac.jp/hentaiganaDB/,31.12.2022,OK
-D00144,神名データベース,,C00049,200,,古事記に登場する神々の名前を検索できるデータベース,,http://kojiki.kokugakuin.ac.jp/shinmei/,31.12.2022,OK
-D00145,法隆寺金堂壁画写真ガラス原板デジタルビューア,The Glass Photographic Plates of the Kondō Murals at Hōryūji Temple—Digital Viewer,C00095,"200, 700, 900",still image,法隆寺金堂壁画の焼損前を状態を写したガラス原板をデジタル化して公開したもの,,https://horyuji-kondohekiga.jp/,31.12.2022,OK
-D00146,学びと遊びの歴史,,C00089,"300, 900",still image,往来物、明治初期教科書、絵双六など遊びと学び、双方に関連した歴史資料のデジタルアーカイブ,,http://library.u-gakugei.ac.jp/digitalarchive/archivetop.html,31.12.2022,OK
-D00147,篆字部首検索システム（テキスト検索版）,,C00019,"000, 400, 700, 800, 900",,蔵書印などにつかわれる篆書体を部首で検索し、該当文字が掲載された書籍のデジタル画像を閲覧できるようにしたデータベース,,https://base1.nijl.ac.jp/~collectors_seal/seal_script/,31.12.2022,OK
-D00148,戦後教育資料デジタルアーカイブ,,C00041,"300, 900",still image,終戦から講和条約（昭和20年9月から昭和27年5月）までの教育改革に関する資料。法律、命令、規則、通達として制定・公表されたものだけでなく、その制定過程、背景まで、 戦後の教育改革の基本となる資料を検索・閲覧できる。,,https://www.nier.go.jp/library/sengo/index.html,31.12.2022,OK
-D00149,ジャパンサーチ,Japan Search,C00038,"000, 700, 900",still image,日本の様々機関が作成したデジタル資料を横断検索できるプラットフォーム。検索だけでなく、資料の閲覧や自分のノートを作成することで資料の利活用もできる。,,https://jpsearch.go.jp/,31.12.2022,OK
-D00150,邦字新聞デジタル・コレクション,HOJI SHINBUN DIGITAL COLLECTION,C00004,"000, 900","text, still image",アメリカ大陸、アジアにおける海外在住の日本人や日系人が発行した海外日系新聞を集めた世界最大規模のオンライン、オープンアクセス、全ページ画像を提供するコレクション。新聞記事は可能な限りOCRでテキスト化し、検索可能にしている。,,https://hojishinbun.hoover.org/?a=p&e=-------en-10--1--img---------&p=home&l=ja,31.12.2022,OK
+資料等）に関しては、目録情報に紐づく画像や刊行物（PDF）を公開している。",,https://www.library-archives.pref.fukui.lg.jp/archive/,2023-01-01,OK
+D00139,Khirin-a,Khirin a,C00044,900,still image,書誌情報データベースでもある「Khirin」に含まれるコンテンツの内、IIIFで画像データを公開しているもののみを検索できるようにしたもの。,,https://khirin-a.rekihaku.ac.jp/,2023-01-01,OK
+D00140,海外邦字新聞データベース,,C00047,"000, 300, 900",still image,サンパウロ、サンフランシスコ、ブエノスアイレスにて発行された邦字新聞9紙をPDFで閲覧できる。記事は、新聞タイトルを選びそこから発行日をたどることで該当号をPDFで開き、さがす。,,https://rakusai.nichibun.ac.jp/hoji/index.html,2023-01-01,OK
+D00141,Geolonia 住所データ,,C00003,"000, 900",dataset,全国の町丁目レベルの住所データをオープンデータとして公開したもの。CSVフォーマット。,,https://geolonia.github.io/japanese-addresses/,2023-01-01,OK
+D00142,Cultural Japan,,,"000, 100, 200, 400, 700, 800, 900",still image,日本文化に関する情報をEuropeanaやDPLAなど世界の様々なデータベースを横断して検索できる。,,https://cultural.jp/en?fbclid=IwAR2IsKsHBK47q3HXjkHAhV-yinojL6iaJCvySqOi41ew10fMrFEDL7R0is8,2023-01-01,OK
+D00143,変体仮名字形データベース,,C00039,"400, 800, 900",,変体仮名の字形を音価、字母、Unicodeに分類して表示するデータベース,,https://cid.ninjal.ac.jp/hentaiganaDB/,2023-01-01,OK
+D00144,神名データベース,,C00049,200,,古事記に登場する神々の名前を検索できるデータベース,,http://kojiki.kokugakuin.ac.jp/shinmei/,2023-01-01,OK
+D00145,法隆寺金堂壁画写真ガラス原板デジタルビューア,The Glass Photographic Plates of the Kondō Murals at Hōryūji Temple—Digital Viewer,C00095,"200, 700, 900",still image,法隆寺金堂壁画の焼損前を状態を写したガラス原板をデジタル化して公開したもの,,https://horyuji-kondohekiga.jp/,2023-01-01,OK
+D00146,学びと遊びの歴史,,C00089,"300, 900",still image,往来物、明治初期教科書、絵双六など遊びと学び、双方に関連した歴史資料のデジタルアーカイブ,,http://library.u-gakugei.ac.jp/digitalarchive/archivetop.html,2023-01-01,OK
+D00147,篆字部首検索システム（テキスト検索版）,,C00019,"000, 400, 700, 800, 900",,蔵書印などにつかわれる篆書体を部首で検索し、該当文字が掲載された書籍のデジタル画像を閲覧できるようにしたデータベース,,https://base1.nijl.ac.jp/~collectors_seal/seal_script/,2023-01-01,OK
+D00148,戦後教育資料デジタルアーカイブ,,C00041,"300, 900",still image,終戦から講和条約（昭和20年9月から昭和27年5月）までの教育改革に関する資料。法律、命令、規則、通達として制定・公表されたものだけでなく、その制定過程、背景まで、 戦後の教育改革の基本となる資料を検索・閲覧できる。,,https://www.nier.go.jp/library/sengo/index.html,2023-01-01,OK
+D00149,ジャパンサーチ,Japan Search,C00038,"000, 700, 900",still image,日本の様々機関が作成したデジタル資料を横断検索できるプラットフォーム。検索だけでなく、資料の閲覧や自分のノートを作成することで資料の利活用もできる。,,https://jpsearch.go.jp/,2023-01-01,OK
+D00150,邦字新聞デジタル・コレクション,HOJI SHINBUN DIGITAL COLLECTION,C00004,"000, 900","text, still image",アメリカ大陸、アジアにおける海外在住の日本人や日系人が発行した海外日系新聞を集めた世界最大規模のオンライン、オープンアクセス、全ページ画像を提供するコレクション。新聞記事は可能な限りOCRでテキスト化し、検索可能にしている。,,https://hojishinbun.hoover.org/?a=p&e=-------en-10--1--img---------&p=home&l=ja,2023-01-01,OK
 D00151,浪曲SPレコードデジタルアーカイブ,,C00047,"700, 900","bibliography, still image, sound","明治30年代から昭和30年代までに出版された浪曲SPレコードと
-浪曲関係資料を検索できるようにしたもの。レコード盤面画像は全て公開しているが、音源は著作権保護期間満了分のみインターネット公開している。",,https://kutsukake.nichibun.ac.jp/rsp/,31.12.2022,OK
-D00152,摂関期古記録データベース,,C00047,"000, 800, 900",text,平安時代摂関期の日記資料などを全文テキスト検索にし、どの資料のどの日付の箇所にキーワードがあらわれるか見られるようにしたもの。,,https://rakusai.nichibun.ac.jp/kokiroku/,31.12.2022,OK
-D00153,江戸・東京WebGIS,,C00072,900,cartographic material,現代の東京の地図に江戸時代の古地図を重ね合わせたり、歌舞伎・落語などで言及のある場所を地図上に表示させたりすることができる。,,https://dep.chs.nihon-u.ac.jp/japanese_lang/nichigo-nichibun/web-edo-tokyo/,31.12.2022,OK
+浪曲関係資料を検索できるようにしたもの。レコード盤面画像は全て公開しているが、音源は著作権保護期間満了分のみインターネット公開している。",,https://kutsukake.nichibun.ac.jp/rsp/,2023-01-01,OK
+D00152,摂関期古記録データベース,,C00047,"000, 800, 900",text,平安時代摂関期の日記資料などを全文テキスト検索にし、どの資料のどの日付の箇所にキーワードがあらわれるか見られるようにしたもの。,,https://rakusai.nichibun.ac.jp/kokiroku/,2023-01-01,OK
+D00153,江戸・東京WebGIS,,C00072,900,cartographic material,現代の東京の地図に江戸時代の古地図を重ね合わせたり、歌舞伎・落語などで言及のある場所を地図上に表示させたりすることができる。,,https://dep.chs.nihon-u.ac.jp/japanese_lang/nichigo-nichibun/web-edo-tokyo/,2023-01-01,OK
 D00154,"みんなで翻刻 サーチ
-",,C00011,"000, 400, 800, 900","text, still image",みんなで翻刻で翻刻されたテキストを全文検索できるようにしたもの。本文テキストからタグや改行情報などをとり、N-gramでインデックスをとっている,,https://honkoku.dhii.jp/,31.12.2022,OK
-D00155,みんなでつくる信州上田デジタルマップ,,C00031,"000, 300, 600, 700, 900","text, still image, video",信州上田学プロジェクトの一環として長野県上田市に関する様々な情報をあつめ、公開している。また、タイトルからもわかるようにシティズンサイエンスとして市民が上田市に関すること、ものを登録することも可能である。,,https://d-commons.net/uedagaku/index.php,31.12.2022,OK
-D00156,水俣学研究センター所蔵資料データベース,Database of Archival Documents in the Open Research Center for Minamata Studies,C00092,"300, 600, 900",,水俣病に関する資料の内、水俣学研究センター（大学）や水俣学現地研究センター（水俣市）が所蔵している資料を検索できるようにしたもの。中にはデジタル化され閲覧可能なものもある。,,http://www3.kumagaku.ac.jp/minamata/database/,31.12.2022,OK
-D00157,ダンス・アーカイヴ,Dance Archive,C00014,"700, 900",,舞踏及び日本洋舞史の資料をデータベース上で検索できるようにしたもの。,,http://www.dance-archive.net/jp/archive/,31.12.2022,OK
-D00158,あいしょうデジタルライブラリー,,C00062,"300, 900",still image,滋賀県愛知郡愛荘町市が業務上撮影した昔の写真を公開している。,,https://www.town.aisho.shiga.jp/toshokan/library/index.html,31.12.2022,OK
-D00159,コロナアーカイブ＠関西大学,Corona Archive @ Kansai University,C00112,"000, 300",,新型コロナウイルスで被った学生生活や業務、教育等への影響などを関西大学関係者から募り収集・公開している,,https://www.annex.ku-orcas.kansai-u.ac.jp/s/covid19archive/page/covidmemory,31.12.2022,OK
-D00160,にいがた MALUI連携・地域データベース,,C00016,"000, 300, 900","text, still image",新潟県立図書館「郷土新聞画像データベース」と、新潟大学人文社会・教育科学系附置地域映像アーカイブ研究センターの新潟大学「にいがた 地域映像アーカイブ・データベース」を統合し、一元的に新潟県全体の文化資源を管理公開できるようにしたもの,,https://arc.human.niigata-u.ac.jp/malui/index.html#!page1,31.12.2022,OK
-D00161,阪神淡路大震災25年激震の記録1995取材映像アーカイブ,,C00079,"000, 300, 900",video,阪神淡路大震災の際、朝日放送グループが取材した映像のうち発生直後から8月23日までの約7ヶ月間のものから抜粋した、約38時間分を公開している。,,https://www.asahi.co.jp/hanshin_awaji-1995/,31.12.2022,OK
-D00162,史的文字データベース連携検索システム,Multi-database Search System for Historical Chinese Characters,C00053,"000, 400, 800, 900",,東アジアの史的文字を検索し、高精細画像で閲覧できる。日本国内のデータベースだけでなく、海外のデータベースとも連携している。,,https://mojiportal.nabunken.go.jp/,31.12.2022,OK
-D00163,竹内道敬文庫の世界,,C00046,"700, 900",still image,竹内道敬文庫に含まれる主に江戸時代以降の三味線音楽を中心とした錦絵、正本、番付等などをデジタル化し、CC BY-NC-ND 4.0に基づいて公開している。,,https://www.arc.ritsumei.ac.jp/lib/vm/kunitake/,31.12.2022,OK
-D00164,教科書LOD,,C00066,"000, 100","bibliography, book, other",初等教育、中等教育で使われている学習指導要領と現行使用教科書の出版情報を Linked Open Data (LOD) として公開している,,https://jp-textbook.github.io/,31.12.2022,OK
-D00165,全国遺跡報告総覧,Comprehensive Database of Archeological Site Reports in Japan,C00053,"000, 900","text, bibliography, book, journal, journal article, video",埋蔵文化財の発掘調査報告書を全文電子化して、インターネット上で検索・閲覧できるようにしたもの。,,https://sitereports.nabunken.go.jp/ja,31.12.2022,OK
-D00166,文化財動画ライブラリー（文化財動画検索）,,C00053,900,video,文化財に関する様々な動画（文化財紹介、展示など）を所在地、文化財種別、時代、またはフリーワードなどで検索・閲覧できる,,https://sitereports.nabunken.go.jp/ja/search-video,31.12.2022,OK
-D00167,文化財論文ナビ,,C00053,900,"text, bibliography, book, journal, journal article",文化財に関する論文を文化財所在地、時代、文化財種別、フリーワードなどで検索出来るデータベース。,,https://sitereports.nabunken.go.jp/ja/search-article,31.12.2022,OK
-D00168,Japanese Rare Book Digital Collection,Japanese Rare Book Digital Collection,C00013,"000, 700, 800, 900",still image,アメリカ議会図書館の日本貴重書部門の蔵書の一部をデジタル化して公開したもの。現在デジタル化して公開されていないものも、今後も引き続きデジタル化される予定。,"The Japanese Rare Book Digital Collection features materials from the Asian Division at the Library of Congress. The division’s Japanese Rare Book Collection comprises some 6,000 titles that span diverse genres and cover all manner of subjects. ",https://www.loc.gov/collections/japanese-rare-books/,31.12.2022,OK
-D00169,文化財総覧WebGIS,,C00053,"000, 200, 700, 900",cartographic material,各種文化財や遺跡、木簡などの発見場所を地図で確認し、その詳細をみることができる,,https://heritagemap.nabunken.go.jp/main,31.12.2022,OK
-D00170,Plateau,Plateau,C00034,"000, 300, 600, 900","cartographic material, interactive resource, other",3D都市モデルをオープンデータ化したもの。都市活動のプラットフォームデータとして 3D都市モデルを整備し、そのユースケースを創出。さらにこれをオープンデータとして公開することで、誰もが自由に都市のデータを引き出し、活用できるようになる。,,https://www.mlit.go.jp/plateau/,31.12.2022,OK
-D00171,JDCat 人文学・社会科学総合データカタログ,Japan Data Catalog for the Humanities and Social Sciences,C00073,"000, 100, 200, 300, 400, 700, 800, 900",dataset,人文学・社会科学分野データのメタデータ（データセットのコンテンツ、コンテキスト、出所などを表現する手段）の一括検索が可能なデータカタログ,,https://jdcat.jsps.go.jp,31.12.2022,OK
-D00172,書陵部所蔵資料目録・画像公開システム,,C00057,"200, 800, 900",still image,図書寮文庫が所蔵する古典籍・古文書類と宮内公文書館が所蔵する特定歴史公文書等を一度に横断検索することができる,,https://shoryobu.kunaicho.go.jp/,31.12.2022,OK
-D00173,明治期官僚・官職データベース　ver.2.1,,,900,dataset,慶応4年～明治44年5月までの官員録・職員録及び帝大卒業者・資格試験及第者をエクセルに記入し検索出きるようにしたもの。各個人が申請することでエクセル・ファイルをダウンロードし利用することができる。,,https://docs.google.com/forms/d/e/1FAIpQLSfaPdOTVMiVCVMDV1BKmvgTWSnpt0kqRq8wWybeObGy6VsVzw/viewform,31.12.2022,OK
-D00174,東京五輪アーカイブ1964-2020,,C00096,"300, 900","text, still image, cartographic material",朝日新聞社が所蔵する1964年大会当時の写真や記事を3次元地形や建物モデルに重ね検索できるようにしたもの。,,https://1964.mapping.jp/,31.12.2022,OK
-D00175,沖縄戦デジタルアーカイブ～戦世からぬ伝言（いくさゆーからぬちてーぐとぅ）,,C00093,"000, 900","text, still image, video, cartographic material",沖縄戦に関する証言（テキスト、動画）をウェブサイトで解説とともに掲載するほか、これらの情報を地図にマッピング、さらにタイムラインで動的に可視化したもの。,,https://app.okinawatimes.co.jp/sengo70/index.html,31.12.2022,OK
-D00176,東日本大震災アーカイブ,The East Japan Earthquake Archive,C00096,"000, 300, 900","text, still image, video, cartographic material",東日本大震災当時のツイートや震災に関係する方々の証言、また震災に関する動画などを地図上にマッピングして可視化したもの。,,https://shinsai.mapping.jp/index_en.html,31.12.2022,OK
-D00177,ヒロシマ・アーカイブ,Hiroshima Archive,C00018,900,"text, still image, video, cartographic material",広島平和記念資料館、広島女学院同窓会、八王子原爆被爆者の会、中国新聞社をはじめとする提供元から得られたすべての資料を、デジタル地球儀上に重層表示した多元的デジタル・アーカイブズ,"A pluralistic digital archive using the digital earth to display on it in a multilayered way all the materials gained from such sources as the Hiroshima Peace Memorial Museum, the Hiroshima Jogakuin Gaines Association, and the Hachioji Hibakusha (A-bomb Survivors) Association.",https://hiroshima.mapping.jp/index_jp.html,31.12.2022,OK
-D00178,ナガサキ・アーカイブ,Nagasaki Archive,C00008,900,"text, still image, cartographic material",長崎に投下された原爆に関する証言や写真などを地図上にマッピングして可視化したもの。,,https://n.mapping.jp/index_en.html,31.12.2022,OK
-D00179,音声コーパスリスト,,C00113,"000, 400",dataset,音声資源コンソーシアムが提供もしくは取り次ぐ言語コーパスのリスト。有償・無償野両方がリストアップされている。,,https://research.nii.ac.jp/src/list.html,31.12.2022,OK
-D00180,情報学研究データリポジトリ（IDR）,Informatics Research Data Repository,C00040,"000, 100, 300, 400, 600",dataset,音声データなど、いろいろなデータセットを民間企業や大学等研究者から受け入れて研究者に提供している。利用者はデータ一覧から希望のデータセットを探し、利用条件を確認したのち、利用申請をする。,,https://www.nii.ac.jp/dsc/idr/,31.12.2022,OK
-D00181,関東大震災映像デジタルアーカイブ,Films of the Great Kanto Earthquake of 1923,C00043,900,video,関東大震災について、国立映画アーカイブで所蔵する関連の映画フィルムなどの資料を紹介するウェブサイト,,https://kantodaishinsai.filmarchives.jp/,31.12.2022,OK
-D00182,e-Gov法令検索,,C00015,300,text,日本の法令（憲法・法律・政令・勅令・府令・省令・規則など）の内容を検索することができる。また法令データをXML形式で一括して、さらにAPIを通じても提供している。,,https://elaws.e-gov.go.jp/,31.12.2022,OK
-D00183,地震史料集テキストデータベース,,C00082,"500, 900",text,地震に関する史料を収集し、全文テキストデータベースを構築したもの。一部史料にはOCRをかけただけの校訂を経ていないものもある。,,https://materials.utkozisin.org/,31.12.2022,OK
-D00184,『人事興信録』データベース,Jinji koshinroku (who's who) Database,C00033,"000, 300, 900",text,1902年から2009年まで刊行された『人事興信録』のうち特定の版の情報から全文テキストデータを作成し、一部情報を構造化してデータベースで検索できようにしたもの。,,https://jahis.law.nagoya-u.ac.jp/who/,31.12.2022,OK
-D00185,対日指令集データベース(SCAPIN-DB),Database of Supreme Commander for the Allied Powers Directives to the Japanese Government (SCAPIN),C00033,"300, 900",text,国立国会図書館デジタルコレクションの画像などから、連合国最高司令官（SCAP）から日本政府に出された指令を全文テキストデータ化して検索可能にしたもの。,,https://jahis.law.nagoya-u.ac.jp/scapindb/,31.12.2022,OK
-D00186,裁判例データベース(明治・大正編),,C00033,"300, 900",text,明治・大正時代の裁判例を事件名、キーワード、掲載文献などから検索できる。,,https://jahis.law.nagoya-u.ac.jp/hanrei,31.12.2022,OK
-D00187,『法律新聞』データベース,,C00033,"300, 900",text,明治時代に出版された法律新聞を全文テキストデータ化して検索出来るようにしたもの。,,https://jahis.law.nagoya-u.ac.jp/%E6%B3%95%E5%BE%8B%E6%96%B0%E8%81%9E,31.12.2022,OK
-D00188,Digital 法寶義林 (Hôbôgirin),,C00020,200,text,仏教に関する百科事典『法寶義林』の内容を様々な方法（地図データや時系列）で検索出来るようにしたもの。,,https://tripitaka.l.u-tokyo.ac.jp/hbgrn/#,31.12.2022,OK
-D00189,『廣瀬本万葉集』TEI/XMLデータ,,C00112,800,text,万葉集写本の『廣瀬本万葉集』をTEIで構造化し記述したもの。Github上でCC-BYライセンスで公開されている。,,https://github.com/KU-ORCAS/manyoshuTEI,31.12.2022,OK
-D00190,Web茶まめ,,C00039,"000, 400, 800, 900",other,UniDic(現代語、古語など)をつかって形態素解析をWeb上でできるツール。HTMLやCSVなど様々な形式でエクスポートが可能。,,https://chamame.ninjal.ac.jp/,31.12.2022,OK
-D00191,学術情報交換用変体仮名 公開サイト,,C00098,"400, 600, 900","text, still image",国際文字コード規格に提案するために選定した「変体仮名」の文字画像と文字情報をデータベースで検索出来るようにしたもの。,,https://cid.ninjal.ac.jp/kana/home,31.12.2022,OK
-D00192,「古代・中世」地震・噴火史料データベース(β版),,C00032,900,text,日本の古代・中世の地震と噴火および関連事象に関する既刊の文献史料（文書・記録・典籍に記された記事）のすべてについて史料学的・理学的検討を加えて、検索の便に供するもの,,https://historical.seismology.jp/eshiryodb/,31.12.2022,OK
+",,C00011,"000, 400, 800, 900","text, still image",みんなで翻刻で翻刻されたテキストを全文検索できるようにしたもの。本文テキストからタグや改行情報などをとり、N-gramでインデックスをとっている,,https://honkoku.dhii.jp/,2023-01-01,OK
+D00155,みんなでつくる信州上田デジタルマップ,,C00031,"000, 300, 600, 700, 900","text, still image, video",信州上田学プロジェクトの一環として長野県上田市に関する様々な情報をあつめ、公開している。また、タイトルからもわかるようにシティズンサイエンスとして市民が上田市に関すること、ものを登録することも可能である。,,https://d-commons.net/uedagaku/index.php,2023-01-01,OK
+D00156,水俣学研究センター所蔵資料データベース,Database of Archival Documents in the Open Research Center for Minamata Studies,C00092,"300, 600, 900",,水俣病に関する資料の内、水俣学研究センター（大学）や水俣学現地研究センター（水俣市）が所蔵している資料を検索できるようにしたもの。中にはデジタル化され閲覧可能なものもある。,,http://www3.kumagaku.ac.jp/minamata/database/,2023-01-01,OK
+D00157,ダンス・アーカイヴ,Dance Archive,C00014,"700, 900",,舞踏及び日本洋舞史の資料をデータベース上で検索できるようにしたもの。,,http://www.dance-archive.net/jp/archive/,2023-01-01,OK
+D00158,あいしょうデジタルライブラリー,,C00062,"300, 900",still image,滋賀県愛知郡愛荘町市が業務上撮影した昔の写真を公開している。,,https://www.town.aisho.shiga.jp/toshokan/library/index.html,2023-01-01,OK
+D00159,コロナアーカイブ＠関西大学,Corona Archive @ Kansai University,C00112,"000, 300",,新型コロナウイルスで被った学生生活や業務、教育等への影響などを関西大学関係者から募り収集・公開している,,https://www.annex.ku-orcas.kansai-u.ac.jp/s/covid19archive/page/covidmemory,2023-01-01,OK
+D00160,にいがた MALUI連携・地域データベース,,C00016,"000, 300, 900","text, still image",新潟県立図書館「郷土新聞画像データベース」と、新潟大学人文社会・教育科学系附置地域映像アーカイブ研究センターの新潟大学「にいがた 地域映像アーカイブ・データベース」を統合し、一元的に新潟県全体の文化資源を管理公開できるようにしたもの,,https://arc.human.niigata-u.ac.jp/malui/index.html#!page1,2023-01-01,OK
+D00161,阪神淡路大震災25年激震の記録1995取材映像アーカイブ,,C00079,"000, 300, 900",video,阪神淡路大震災の際、朝日放送グループが取材した映像のうち発生直後から8月23日までの約7ヶ月間のものから抜粋した、約38時間分を公開している。,,https://www.asahi.co.jp/hanshin_awaji-1995/,2023-01-01,OK
+D00162,史的文字データベース連携検索システム,Multi-database Search System for Historical Chinese Characters,C00053,"000, 400, 800, 900",,東アジアの史的文字を検索し、高精細画像で閲覧できる。日本国内のデータベースだけでなく、海外のデータベースとも連携している。,,https://mojiportal.nabunken.go.jp/,2023-01-01,OK
+D00163,竹内道敬文庫の世界,,C00046,"700, 900",still image,竹内道敬文庫に含まれる主に江戸時代以降の三味線音楽を中心とした錦絵、正本、番付等などをデジタル化し、CC BY-NC-ND 4.0に基づいて公開している。,,https://www.arc.ritsumei.ac.jp/lib/vm/kunitake/,2023-01-01,OK
+D00164,教科書LOD,,C00066,"000, 100","bibliography, book, other",初等教育、中等教育で使われている学習指導要領と現行使用教科書の出版情報を Linked Open Data (LOD) として公開している,,https://jp-textbook.github.io/,2023-01-01,OK
+D00165,全国遺跡報告総覧,Comprehensive Database of Archeological Site Reports in Japan,C00053,"000, 900","text, bibliography, book, journal, journal article, video",埋蔵文化財の発掘調査報告書を全文電子化して、インターネット上で検索・閲覧できるようにしたもの。,,https://sitereports.nabunken.go.jp/ja,2023-01-01,OK
+D00166,文化財動画ライブラリー（文化財動画検索）,,C00053,900,video,文化財に関する様々な動画（文化財紹介、展示など）を所在地、文化財種別、時代、またはフリーワードなどで検索・閲覧できる,,https://sitereports.nabunken.go.jp/ja/search-video,2023-01-01,OK
+D00167,文化財論文ナビ,,C00053,900,"text, bibliography, book, journal, journal article",文化財に関する論文を文化財所在地、時代、文化財種別、フリーワードなどで検索出来るデータベース。,,https://sitereports.nabunken.go.jp/ja/search-article,2023-01-01,OK
+D00168,Japanese Rare Book Digital Collection,Japanese Rare Book Digital Collection,C00013,"000, 700, 800, 900",still image,アメリカ議会図書館の日本貴重書部門の蔵書の一部をデジタル化して公開したもの。現在デジタル化して公開されていないものも、今後も引き続きデジタル化される予定。,"The Japanese Rare Book Digital Collection features materials from the Asian Division at the Library of Congress. The division’s Japanese Rare Book Collection comprises some 6,000 titles that span diverse genres and cover all manner of subjects. ",https://www.loc.gov/collections/japanese-rare-books/,2023-01-01,OK
+D00169,文化財総覧WebGIS,,C00053,"000, 200, 700, 900",cartographic material,各種文化財や遺跡、木簡などの発見場所を地図で確認し、その詳細をみることができる,,https://heritagemap.nabunken.go.jp/main,2023-01-01,OK
+D00170,Plateau,Plateau,C00034,"000, 300, 600, 900","cartographic material, interactive resource, other",3D都市モデルをオープンデータ化したもの。都市活動のプラットフォームデータとして 3D都市モデルを整備し、そのユースケースを創出。さらにこれをオープンデータとして公開することで、誰もが自由に都市のデータを引き出し、活用できるようになる。,,https://www.mlit.go.jp/plateau/,2023-01-01,OK
+D00171,JDCat 人文学・社会科学総合データカタログ,Japan Data Catalog for the Humanities and Social Sciences,C00073,"000, 100, 200, 300, 400, 700, 800, 900",dataset,人文学・社会科学分野データのメタデータ（データセットのコンテンツ、コンテキスト、出所などを表現する手段）の一括検索が可能なデータカタログ,,https://jdcat.jsps.go.jp,2023-01-01,OK
+D00172,書陵部所蔵資料目録・画像公開システム,,C00057,"200, 800, 900",still image,図書寮文庫が所蔵する古典籍・古文書類と宮内公文書館が所蔵する特定歴史公文書等を一度に横断検索することができる,,https://shoryobu.kunaicho.go.jp/,2023-01-01,OK
+D00173,明治期官僚・官職データベース　ver.2.1,,,900,dataset,慶応4年～明治44年5月までの官員録・職員録及び帝大卒業者・資格試験及第者をエクセルに記入し検索出きるようにしたもの。各個人が申請することでエクセル・ファイルをダウンロードし利用することができる。,,https://docs.google.com/forms/d/e/1FAIpQLSfaPdOTVMiVCVMDV1BKmvgTWSnpt0kqRq8wWybeObGy6VsVzw/viewform,2023-01-01,OK
+D00174,東京五輪アーカイブ1964-2020,,C00096,"300, 900","text, still image, cartographic material",朝日新聞社が所蔵する1964年大会当時の写真や記事を3次元地形や建物モデルに重ね検索できるようにしたもの。,,https://1964.mapping.jp/,2023-01-01,OK
+D00175,沖縄戦デジタルアーカイブ～戦世からぬ伝言（いくさゆーからぬちてーぐとぅ）,,C00093,"000, 900","text, still image, video, cartographic material",沖縄戦に関する証言（テキスト、動画）をウェブサイトで解説とともに掲載するほか、これらの情報を地図にマッピング、さらにタイムラインで動的に可視化したもの。,,https://app.okinawatimes.co.jp/sengo70/index.html,2023-01-01,OK
+D00176,東日本大震災アーカイブ,The East Japan Earthquake Archive,C00096,"000, 300, 900","text, still image, video, cartographic material",東日本大震災当時のツイートや震災に関係する方々の証言、また震災に関する動画などを地図上にマッピングして可視化したもの。,,https://shinsai.mapping.jp/index_en.html,2023-01-01,OK
+D00177,ヒロシマ・アーカイブ,Hiroshima Archive,C00018,900,"text, still image, video, cartographic material",広島平和記念資料館、広島女学院同窓会、八王子原爆被爆者の会、中国新聞社をはじめとする提供元から得られたすべての資料を、デジタル地球儀上に重層表示した多元的デジタル・アーカイブズ,"A pluralistic digital archive using the digital earth to display on it in a multilayered way all the materials gained from such sources as the Hiroshima Peace Memorial Museum, the Hiroshima Jogakuin Gaines Association, and the Hachioji Hibakusha (A-bomb Survivors) Association.",https://hiroshima.mapping.jp/index_jp.html,2023-01-01,OK
+D00178,ナガサキ・アーカイブ,Nagasaki Archive,C00008,900,"text, still image, cartographic material",長崎に投下された原爆に関する証言や写真などを地図上にマッピングして可視化したもの。,,https://n.mapping.jp/index_en.html,2023-01-01,OK
+D00179,音声コーパスリスト,,C00113,"000, 400",dataset,音声資源コンソーシアムが提供もしくは取り次ぐ言語コーパスのリスト。有償・無償野両方がリストアップされている。,,https://research.nii.ac.jp/src/list.html,2023-01-01,OK
+D00180,情報学研究データリポジトリ（IDR）,Informatics Research Data Repository,C00040,"000, 100, 300, 400, 600",dataset,音声データなど、いろいろなデータセットを民間企業や大学等研究者から受け入れて研究者に提供している。利用者はデータ一覧から希望のデータセットを探し、利用条件を確認したのち、利用申請をする。,,https://www.nii.ac.jp/dsc/idr/,2023-01-01,OK
+D00181,関東大震災映像デジタルアーカイブ,Films of the Great Kanto Earthquake of 1923,C00043,900,video,関東大震災について、国立映画アーカイブで所蔵する関連の映画フィルムなどの資料を紹介するウェブサイト,,https://kantodaishinsai.filmarchives.jp/,2023-01-01,OK
+D00182,e-Gov法令検索,,C00015,300,text,日本の法令（憲法・法律・政令・勅令・府令・省令・規則など）の内容を検索することができる。また法令データをXML形式で一括して、さらにAPIを通じても提供している。,,https://elaws.e-gov.go.jp/,2023-01-01,OK
+D00183,地震史料集テキストデータベース,,C00082,"500, 900",text,地震に関する史料を収集し、全文テキストデータベースを構築したもの。一部史料にはOCRをかけただけの校訂を経ていないものもある。,,https://materials.utkozisin.org/,2023-01-01,OK
+D00184,『人事興信録』データベース,Jinji koshinroku (who's who) Database,C00033,"000, 300, 900",text,1902年から2009年まで刊行された『人事興信録』のうち特定の版の情報から全文テキストデータを作成し、一部情報を構造化してデータベースで検索できようにしたもの。,,https://jahis.law.nagoya-u.ac.jp/who/,2023-01-01,OK
+D00185,対日指令集データベース(SCAPIN-DB),Database of Supreme Commander for the Allied Powers Directives to the Japanese Government (SCAPIN),C00033,"300, 900",text,国立国会図書館デジタルコレクションの画像などから、連合国最高司令官（SCAP）から日本政府に出された指令を全文テキストデータ化して検索可能にしたもの。,,https://jahis.law.nagoya-u.ac.jp/scapindb/,2023-01-01,OK
+D00186,裁判例データベース(明治・大正編),,C00033,"300, 900",text,明治・大正時代の裁判例を事件名、キーワード、掲載文献などから検索できる。,,https://jahis.law.nagoya-u.ac.jp/hanrei,2023-01-01,OK
+D00187,『法律新聞』データベース,,C00033,"300, 900",text,明治時代に出版された法律新聞を全文テキストデータ化して検索出来るようにしたもの。,,https://jahis.law.nagoya-u.ac.jp/%E6%B3%95%E5%BE%8B%E6%96%B0%E8%81%9E,2023-01-01,OK
+D00188,Digital 法寶義林 (Hôbôgirin),,C00020,200,text,仏教に関する百科事典『法寶義林』の内容を様々な方法（地図データや時系列）で検索出来るようにしたもの。,,https://tripitaka.l.u-tokyo.ac.jp/hbgrn/#,2023-01-01,OK
+D00189,『廣瀬本万葉集』TEI/XMLデータ,,C00112,800,text,万葉集写本の『廣瀬本万葉集』をTEIで構造化し記述したもの。Github上でCC-BYライセンスで公開されている。,,https://github.com/KU-ORCAS/manyoshuTEI,2023-01-01,OK
+D00190,Web茶まめ,,C00039,"000, 400, 800, 900",other,UniDic(現代語、古語など)をつかって形態素解析をWeb上でできるツール。HTMLやCSVなど様々な形式でエクスポートが可能。,,https://chamame.ninjal.ac.jp/,2023-01-01,OK
+D00191,学術情報交換用変体仮名 公開サイト,,C00098,"400, 600, 900","text, still image",国際文字コード規格に提案するために選定した「変体仮名」の文字画像と文字情報をデータベースで検索出来るようにしたもの。,,https://cid.ninjal.ac.jp/kana/home,2023-01-01,OK
+D00192,「古代・中世」地震・噴火史料データベース(β版),,C00032,900,text,日本の古代・中世の地震と噴火および関連事象に関する既刊の文献史料（文書・記録・典籍に記された記事）のすべてについて史料学的・理学的検討を加えて、検索の便に供するもの,,https://historical.seismology.jp/eshiryodb/,2023-01-01,OK
