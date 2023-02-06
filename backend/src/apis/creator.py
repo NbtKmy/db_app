@@ -1,5 +1,6 @@
 from flask_restful import Resource, reqparse, abort
 from flask import jsonify, request
+from werkzeug.datastructures import MultiDict
 from src.models.creator import CreatorModel, CreatorSchema
 
 
@@ -32,10 +33,15 @@ class CreatorAPI(Resource):
         kwds_dict = request.args
         page = kwds_dict.get('page', default=1, type=int)
         per_page = kwds_dict.get('per_page', default=20, type=int)
+        idStr = kwds_dict.get('id', default='*', type=str)
+        name_jaStr = kwds_dict.get('name_ja', default='*', type=str)
+        name_enStr = kwds_dict.get('name_en', default='*', type=str)
+        altnamesStr = kwds_dict.get('altnames', default='*', type=str)
 
-        kwds_dict.pop('page', default=None)
-        kwds_dict.pop('per_page', default=None)
-        results = CreatorModel.query().filter_by(**kwds_dict).order_by(CreatorModel.id).all()
+        print(name_jaStr)
+        
+        
+        results = CreatorModel.query.filter_by(id=idStr, name_ja=name_jaStr, name_en=name_enStr, altnames=altnamesStr).order_by(CreatorModel.id).all()
         if results is None:
             abort(404)
 
