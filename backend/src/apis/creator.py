@@ -30,8 +30,8 @@ class CreatorAPI(Resource):
         kwds = args_without_page.pop('per_page')
         '''
         kwds_dict = request.args
-        page = kwds_dict.get('page', default=1)
-        per_page = kwds_dict.args.get('per_page', default=20)
+        page = kwds_dict.get('page', default=1, type=int)
+        per_page = kwds_dict.get('per_page', default=20, type=int)
 
         kwds_dict.pop('page', default=None)
         kwds_dict.pop('per_page', default=None)
