@@ -59,6 +59,14 @@ class DatabaselistAPI(Resource):
         
         page_num = math.ceil(rows/per_page)
 
+         # page errors
+        if page > page_num:
+            abort(404)
+        elif page < 0:
+            abort(404)
+        else:
+            pass
+
 
         return jsonify({
             'page': page,
