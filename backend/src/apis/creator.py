@@ -33,7 +33,7 @@ class CreatorAPI(Resource):
         
         if results is None:
             abort(404)
-            
+
         results = results.order_by(CreatorModel.id)
         rows = results.count()
         offset_index = (page-1)*per_page
@@ -58,6 +58,6 @@ class CreatorAPI(Resource):
             'per_page': per_page,
             'has_next': has_next,
             'has_prev': has_prev,
-            'page_number': page_num,
+            'max_page_number': page_num,
             'creators': CreatorSchema(many=True, exclude=['geo']).dump(results)})
 

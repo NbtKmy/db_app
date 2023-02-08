@@ -40,7 +40,7 @@ class DatabaselistAPI(Resource):
         if results is None:
             abort(404)
 
-        results = results.order_by(CreatorModel.id)
+        results = results.order_by(DatabaselistModel.id)
         rows = results.count()
         offset_index = (page-1)*per_page
         results = results.limit(per_page).offset(offset_index)
@@ -65,5 +65,5 @@ class DatabaselistAPI(Resource):
             'per_page': per_page,
             'has_next': has_next,
             'has_prev': has_prev,
-            'page_number': page_num,
+            'max_page_number': page_num,
             'databases': DatabaselistSchema(many=True).dump(results)})
