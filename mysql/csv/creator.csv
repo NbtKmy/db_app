@@ -11,13 +11,13 @@ C00009,NDLラボ,NDL Lab,,,,2023-01-01
 C00010,Ohio State University Libraries,Ohio State University Libraries,,,Q65070444,2023-01-01
 C00011,SAT大藏經テキストデータベース研究会,,,,,2023-01-01
 C00012,アイヌ民族博物館,Ainu Museum,POINT(42.561388888889 141.36694444444),ポロトコタン,Q10333378,2023-01-01
-C00013,アメリカ議会図書館,Library of Congress,POINT(38.888333333333335 -77.00444444444445),LC,Q131454,2023-01-01
+C00013,アメリカ議会図書館,Library of Congress,POINT(38.88861111111111 -77.00472222222223),LC,Q131454,2023-01-01
 C00014,ダンスアーカイヴ構想,,,,,2023-01-01
 C00015,デジタル庁,Digital Agency,POINT(35.6799926 139.7357476),,Q107291492,2023-01-01
 C00016,にいがたMALUI連携・地域データベース,,,,,2023-01-01
 C00017,ハワイ大学マノア校図書館,University of Hawaii at Manoa Library,POINT(21.3000372 -157.8186711),,Q73644786,2023-01-01
 C00018,ヒロシマアーカイブ制作委員会,,,,,2023-01-01
-C00019,FLX Style,FLX Style,POINT(35.5148974 139.6338832),,Q115930476,2023-01-01
+C00019,フェリックス・スタイル,FLX Style,POINT(35.5148974 139.6338832),,Q115930476,2023-01-01
 C00020,フランス学士院碑文・文芸アカデミー,Académie des Inscriptions et Belles-Lettres,,,Q337526,2023-01-01
 C00021,ぼうずコンニャク,Bouz-Konnyaku,,,,2023-01-01
 C00022,ほぼ日刊イトイ新聞,Hobonichi,,,Q5875192,2023-01-01
@@ -114,3 +114,11 @@ C00112,関西大学アジア・オープン・リサーチセンター,Kansai Un
 C00113,音声資源コンソーシアム,,,,,2023-01-01
 C00114,鼈澤荘厳山大虚空蔵院佛法紹隆寺,,,,,2023-01-01
 C00115,神奈川県立公文書館,Kanagawa Prefectural Archives,POINT(35.46536111111111 139.521),,Q101251350,2023-01-01
+C00116,東京文化財研究所,Tokyo National Research Institute for Cultural Properties,POINT(35.7207 139.776),東文研|TNRI,Q3297795,2023-02-11
+C00117,青森県庁,Aomori prefectural government,POINT(40.82461111111111 140.74055555555555),,Q24895927,2023-02-11
+C00118,姫路市,Himeji,POINT(34.81516666666667 134.6853888888889),,Q209801,2023-02-11
+C00119,九州大学図書館,,,,,2023-02-11
+C00120,立命館大学アート・リサーチセンター,"Art Research Center, Ritsumeikan University",,,Q113159496,2023-02-11
+C00121,TRC-ADEAC,TRC-ADEAC,,,Q96137043,2023-02-11
+C00122,東北大学,Tohoku University,POINT(38.254166666667 140.87361111111),東北大|Tōhoku daigaku,Q1062129,2023-02-11
+C00123,人文情報学研究所,International Institute for Digital Humanities,POINT(35.718401 139.747278),,Q30267466,2023-02-11

@@ -1,12 +1,13 @@
 #!/bin/bash
 
-createDatabase="CREATE DATABASE IF NOT EXISTS $MYSQL_DATABASE;"
-dropTableCreator="DROP TABLE IF EXISTS $MYSQL_DATABASE.creator;"
-dropTableDatabase="DROP TABLE IF EXISTS $MYSQL_DATABASE.databaselist"
+createDatabase="CREATE DATABASE IF NOT EXISTS ${MYSQL_DATABASE};"
+dropTableCreator="DROP TABLE IF EXISTS ${MYSQL_DATABASE}.creator;"
+dropTableDatabase="DROP TABLE IF EXISTS ${MYSQL_DATABASE}.databaselist"
 
-mysql -uroot -p${MYSQL_ROOT_PASSWORD} -e "${createDatabase}${dropTableCreator}${dropTableDatabase}"
 
-createTableCreator="CREATE TABLE $MYSQL_DATABASE.creator (
+mysql -u${MYSQL_USER} -p${MYSQL_PASSWORD} -e "${createDatabase}${dropTableCreator}${dropTableDatabase}"
+
+createTableCreator="CREATE TABLE ${MYSQL_DATABASE}.creator (
   id varchar(16) NOT NULL NOT NULL UNIQUE,
   name_ja varchar(128) NOT NULL,
   name_en varchar(128),
@@ -17,7 +18,7 @@ createTableCreator="CREATE TABLE $MYSQL_DATABASE.creator (
   PRIMARY KEY (id)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;"
 
-createTableDatabaselist="CREATE TABLE $MYSQL_DATABASE.databaselist (
+createTableDatabaselist="CREATE TABLE ${MYSQL_DATABASE}.databaselist (
   id varchar(16) NOT NULL UNIQUE,
   title_ja varchar(256) NOT NULL,
   title_en varchar(256),
@@ -32,4 +33,5 @@ createTableDatabaselist="CREATE TABLE $MYSQL_DATABASE.databaselist (
   PRIMARY KEY (id)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4"
 
-mysql -uroot -p${MYSQL_ROOT_PASSWORD} -e "${createTableCreator}${createTableDatabaselist}"
+
+mysql -u${MYSQL_USER} -p${MYSQL_PASSWORD} -e "${createTableCreator}${createTableDatabaselist}"

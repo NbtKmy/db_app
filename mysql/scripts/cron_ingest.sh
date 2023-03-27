@@ -1,12 +1,15 @@
 #!/bin/bash
 
-curl -L 'https://docs.google.com/spreadsheets/d/1WSswTgqGPhKslY4iDD4Z-ZqCP3Il6zV7kNQJVzRdwJw/export?format=csv&gid=0' -o /csv_temps/creator.csv
-curl -L 'https://docs.google.com/spreadsheets/d/14YoKQgpIlIWQHrInwvs3w-SqnowpNMuXGRxZRZxRQxc/export?format=csv&gid=0' -o /csv_temps/database.csv
+# activate environmental variables
+. /scripts/env.sh
+
+curl -L "https://docs.google.com/spreadsheets/d/1WSswTgqGPhKslY4iDD4Z-ZqCP3Il6zV7kNQJVzRdwJw/export?format=csv&gid=0" -o /csv_temps/creator.csv
+curl -L "https://docs.google.com/spreadsheets/d/14YoKQgpIlIWQHrInwvs3w-SqnowpNMuXGRxZRZxRQxc/export?format=csv&gid=0" -o /csv_temps/database.csv
 
 # テーブルの更新は現段階ではtruncateをつかってまるごと交換する。
 # 数が増えたらまたいろいろ考える
-truncateCreator = "TRUNCATE TABLE $MYSQL_DATABASE.creator;"
-truncateDatabase = "TRUNCATE TABLE $MYSQL_DATABASE.databaselist;"
+truncCreator="TRUNCATE TABLE ${MYSQL_DATABASE}.creator;"
+truncDatabase="TRUNCATE TABLE ${MYSQL_DATABASE}.databaselist"
 
 
 
@@ -23,7 +26,7 @@ loadCreator="LOAD DATA LOCAL INFILE '/csv_temps/creator.csv'
             geo = IF( @geo = '', NULL, ST_GeomFromText(@geo, 4326)),
             altnames = NULLIF(@altnames, ''),
             wikidata_id = NULLIF(@wikidata_id, ''),
-            change_date = @change_date;"
+            change_date = @change_date"
 
 loadDB="LOAD DATA LOCAL INFILE '/csv_temps/database.csv'
         INTO TABLE databaselist FIELDS TERMINATED BY ',' 
@@ -44,5 +47,8 @@ loadDB="LOAD DATA LOCAL INFILE '/csv_temps/database.csv'
         change_date = @change_date,
         link_check = @link_check"
 
-mysql -u${MYSQL_USER} -p${MYSQL_PASSWORD} --local-infile ${MYSQL_DATABASE} -e"${truncateCreator}${truncateDatabase}${loadCreator}${loadDB}"
+
+mysql -u${MYSQL_USER} -p${MYSQL_PASSWORD} -e "${truncCreator}${truncDatabase}"
+mysql -u${MYSQL_USER} -p${MYSQL_PASSWORD} --local-infile ${MYSQL_DATABASE} -e "${loadCreator}"
+mysql -u${MYSQL_USER} -p${MYSQL_PASSWORD} --local-infile ${MYSQL_DATABASE} -e "${loadDB}"
 

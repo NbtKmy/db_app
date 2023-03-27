@@ -30,11 +30,32 @@ $ docker-compose up -d
 
 ここには2つのコンテナが入っていて、一つがMySQL, 一つがFlaskのAPIを動かしています。
 FlaskのはいったコンテナはMySQLのコンテナのヘルスチェックがすんでから起動するので、
-少し時間がかかります。
-無事きどうしたら、以下のURLでアクセスできるはず。
+少し時間がかかります。(30秒くらい)
+また、データベースが入っているコンテナのなかでcronをつかってデータべースを更新するので以下のコマンドでDockerに入り、
+さらにcronを起動してください。
+
+```
+$ docker-compose exec mysql bash
+# 以下コンテナ内から実行
+$ sh /scripts/for_cron.sh
+$ service cron start
+```
+
+cronジョブはデフォルトで毎週月曜の4時59分に動くようにしてあります。
+そしてそれにあわせてbackendのコンテナを再起動させてあげてください。
+
+```
+# ホストのCronで
+
+10 05 * * 0 docker-compose restart backend
+```
+
+無事起動したら、以下のURLでアクセスできるはず。
 ```
 localhost:5000
 ```
+
+
 
 APIについては以下を参照してください。
 

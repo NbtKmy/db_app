@@ -13,6 +13,7 @@ services:
       - ./mysql/data:/var/lib/mysql
       - ./mysql/csv:/csv_temps 
       - ./mysql/sqls:/docker-entrypoint-initdb.d
+      - ./mysql/logs:/var/log
     ports:
       - 3306:3306
     expose:
