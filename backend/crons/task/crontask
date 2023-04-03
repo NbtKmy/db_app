@@ -1,0 +1,2 @@
+10 05 * * 0 sh /scripts/restart_flask.sh >> /log/cron.log 2>&1
+

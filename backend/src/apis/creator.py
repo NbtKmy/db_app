@@ -23,7 +23,7 @@ class CreatorAPI(Resource):
         name_enStr = kwds_Multidict.get('name_en', default=None, type=str)
         altnamesStr = kwds_Multidict.get('altnames', default=None, type=str)
 
-        kwds_dict = { 'id': idStr, 'name_ja': name_jaStr, 'name_en': name_enStr, 'altnames': altnamesStr }
+        kwds_dict = {'id': idStr, 'name_ja': name_jaStr, 'name_en': name_enStr, 'altnames': altnamesStr}
         results = CreatorModel.query
         for key, value in kwds_dict.items():
             if value is None:
