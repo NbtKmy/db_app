@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 pkill gunicorn
 echo "restart gunicorn/flask"

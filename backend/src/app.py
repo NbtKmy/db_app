@@ -1,8 +1,8 @@
 from flask import Flask
 from flask_restful import Api
-from .src.database import init_db
-from .src.apis.creator import CreatorAllAPI, CreatorAPI
-from .src.apis.databaselist import DatabaselistAllAPI, DatabaselistAPI
+from .database import init_db
+from .apis.creator import CreatorAllAPI, CreatorAPI
+from .apis.databaselist import DatabaselistAllAPI, DatabaselistAPI
 from flask_cors import CORS
 
 

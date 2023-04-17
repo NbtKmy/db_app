@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 loadCreator="LOAD DATA LOCAL INFILE '/csv_temps/creator.csv' 
             INTO TABLE creator FIELDS TERMINATED BY ',' 

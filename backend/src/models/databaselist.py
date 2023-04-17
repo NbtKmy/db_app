@@ -1,4 +1,4 @@
-from sqlalchemy import Column, Integer, String, Text, DateTime, ForeignKey
+from sqlalchemy import Column, String, Text, DateTime, ForeignKey
 from flask_marshmallow import Marshmallow
 from flask_marshmallow.fields import fields
 from src.database import Base
@@ -10,7 +10,6 @@ ma = Marshmallow()
 
 class DatabaselistModel(Base):
     __tablename__ = 'databaselist'
-
 
     id = Column(String(32), primary_key=True, nullable=False)
     title_ja = Column(String(128), nullable=False)

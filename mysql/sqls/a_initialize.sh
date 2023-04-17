@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 createDatabase="CREATE DATABASE IF NOT EXISTS ${MYSQL_DATABASE};"
 dropTableCreator="DROP TABLE IF EXISTS ${MYSQL_DATABASE}.creator;"

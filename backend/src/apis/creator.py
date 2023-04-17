@@ -29,8 +29,7 @@ class CreatorAPI(Resource):
             if value is None:
                 continue
             results = results.filter(getattr(CreatorModel, key).like('%%%s%%' % value))
-        
-        
+                
         if results is None:
             abort(404)
 
