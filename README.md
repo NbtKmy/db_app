@@ -16,7 +16,6 @@ MYSQL_DATABASE=[データベースのなまえ]
 MYSQL_USER=[MySQLを操作するユーザー名]
 MYSQL_PASSWORD=[ユーザーのパスワード]
 MYSQL_ROOT_PASSWORD=[ルートユーザーのパスワード]
-DB_HOST=[データベースのホスト名]
 ```
 
 ファイルを作成したら、```docker-compose.yml```が入っているディレクトリにはいって、
@@ -52,7 +51,7 @@ cronジョブはデフォルトで毎週月曜の4時59分に動くようにし�
 
 無事起動したら、以下のURLでアクセスできるはず。
 ```
-localhost:5000
+localhost:5050
 ```
 
 
@@ -64,11 +63,11 @@ APIについては以下を参照してください。
 
 
 APIは以下の4つのクエリが可能です。
-1. **localhost:5000/creator/all**
+1. **localhost:5050/creator/all**
 
 データベースを作成したすべての団体名を表示。
 
-2. **localhost:5000/creator/search**
+2. **localhost:5050/creator/search**
 
 データベースを作成した団体を検索。
 
@@ -81,7 +80,7 @@ APIは以下の4つのクエリが可能です。
 
 クエリの作り方・例
 ```
-localhost:5000/creator/search?name_ja=国立&altnames=NDL
+localhost:5050/creator/search?name_ja=国立&altnames=NDL
 ```
 
 結果は20件ごとにページで区切って表示されます。
@@ -90,11 +89,11 @@ localhost:5000/creator/search?name_ja=国立&altnames=NDL
 - page =　ページ指定
 - per_page = ページあたりの最高件数
 
-3. **localhost:5000/databaselist/all**
+3. **localhost:5050/databaselist/all**
 
 登録されたすべてのデータベース表示。
 
-4. **localhost:5000/databaselist/search**
+4. **localhost:5050/databaselist/search**
 
 データべースの検索。
 パラメータは以下のとうり。
