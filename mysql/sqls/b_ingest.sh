@@ -35,6 +35,6 @@ loadDB="LOAD DATA LOCAL INFILE '/csv_temps/database.csv'
         link_check = @link_check"
 
 
-mysql -u${MYSQL_USER} -p${MYSQL_PASSWORD} --local-infile ${MYSQL_DATABASE} -e "${loadCreator}"
-mysql -u${MYSQL_USER} -p${MYSQL_PASSWORD} --local-infile ${MYSQL_DATABASE} -e "${loadDB}"
+mysql -uroot -p${MYSQL_ROOT_PASSWORD} --local-infile ${MYSQL_DATABASE} -e "${loadCreator}"
+mysql -uroot -p${MYSQL_ROOT_PASSWORD} --local-infile ${MYSQL_DATABASE} -e "${loadDB}"
 

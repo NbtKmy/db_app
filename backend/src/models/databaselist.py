@@ -2,7 +2,7 @@ from sqlalchemy import Column, String, Text, DateTime, ForeignKey
 from flask_marshmallow import Marshmallow
 from flask_marshmallow.fields import fields
 from src.database import Base
-from .creator import *
+from src.models.creator import *
 
 
 ma = Marshmallow()

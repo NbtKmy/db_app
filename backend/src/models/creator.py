@@ -6,7 +6,7 @@ from sqlalchemy import Column, String, DateTime
 from sqlalchemy import func
 from sqlalchemy.orm import relationship
 from sqlalchemy.types import UserDefinedType
-from .databaselist import DatabaselistModel, DatabaselistSchema
+from src.models.databaselist import DatabaselistModel, DatabaselistSchema
 
 ma = Marshmallow()
 

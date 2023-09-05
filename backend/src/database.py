@@ -29,8 +29,8 @@ Base.query = session.query_property()
 
 def init_db():
     
-    # import .models.creator
-    # import .models.databaselist 
-    from . import models
+    #import .models.creator
+    #import .models.databaselist
+    from src import models
     
     Base.metadata.create_all(bind=engine)

@@ -18,4 +18,4 @@ ADD ./requirements.txt $project_dir
 WORKDIR $project_dir
 RUN pip install -r requirements.txt
 
-CMD ["gunicorn", "-c", "gunicorn_conf.py", "app:app"]
+CMD ["gunicorn", "-c", "gunicorn_conf.py", "--pythonpath", "/", "app:app"]
