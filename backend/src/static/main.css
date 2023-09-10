@@ -27,6 +27,7 @@ h3 {
     align-items: center;
     flex-direction: column;
 }
+
 .result {
     width: 800px;
     text-align: left;
