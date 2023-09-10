@@ -1,1 +1,1 @@
-from . import creator, databaselist, map
+from . import creator, databaselist

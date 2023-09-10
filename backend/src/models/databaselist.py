@@ -30,5 +30,5 @@ class DatabaselistSchema(ma.SQLAlchemyAutoSchema):
         load_instance = True
 
     change_date = fields.DateTime('%Y-%m-%d')
-    creator = fields.Nested('CreatorSchema', only=('name_ja', 'name_en'))
+    creator = fields.Nested('CreatorSchema', only=('name_ja', 'name_en', 'lat', 'lon'))
     

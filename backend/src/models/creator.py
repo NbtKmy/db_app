@@ -75,21 +75,21 @@ class CreatorSchema(ma.SQLAlchemyAutoSchema):
     lon = fields.Method('get_lon')
     databases = fields.Nested('DatabaselistSchema', many=True, exculde=['creator_id', 'creator'])
 
-    def get_lat(self, obj):
-        if obj.geo is None:
-            lat = None
-            return lat
-        else:
-            x = 0                   
-            y = obj.geo.index(',')
-            lat = obj.geo[x:y]
-            return lat
-    
     def get_lon(self, obj):
         if obj.geo is None:
             lon = None
             return lon
         else:
-            s = obj.geo.index(' ') + 1
-            lon = obj.geo[s:]
+            x = 0                   
+            y = obj.geo.index(',')
+            lon = obj.geo[x:y]
             return lon
+    
+    def get_lat(self, obj):
+        if obj.geo is None:
+            lat = None
+            return lat
+        else:
+            s = obj.geo.index(' ') + 1
+            lat = obj.geo[s:]
+            return lat

@@ -3,7 +3,7 @@ from flask_restful import Api
 from database import init_db
 from src.apis import creator
 from src.apis import databaselist
-from src.sites import map
+from src.sites import map, search
 from flask_cors import CORS
 
 
@@ -27,7 +27,7 @@ def create_app():
     # bind Sites
     with app.app_context():
         app.add_url_rule('/map', view_func=map.createMap)
-
+        app.add_url_rule('/search', view_func=search.search)
 
     return app
 

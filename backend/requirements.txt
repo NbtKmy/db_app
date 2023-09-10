@@ -10,4 +10,4 @@ marshmallow-sqlalchemy
 flask-cors
 meinheld
 folium
-geojson
+branca
