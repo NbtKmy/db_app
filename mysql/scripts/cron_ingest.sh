@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # activate environmental variables
 . /scripts/env.sh

@@ -4,9 +4,7 @@ from src.models.databaselist import DatabaselistModel, DatabaselistSchema
 import math
 
 
-
 class DatabaselistAllAPI(Resource):
-
 
     def get(self):
         results = DatabaselistModel.query.all()
@@ -29,14 +27,13 @@ class DatabaselistAPI(Resource):
         description_jaStr = kwds_Multidict.get('description_ja', default=None, type=str)
         description_enStr = kwds_Multidict.get('description_en', default=None, type=str)
 
-        kwds_dict = { 'id': idStr, 'title_ja': title_jaStr, 'title_en': title_enStr, 'creator_id': creator_id, 'ddc': ddcStr, 'type': typeStr, 'description_ja': description_jaStr, 'description_en': description_enStr }
+        kwds_dict = {'id': idStr, 'title_ja': title_jaStr, 'title_en': title_enStr, 'creator_id': creator_id, 'ddc': ddcStr, 'type': typeStr, 'description_ja': description_jaStr, 'description_en': description_enStr}
         results = DatabaselistModel.query
         for key, value in kwds_dict.items():
             if value is None:
                 continue
             results = results.filter(getattr(DatabaselistModel, key).like('%%%s%%' % value))
-        
-        
+               
         if results is None:
             abort(404)
 
@@ -59,14 +56,13 @@ class DatabaselistAPI(Resource):
         
         page_num = math.ceil(rows/per_page)
 
-         # page errors
+        # page errors
         if page > page_num:
             abort(404)
         elif page < 0:
             abort(404)
         else:
             pass
-
 
         return jsonify({
             'page': page,

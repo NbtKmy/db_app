@@ -2,13 +2,14 @@ from flask_marshmallow import Marshmallow
 from flask_marshmallow.fields import fields
 from marshmallow_sqlalchemy.convert import ModelConverter
 from src.database import Base
-from sqlalchemy import Column, Integer, String, DateTime
+from sqlalchemy import Column, String, DateTime
 from sqlalchemy import func
 from sqlalchemy.orm import relationship
 from sqlalchemy.types import UserDefinedType
-from .databaselist import DatabaselistModel, DatabaselistSchema
+from src.models.databaselist import DatabaselistModel, DatabaselistSchema
 
 ma = Marshmallow()
+
 
 # Create a custom Point type
 class Point(UserDefinedType):
@@ -34,12 +35,13 @@ class Point(UserDefinedType):
         def process(value):
             if value is None:
                 return None
-            #m = re.match(r'^POINT\((\S+) (\S+)\)$', value)
-            #lng, lat = m.groups()
-            lng, lat = value[6:-1].split()  # 'POINT(135.00 35.00)' => ('135.00', '35.00')
+            
+            # 'POINT(135.00 35.00)' => ('135.00', '35.00')
+            lng, lat = value[6:-1].split()  
             geo = str(lat) + ', ' + str(lng)
             return geo
         return process
+    
 
 class CreatorModel(Base):
     __tablename__ = 'creator'
@@ -54,11 +56,13 @@ class CreatorModel(Base):
 
     databases = relationship('DatabaselistModel', backref='creator', lazy=True)
 
+
 class PointConverter(ModelConverter):
     SQLA_TYPE_MAPPING = dict(
         list(ModelConverter.SQLA_TYPE_MAPPING.items()) +
         [(Point, fields.Str)]
     )
+
 
 class CreatorSchema(ma.SQLAlchemyAutoSchema):
     class Meta:
@@ -71,21 +75,21 @@ class CreatorSchema(ma.SQLAlchemyAutoSchema):
     lon = fields.Method('get_lon')
     databases = fields.Nested('DatabaselistSchema', many=True, exculde=['creator_id', 'creator'])
 
-    def get_lat(self, obj):
-        if obj.geo is None:
-            lat = None
-            return  lat
-        else:
-            x = 0                   
-            y = obj.geo.index(',')
-            lat = obj.geo[x:y]
-            return lat
-    
     def get_lon(self, obj):
         if obj.geo is None:
             lon = None
             return lon
         else:
-            s = obj.geo.index(' ') + 1
-            lon = obj.geo[s:]
+            x = 0                   
+            y = obj.geo.index(',')
+            lon = obj.geo[x:y]
             return lon
+    
+    def get_lat(self, obj):
+        if obj.geo is None:
+            lat = None
+            return lat
+        else:
+            s = obj.geo.index(' ') + 1
+            lat = obj.geo[s:]
+            return lat

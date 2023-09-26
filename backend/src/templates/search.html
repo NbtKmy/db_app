@@ -1,0 +1,57 @@
+{% extends 'app.html' %}
+{% block content %}
+    <div class="contents">
+        <h3 class="headline">日本語で検索してね</h3>
+        <div class="search">
+                    <form>
+                        <input type="text" name="search">
+                        <input type="submit" value="検索">
+                    </form>
+                </div>
+            {% if results is none %}
+                <div class="results_container">
+                    <h3>検索語を入力してください。</h3>
+                </div>
+            {% elif results | length == 0 %}
+                <div class="results_container">
+                    <h3>検索結果がありませんでした。ごめんね。</h3>
+                </div>
+            {% else %}
+                <div class="results_container">
+                    <h3>Results</h3>
+                    {% for i in range(results|length) %}
+                    {% if i % 2 != 0 %}
+                    <div class="result white">
+                        <div class="title">
+                            <p><b>{{results[i].title_ja}}</b></p>
+                        </div>
+                        {% if results[i].description_ja is not none %}
+                        <div class="description">
+                            <p>{{results[i].description_ja}}</p>
+                        </div>
+                        {% endif %}
+                        <div class="link">
+                            <a href="{{results[i].url}}" target="_blank">Link</a>
+                        </div>
+                    </div>
+                    {% else %}
+                    <div class="result azure">
+                        <div class="title">
+                            <p><b>{{results[i].title_ja}}</b></p>
+                        </div>
+                        {% if results[i].description_ja is not none %}
+                        <div class="description">
+                            <p>{{results[i].description_ja}}</p>
+                        </div>
+                        {% endif %}
+                        <div class="link">
+                            <a href="{{results[i].url}}" target="_blank">Link</a>
+                        </div>
+                    </div>
+                    {% endif %}
+                    {% endfor %}
+                </div>
+            {% endif %}
+    </div>
+
+{% endblock %}

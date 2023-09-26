@@ -1,8 +1,8 @@
-from sqlalchemy import Column, Integer, String, Text, DateTime, ForeignKey
+from sqlalchemy import Column, String, Text, DateTime, ForeignKey
 from flask_marshmallow import Marshmallow
 from flask_marshmallow.fields import fields
 from src.database import Base
-from .creator import *
+from src.models.creator import *
 
 
 ma = Marshmallow()
@@ -10,7 +10,6 @@ ma = Marshmallow()
 
 class DatabaselistModel(Base):
     __tablename__ = 'databaselist'
-
 
     id = Column(String(32), primary_key=True, nullable=False)
     title_ja = Column(String(128), nullable=False)
@@ -31,5 +30,5 @@ class DatabaselistSchema(ma.SQLAlchemyAutoSchema):
         load_instance = True
 
     change_date = fields.DateTime('%Y-%m-%d')
-    creator = fields.Nested('CreatorSchema', only=('name_ja', 'name_en'))
+    creator = fields.Nested('CreatorSchema', only=('name_ja', 'name_en', 'lat', 'lon'))
     

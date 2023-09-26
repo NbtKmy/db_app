@@ -8,3 +8,6 @@ gunicorn
 flask_marshmallow
 marshmallow-sqlalchemy
 flask-cors
+meinheld
+folium
+branca
