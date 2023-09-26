@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/583373633.svg)](https://zenodo.org/badge/latestdoi/583373633)
+
+
 # 日本学関連データベースリストのデータベースつくった
 
 DockerとDocker-composeさえあれば動くデータベースです。
